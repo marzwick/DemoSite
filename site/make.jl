@@ -1,4 +1,4 @@
 using Documenter
 
-makedocs(sitename="DocumenterSiteTemplate")
-deploydocs(repo="github.com/Tiny-Earth/DocumenterSiteTemplate.git")
+makedocs(sitename="DemoSite")
+deploydocs(repo="github.com/Tiny-Earth/DemoSite.git")
