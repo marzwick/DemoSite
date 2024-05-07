@@ -8,7 +8,7 @@ makedocs(
         "assets/style.css",
         "assets/script.js"
     ]),
-    pages = YAML.read_file("toc.yaml")
+    pages = YAML.load_file("toc.yaml")
 )
 
 deploydocs(repo="github.com/Tiny-Earth/DemoSite.git")
