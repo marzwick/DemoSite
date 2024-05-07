@@ -15,7 +15,7 @@ jobs:
           version: '1'
       - run: |
           julia --project=site -e '
-            import Pkg; Pkg.add("Documenter"); Pkg.add("YAML")
+            import Pkg; Pkg.add(["Documenter", "DocumenterCitations", "YAML"])
             using Pkg
             Pkg.develop(PackageSpec(path=pwd()))
             Pkg.instantiate()'

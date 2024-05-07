@@ -1,3 +1,4 @@
-Home: index.md
-Example Section:
-- example/markdown-examples.md
+- Home: index.md
+- Example Section:
+  - example/markdown-examples.md
+- References: refs.md

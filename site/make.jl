@@ -1,4 +1,5 @@
 using Documenter
+using DocumenterCitations
 using YAML
 
 # Helper to get the YAML return type coverted for makedocs correctly
@@ -14,7 +15,10 @@ makedocs(
         "assets/style.css",
         "assets/script.js"
     ]),
-    pages = process(YAML.load_file("site/toc.yaml"))
+    plugins=[
+        CitationBibliography(joinpath(@__DIR__, "src", "refs.bib"))
+    ],
+    pages = collect(Iterators.flatten(process(YAML.load_file("site/toc.yaml"))))
 )
 
 # Deploy the website

@@ -16,6 +16,8 @@ This is a numbered list:
 
 This is **bold** and *italic*.
 
+This is a citation [BrifNJP2010](@cite)
+
 And [this is a link to Google](https://google.com/)
 
 ## This is a subsection heading
