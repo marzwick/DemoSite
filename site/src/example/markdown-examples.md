@@ -20,6 +20,10 @@ This is a citation [BrifNJP2010](@cite)
 
 And [this is a link to Google](https://google.com/)
 
+Here is an image:
+
+![alt text goes here](https://tinyearth.wisc.edu/wp-content/uploads/2021/10/cropped-512-400x400.png)
+
 ## This is a subsection heading
 
 ### This is a subsubsection heading
@@ -27,10 +31,16 @@ And [this is a link to Google](https://google.com/)
 !!! question "Question time!"
     This is a question!
 
-    - anything indented inside
+    - Anything indented inside
     - this block is
     - considered
 
     part of this question.
+
+    ```@raw html
+    <details><summary>Answer</summary>
+        The answer can be hidden here!
+    </details>
+    ```
 
 This is after the question, back to business as usual.
