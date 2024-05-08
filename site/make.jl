@@ -11,10 +11,13 @@ process(x::Vector) = process.(x)
 makedocs(
     sitename="DemoSite",
     # authors="Mariah A. Knowles <snotskie@gmail.com> and contributors", # TODO
-    format=Documenter.HTML(assets=[
-        "assets/style.css",
-        "assets/script.js"
-    ]),
+    format=Documenter.HTML(
+        assets=[
+            "assets/style.css",
+            "assets/script.js"
+        ],
+        # footer="todo" # TODO set custom footer markdown
+    ),
     plugins=[
         CitationBibliography(joinpath(@__DIR__, "src", "refs.bib"))
     ],
