@@ -1,7 +1,3 @@
-# Landing Page
+# Scientific Teaching Course
 
-landing page
-
-## Testing live edit
-
-Testing
+*Coming soon!*

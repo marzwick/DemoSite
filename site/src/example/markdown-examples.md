@@ -16,7 +16,13 @@ This is a numbered list:
 
 This is **bold** and *italic*.
 
-This is a citation [BrifNJP2010](@cite)
+This is a citation [handelsman_achieving_2022](@cite)
+
+This is the same citation [handelsman_achieving_2022](@cite)
+
+This is the same citation [handelsman_achieving_2022](@cite)
+
+This a different citation [Moss-Racusin2012-cm](@cite)
 
 And [this is a link to Google](https://google.com/)
 

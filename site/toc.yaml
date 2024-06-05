@@ -1,4 +1,29 @@
-- Home: index.md
-- Example Section:
-  - example/markdown-examples.md
-- References: refs.md
+# - index.md
+# - intro.md
+# - inclusive.md
+# - learning.md
+# - design.md
+# - experiences.md
+# - summative.md
+# - structure.md
+# - outro.md
+# - resources.md
+# - refs.md
+# - contributing.md
+
+- index.md
+- Part One:
+  - intro.md
+  - inclusive.md
+  - learning.md
+- Part Two:
+  - design.md
+  - experiences.md
+  - summative.md
+  - structure.md
+- Part Three:
+  - outro.md
+- Appendix:
+  - resources.md
+  - refs.md
+  - contributing.md
