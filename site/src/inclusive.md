@@ -1,5 +1,7 @@
 # Inclusive Learning
 
+`TODO insert vignette videos from Sarah K here`
+
 ## Module Goals
 
 In this module, we hope you will...
@@ -119,65 +121,11 @@ Image source: [handelsman_achieving_2022](@cite)
 
 ## A Framework for Inclusive Learning
 
-```@setup fivedims
-using Luxor
-
-@svg begin
-    # Set font
-    fontsize(16)
-    fontface("Helvetica-Bold")
-
-    # Plot title
-    top = Point(0, -220)
-    setcolor("black"); text("Five Dimensions of\nInclusive Teaching", top, halign=:center, valign=:top)
-
-    # Draw circles with text
-    climate = Point(0,0)
-    setcolor("#209cee"); circle(climate, 50, action=:fill)
-    setcolor("white"); text("Climate", climate, halign=:center, valign=:middle)
-
-    instructors = Point(0, -140)
-    setcolor("#209cee"); circle(instructors, 50, action=:fill)
-    setcolor("white"); text("Instructors", instructors, halign=:center, valign=:middle)
-
-    students = Point(0, 140)
-    setcolor("#209cee"); circle(students, 50, action=:fill)
-    setcolor("white"); text("Students", students, halign=:center, valign=:middle)
-
-    curriculum = Point(-140, 0)
-    setcolor("#209cee"); circle(curriculum, 50, action=:fill)
-    setcolor("white"); text("Curriculum", curriculum, halign=:center, valign=:middle)
-
-    pedagogy = Point(140, 0)
-    setcolor("#209cee"); circle(pedagogy, 50, action=:fill)
-    setcolor("white"); text("Pedagogy", pedagogy, halign=:center, valign=:middle)
-
-    # Connect Climate to the other four
-    setcolor("#209cee")
-    points = [instructors, pedagogy, students, curriculum]
-    for point in points
-        arrow(between(climate, point, [.5, .6])..., linewidth=4)
-        arrow(between(point, climate, [.5, .6])..., linewidth=4)
-    end
-
-    # Connect each of the outer points to their neighbors before/after them
-    for a in eachindex(points)
-        b = a + 1
-        if b > length(points)
-            b = 1
-        end
-
-        arrow(between(points[a], points[b], [.5, .7])..., linewidth=4)
-        arrow(between(points[b], points[a], [.5, .7])..., linewidth=4)
-    end
-end 444 444 "assets/five-dimensions-of-inclusive-teaching.svg"
-```
-
 ![TODO alt text](assets/five-dimensions-of-inclusive-teaching.svg)
 
 `TODO what is the citation for this?`
 
-There are five dimensions to inclusive teaching:
+Recall the five dimensions to inclusive teaching:
 
 - **Who we are:** We can be aware of how our social, emotional, and pedagogical perspectives shape how we teach.
 - **Who we teach:** We can plan meaningful interactions when we are aware of the many dimensions of our students.
@@ -503,7 +451,9 @@ Yet students may not think failure is productive:
 - Fear of failure— “cognitive and emotional reaction towards environmental stimuli that are apprehended as threats in achievement contexts” (Cacciotti, 2015).
 - Fear is antithetical to learning and creativity.
  
-Growth mindset opportunity! Reframe how you and your students think about the role of failure:
+### Growth mindset opportunity!
+
+Reframe how you and your students think about the role of failure:
 
 - Instead of: *My experiment failed. I am a failure.*
 - Move toward: *What went wrong? How can I change it next time? What can I learn from it?*
