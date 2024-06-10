@@ -5,7 +5,7 @@
 ```@raw html
 <!-- Temporary: hide TODO comments for Symposium review -->
 <style>
-    code {display: none}
+    pre, code {display: none}
 </style>
 ```
 

@@ -225,7 +225,7 @@ Example discriminatory practices:
 
 ![TODO alt text](assets/actions-to-create-inclusive-stem-college-classrooms.png)
 
-[handelsman_achieving_2022](@cite)
+Source: [handelsman_achieving_2022](@cite)
 
 We need more:
 
@@ -258,7 +258,7 @@ The rapid expansion of many scientific frontiers places the onus on science educ
 
 **Scientific teaching is needed because diversity is important to science:**
 
-Teaching science in a way that reflects how science is done can broaden participation in STEM. When students actively engage in authentic scientific practices, they develop a more robust scientific self-efficacy and identity [estrada_toward_2011](@cite). When students from witness diverse scientist identities and engage in real-world problems, it allows a broader range of students to connect with and envision themselves as part of the scientific community. These factors – positive self-efficacy, identity, and connection with scientific values – lead to increased persistence in STEM, especially for students from communities that have been historically excluded [estrada_toward_2011](@cite). Broadening participation in STEM is essential for asking meaningful questions, addressing inequities, and ensuring that STEM benefits everyone.
+Teaching science in a way that reflects how science is done can broaden participation in STEM. When students actively engage in authentic scientific practices, they develop a more robust scientific self-efficacy and identity [estrada_toward_2011](@cite). When students witness diverse scientist identities and engage in real-world problems, it allows a broader range of students to connect with and envision themselves as part of the scientific community. These factors – positive self-efficacy, identity, and connection with scientific values – lead to increased persistence in STEM, especially for students from communities that have been historically excluded [estrada_toward_2011](@cite). Broadening participation in STEM is essential for asking meaningful questions, addressing inequities, and ensuring that STEM benefits everyone.
 
 ### The Facets of Science
 
@@ -569,103 +569,189 @@ There are five dimensions to inclusive teaching:
 
 Scientific teaching offers a natural structure for teaching that parallels our scientific research, as well as the scientific practices we are asking our students to learn. 
 
-### Science Practices
+```@raw html
+<figure>
+    <figcaption>
+        <p><strong id="table1-label">Table 1. Parallels in Science Practices</strong><br><span id="table1-summary">Description here.</span></p>
+    </figcaption>
+    <table aria-labelledby="table1-label" aria-describedby="table1-summary">
+        <tr>
+            <th>What Students Do</th>
+            <th>What Instructors Do</th>
+        </tr>
+        <tr>
+            <td>Ask questions about scientific concepts</td>
+            <td>Ask questions about instructional interventions and outcomes</td>
+        </tr>
+        <tr>
+            <td>Develop and use models</td>
+            <td>Develop and use instructional models</td>
+        </tr>
+        <tr>
+            <td>Plan and carry out investigations</td>
+            <td>Plan and carry out educational investigations</td>
+        </tr>
+        <tr>
+            <td>Analyze and interpret data</td>
+            <td>Analyze and interpret learning data</td>
+        </tr>
+        <tr>
+            <td>Use math and computational thinking to answer research questions</td>
+            <td>Use math and computational thinking to answer questions</td>
+        </tr>
+        <tr>
+            <td>Construct explanations for experimental outcomes</td>
+            <td>Construct explanations for educational outcomes</td>
+        </tr>
+        <tr>
+            <td>Engage in scientific arguments constructed from evidence</td>
+            <td>Engage in educational arguments constructed from evidence</td>
+        </tr>
+        <tr>
+            <td>Obtain, evaluate, and communicate information about scientific discoveries</td>
+            <td>Obtain, evaluate, and communicate information about learning outcomes</td>
+        </tr>
+    </table>
+</figure>
+```
 
-**What Students Do:**
+```@raw html
+<figure>
+    <figcaption>
+        <p><strong id="table2-label">Table 2. Parallels in Iteration</strong><br><span id="table2-summary">Description here.</span></p>
+    </figcaption>
+    <table aria-labelledby="table2-label" aria-describedby="table2-summary">
+        <tr>
+            <th>What Students Do</th>
+            <th>What Instructors Do</th>
+        </tr>
+        <tr>
+            <td>Replicate and reproduce scientific experiments</td>
+            <td>Replicate and reproduce educational experiments</td>
+        </tr>
+        <tr>
+            <td>Troubleshoot failed experiments</td>
+            <td>Troubleshoot failed experiments</td>
+        </tr>
+        <tr>
+            <td>Identify and resolve lab problems</td>
+            <td>Identify and resolve educational problems</td>
+        </tr>
+    </table>
+</figure>
+```
 
-- Ask questions about scientific concepts
-- Develop and use models
-- Plan and carry out investigations
-- Analyze and interpret data
-- Use math and computational thinking to answer research questions
-- Construct explanations for experimental outcomes
-- Engage in scientific arguments constructed from evidence
-- Obtain, evaluate, and communicate information about scientific discoveries
+```@raw html
+<figure>
+    <figcaption>
+        <p><strong id="table3-label">Table 3. Parallels in Discovery</strong><br><span id="table3-summary">Description here.</span></p>
+    </figcaption>
+    <table aria-labelledby="table3-label" aria-describedby="table3-summary">
+        <tr>
+            <th>What Students Do</th>
+            <th>What Instructors Do</th>
+        </tr>
+        <tr>
+            <td>Do scientific research tasks that have unknown outcomes</td>
+            <td>Do educational research tasks or make inquiries that have unknown outcomes</td>
+        </tr>
+        <tr>
+            <td>Become aware of the history and culture of science (who has participated and who has benefited)</td>
+            <td>Become aware of the history and culture of STEM education (who has participated and who has benefited)</td>
+        </tr>
+    </table>
+</figure>
+```
 
-**What Instructors Do:**
+```@raw html
+<figure>
+    <figcaption>
+        <p><strong id="table4-label">Table 4. Parallels in Authenticity</strong><br><span id="table4-summary">Description here.</span></p>
+    </figcaption>
+    <table aria-labelledby="table4-label" aria-describedby="table4-summary">
+        <tr>
+            <th>What Students Do</th>
+            <th>What Instructors Do</th>
+        </tr>
+        <tr>
+            <td>Actively do the type of work that professional science researchers do</td>
+            <td>Actively do the type of work that professional STEM education researchers do</td>
+        </tr>
+        <tr>
+            <td>Intellectually engage in scientific discovery, innovation, iteration, and collaboration</td>
+            <td>Intellectually engage in educational discovery, innovation, iteration, and collaboration</td>
+        </tr>
+        <tr>
+            <td>Build on previous scientific knowledge by using published methods and studies</td>
+            <td>Build on previous STEM education knowledge by using published methods and studies</td>
+        </tr>
+        <tr>
+            <td>Examine new scientific protocols when needed</td>
+            <td>Examine new STEM education protocols when needed</td>
+        </tr>
+        <tr>
+            <td>Learn and develop while engaging in scientific practices</td>
+            <td>Learn and develop while engaging in education practices</td>
+        </tr>
+        <tr>
+            <td>Assume increasing ownership of scientific research over time with structure and guidance by a mentor or teacher</td>
+            <td>Assume increasing ownership of educational practices over time with structure and guidance by a mentor or teacher</td>
+        </tr>
+    </table>
+</figure>
+```
 
-- Ask questions about instructional interventions and outcomes
-- Develop and use instructional models
-- Plan and carry out educational investigations
-- Analyze and interpret learning data
-- Use math and computational thinking to answer questions
-- Construct explanations for educational outcomes
-- Engage in educational arguments constructed from evidence
-- Obtain, evaluate, and communicate information about learning outcomes
+```@raw html
+<figure>
+    <figcaption>
+        <p><strong id="table5-label">Table 5. Parallels in Ownership</strong><br><span id="table5-summary">Description here.</span></p>
+    </figcaption>
+    <table aria-labelledby="table5-label" aria-describedby="table5-summary">
+        <tr>
+            <th>What Students Do</th>
+            <th>What Instructors Do</th>
+        </tr>
+        <tr>
+            <td>Have a sense of responsibility for scientific research findings</td>
+            <td>Have a sense of responsibility for educational outcomes</td>
+        </tr>
+        <tr>
+            <td>Have a personal connection to scientific research</td>
+            <td>Have a personal connection to STEM education</td>
+        </tr>
+        <tr>
+            <td>Feel emotional responses such as joy or surprise at the outcomes of scientific research</td>
+            <td>Feel emotional responses such as joy or surprise at the outcomes of STEM education research</td>
+        </tr>
+    </table>
+</figure>
+```
 
-### Iteration
-
-**What Students Do:**
-
-- Replicate and reproduce scientific experiments
-- Troubleshoot failed experiments
-- Identify and resolve lab problems
-
-**What Instructors Do:**
-
-- Replicate and reproduce educational experiments
-- Troubleshoot failed experiments
-- Identify and resolve educational problems
-
-### Discovery
-
-**What Students Do:**
-
-- Do scientific research tasks that have unknown outcomes
-- Become aware of the history and culture of science (who has participated and who has benefited)
-
-**What Instructors Do:**
-
-- Do educational research tasks or make inquiries that have unknown outcomes
-- Become aware of the history and culture of STEM education (who has participated and who has benefited)
-
-### Authenticity
-
-**What Students Do:**
-
-- Actively do the type of work that professional science researchers do
-- Intellectually engage in scientific discovery, innovation, iteration, and collaboration
-- Build on previous scientific knowledge by using published methods and studies
-- Examine new scientific protocols when needed
-- Learn and develop while engaging in scientific practices
-- Assume increasing ownership of scientific research over time with structure and guidance by a mentor or teacher
-
-**What Instructors Do:**
-
-- Actively do the type of work that professional STEM education researchers do
-- Intellectually engage in educational discovery, innovation, iteration, and collaboration
-- Build on previous STEM education knowledge by using published methods and studies
-- Examine new STEM education protocols when needed
-- Learn and develop while engaging in education practices
-- Assume increasing ownership of educational practices over time with structure and guidance by a mentor or teacher
-
-### Ownership
-
-**What Students Do:**
-
-- Have a sense of responsibility for scientific research findings
-- Have a personal connection to scientific research
-- Feel emotional responses such as joy or surprise at the outcomes of scientific research
-
-**What Instructors Do:**
-
-- Have a sense of responsibility for educational outcomes
-- Have a personal connection to STEM education
-- Feel emotional responses such as joy or surprise at the outcomes of STEM education research
-
-### Relevance
-
-**What Students Do:**
-
-- Share scientific research findings outside the classroom
-- Work on a scientific topic that has relevance beyond the course
-- Consider the outcomes and applications of scientific discoveries
-
-**What Instructors Do:**
-
-- Share STEM education research findings outside the classroom
-- Work on STEM education reform that has relevance beyond your own teaching or classroom
-- Consider the outcomes and applications of STEM education discoveries
+```@raw html
+<figure>
+    <figcaption>
+        <p><strong id="table6-label">Table 6. Parallels in Relevance</strong><br><span id="table6-summary">Description here.</span></p>
+    </figcaption>
+    <table aria-labelledby="table6-label" aria-describedby="table6-summary">
+        <tr>
+            <th>What Students Do</th>
+            <th>What Instructors Do</th>
+        </tr>
+        <tr>
+            <td>Share scientific research findings outside the classroom</td>
+            <td>Share STEM education research findings outside the classroom</td>
+        </td>
+        <tr>
+            <td>Work on a scientific topic that has relevance beyond the course</td>
+            <td>Work on STEM education reform that has relevance beyond your own teaching or classroom</td>
+        </td>
+        <tr>
+            <td>Consider the outcomes and applications of scientific discoveries</td>
+            <td>Consider the outcomes and applications of STEM education discoveries</td>
+        </td>
+    </table>
+</figure>
+```
 
 !!! warning "Workbook"
 
