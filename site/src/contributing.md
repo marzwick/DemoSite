@@ -193,63 +193,63 @@ savefig(p, "assets/fruit-in-my-cart.svg")
 ![Example bar plot about fruit](assets/fruit-in-my-cart.svg)
 ````
 
-### Engagements and Workbook Activities
+### Activities and Workbooks
 
-For engagements that are simple, reflective questions, use this format:
+For activities that are simple, reflective questions, use this format:
 
-!!! note "Engagement Title"
+!!! note "Activity Title"
 
-    Write your question and engagement content here!
+    Write your question and activity content here!
 
 ```md
-!!! note "Engagement Title"
+!!! note "Activity Title"
 
-    Write your question and engagement content here!
+    Write your question and activity content here!
 ```
 
-For engagements that have fill in the blank answers, use this format:
+For activities that have fill in the blank answers, use this format:
 
-!!! note "Engagement Title"
+!!! note "Activity Title"
 
     Write your ____ and ____ content here!
     
-    (This is the question part of the engagement)
+    (This is the question part of the activity)
 
     ```@raw html
     <details><summary>Click here to reveal the answer!</summary>
     ```
 
-    question and engagement
+    question and activity
     
-    (This is the hidden answer part of the engagement that can be revealed)
+    (This is the hidden answer part of the activity that can be revealed)
 
     ```@raw html
     </details>
     ```
 
 ````md
-!!! note "Engagement Title"
+!!! note "Activity Title"
 
     Write your ____ and ____ content here!
     
-    (This is the question part of the engagement)
+    (This is the question part of the activity)
 
     ```@raw html
     <details><summary>Click here to reveal the answer!</summary>
     ```
 
-    question and engagement
+    question and activity
     
-    (This is the hidden answer part of the engagement that can be revealed)
+    (This is the hidden answer part of the activity that can be revealed)
 
     ```@raw html
     </details>
     ```
 ````
 
-For engagements that have multiple choice answers, use this format:
+For activities that have multiple choice answers, use this format:
 
-!!! note "Engagement Title"
+!!! note "Activity Title"
 
     Where is Tiny Earth HQ located?
 
@@ -269,7 +269,7 @@ For engagements that have multiple choice answers, use this format:
     ```
 
 ````md
-!!! note "Engagement Title"
+!!! note "Activity Title"
 
     Where is Tiny Earth HQ located?
 

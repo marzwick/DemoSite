@@ -2,6 +2,13 @@
 
 `TODO insert vignette videos from Sarah K here`
 
+```@raw html
+<!-- Temporary: hide TODO comments for Symposium review -->
+<style>
+    code {display: none}
+</style>
+```
+
 ## Module Goals
 
 By taking this module, we hope you will be able to...
@@ -236,7 +243,7 @@ Change can be achieved at many levels. Policy decisions can be improved when pol
 
     Find one or more reports from your country. What STEM education inequities plague your country?
 
-!!! warning "TODO workbook name"
+!!! warning "Workbook"
 
     Complete Activity TK in your workbook: Commit to:
 
@@ -318,7 +325,7 @@ In order to achieve these goals, we need to teach in a way that intentionally en
 - **Ownership:** Develop a sense of responsibility for and personal connection to  research findings
 - **Relevance:** Apply the outcomes and applications of scientific discoveries to real world-contexts
 
-!!! note "TODO engagement name"
+!!! note "Activity"
 
     `TODO where is the full citation used below?`
 
@@ -330,7 +337,7 @@ In order to achieve these goals, we need to teach in a way that intentionally en
 
     Which facets of science belong in each category?
 
-!!! note "TODO engagement name"
+!!! note "Activity"
 
     Compare the following two course schedules with the facets of science in mind.
 
@@ -344,40 +351,89 @@ In order to achieve these goals, we need to teach in a way that intentionally en
     - How well does it embody **Relevance**, high, medium, or low?
 
     ```@raw html
-    <details><summary>Click here to show the first course schedule</summary>
+    <details><summary>Click here to show the Course 1 Schedule</summary>
     ```
 
-    **Course 1 Schedule:**
+    **Week 1:**
+    
+    - Before class, complete a reading and a quiz.
+    - In class we will discuss: What are the facets of science?
+    - And in Lab: Orientation to the lab, research, and discovery by diverse scientists; and importance of lab safety and sterile technique.
 
-    - Week 1: Before class, complete a reading and a quiz. In class we will discuss: What are the facets of science? And in Lab: Orientation to the lab, research, and discovery by diverse scientists; and importance of lab safety and sterile technique.
-    - Week 2: Before class, complete a reading and a quiz. In class we will discuss: Evolution. And in lab: Ask 3 research questions about antibiotic discovery. Pick one. Generate a hypothesis and design an experiment to test it.
-    - Week 3: Before class, complete a reading and a quiz. In class we will discuss: Antibiotic discovery and resistance. And in lab: Test your hypothesis: Collect and plate soil samples. Include replicates.
-    - Week 4: Before class, watch a video and complete a worksheet. In class we will discuss: What role does evidence play in discovery?. And in lab: Test your hypothesis: Observe and record data. Re-test if needed.
-    - Week 5: Before class, complete a reading and a quiz. In class we will discuss: What role does diversity play in discovery?. And in lab: Test your hypothesis: Analyze data. Draw graphs, figures, and tables.
-    - Week 6: Before class, complete a take home mid-term exam. In class we will check-in about the exam. And in lab: Submit a summary of results so far. Do they support your hypothesis? Propose your next experiments; get feedback from lab partners.
+    **Week 2:**
+    
+    - Before class, complete a reading and a quiz.
+    - In class we will discuss: Evolution.
+    - And in lab: Ask 3 research questions about antibiotic discovery. Pick one. Generate a hypothesis and design an experiment to test it.
+
+    **Week 3:**
+    
+    - Before class, complete a reading and a quiz.
+    - In class we will discuss: Antibiotic discovery and resistance.
+    - And in lab: Test your hypothesis: Collect and plate soil samples. Include replicates.
+
+    **Week 4:**
+    
+    - Before class, watch a video and complete a worksheet.
+    - In class we will discuss: What role does evidence play in discovery?.
+    - And in lab: Test your hypothesis: Observe and record data. Re-test if needed.
+
+    **Week 5:**
+    
+    - Before class, complete a reading and a quiz.
+    - In class we will discuss: What role does diversity play in discovery?.
+    - And in lab: Test your hypothesis: Analyze data. Draw graphs, figures, and tables.
+
+    **Week 6:**
+    
+    - Before class, complete a take home mid-term exam.
+    - In class we will check-in about the exam.
+    - And in lab: Submit a summary of results so far. Do they support your hypothesis? Propose your next experiments; get feedback from lab partners.
+
 
     ```@raw html
     </details>
     ```
 
     ```@raw html
-    <details><summary>Click here to show the second course schedule</summary>
+    <details><summary>Click here to show the Course 2 Schedule</summary>
     ```
 
-    **Course 2 Schedule:**
+    **Week 1:**
+    
+    - To prepare for lecture, read chapters 1 and 2.
+    - In lab: Lab safety.
 
-    - Week 1: To prepare for lecture, read chapters 1 and 2. In lab: Lab safety.
-    - Week 2: To prepare for lecture, read chapters 3 and 4. In lab: Pipetting.
-    - Week 3: To prepare for lecture, read chapters 5. In lab: Sterile technique.
-    - Week 4: To prepare for lecture, read chapters 6 and 7. In lab: Plating microbes.
-    - Week 5: To prepare for lecture, read chapters 8. In lab: Gram positive and negative bacteria.
-    - Week 6: In class we will complete Exam 1 (multiple choice). In lab: Lab report due.
+    **Week 2:**
+    
+    - To prepare for lecture, read chapters 3 and 4.
+    - In lab: Pipetting.
+
+    **Week 3:**
+    
+    - To prepare for lecture, read chapters 5.
+    - In lab: Sterile technique.
+
+    **Week 4:**
+    
+    - To prepare for lecture, read chapters 6 and 7.
+    - In lab: Plating microbes.
+
+    **Week 5:**
+    
+    - To prepare for lecture, read chapters 8.
+    - In lab: Gram positive and negative bacteria.
+
+    **Week 6:**
+    
+    - In class we will complete Exam 1 (multiple choice).
+    - In lab: Lab report due.
 
     ```@raw html
     </details>
     ```
 
-!!! warning "TODO workbook name"
+!!! warning "Workbook"
 
     Complete Activity TK in your workbook:
 
@@ -417,7 +473,7 @@ Scientific teaching aims to bring a philosophy and framework to teaching that ma
 
 Like science, these teaching principles take time to practice and implement. Also like science, we advocate that you select from practices that demonstrate positive student outcomes and carefully evaluate which approaches will work in your context.
 
-!!! warning "TODO workbook name"
+!!! warning "Workbook"
 
     Complete Activity TK in your workbook:
 
@@ -499,17 +555,15 @@ There are five dimensions to inclusive teaching:
 - **How we teach:** We can impact learning by implementing evidence-based teaching practices and creating engaging activities with aligned assessments. 
 - **And how the class is designed:** We can create an environment that enriches student learning through supportive structure and peer connections.
 
-!!! note "TODO engagement name"
+!!! note "Activity"
 
     Individual reflection: Which dimension(s) do you tend to think about most naturally in your teaching?
     
     Which dimension(s) will require more attention for you to consider?
 
-!!! warning "TODO workbook name"
+!!! warning "Workbook"
 
-    Complete Activity TK in your workbook: Commit to one action you could take to address each of the five dimensions of diversity and equity. 
-
-    `TODO is it the five dims of Inclusive Teaching or of D and E?`
+    Complete Activity TK in your workbook: Commit to one action you could take to address each of the five dimensions of inclusive teaching. 
 
 ## Scientific Teaching in Practice
 
@@ -613,7 +667,7 @@ Scientific teaching offers a natural structure for teaching that parallels our s
 - Work on STEM education reform that has relevance beyond your own teaching or classroom
 - Consider the outcomes and applications of STEM education discoveries
 
-!!! warning "TODO workbook name"
+!!! warning "Workbook"
 
     Complete Activity TK in your workbook: Commit to one action you could take to put scientific teaching in practice with respect to students learning science and for you, the instructor, teaching science.
 

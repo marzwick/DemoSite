@@ -2,6 +2,13 @@
 
 `TODO insert vignette videos from Sarah K here`
 
+```@raw html
+<!-- Temporary: hide TODO comments for Symposium review -->
+<style>
+    code {display: none}
+</style>
+```
+
 ## Module Goals
 
 In this module, we hope you will...
@@ -143,7 +150,7 @@ Awareness of students helps to develop learning goals and teaching approaches an
 
 Your identity matters. Consider the identities that you bring to the learning environment and how they influence your perspectives and the learning environment.
 
-!!! note "TODO engagement name"
+!!! note "Activity"
 
     What identities do you bring to the learning experiences and interactions within that course?
 
@@ -168,7 +175,7 @@ Your identity matters. Consider the identities that you bring to the learning en
 
     How do you think these attributes influence your perspectives about student learning and who is or isn’t included in learning?
 
-!!! warning "TODO workbook name"
+!!! warning "Workbook"
 
     Complete Activity TK in your workbook: Commit to one action you could take toward sharing your identity in your course.
 
@@ -288,7 +295,7 @@ Dozens of studies have compared hiring decisions with the same setup…
 
 Beyond gender: Studies with members of groups other than white, heterosexual, cis-gendered, able-bodied men yield similar results.
 
-!!! note "TODO engagement name"
+!!! note "Activity"
 
     What other biases have you seen or experienced in STEM higher education? 
 
@@ -337,7 +344,7 @@ Stereotype threat can result from negative stereotypes against any aspect of one
 - Students of lower socioeconomic backgrounds underperformed on the same GRE section when compared to students from more affluent backgrounds when financial status was mentioned. **They performed the same when affluence was not mentioned.**
 - Women performed worse than men when a math test was described as producing gender differences. **When the test was described as not producing gender differences, women and men performed equally well.**
 
-!!! warning "TODO workbook name"
+!!! warning "Workbook"
 
     Complete Activity TK in your workbook: Commit to one action you could take to mitigate the negative impacts of stereotype threat in your course. 
 
@@ -396,7 +403,7 @@ You might have students…
 - Find an image online that represents what they want to get out of your course.
 - Share one thing science-related fact about their lives (favorite science fact, most science-y hobby, why they are interested in science).
 
-!!! warning "TODO workbook name"
+!!! warning "Workbook"
 
     Complete Activity TK in your workbook: Commit to one discrete and one systemic action you could take to promote a positive sense of belonging in your course.
 
@@ -431,7 +438,7 @@ CUREs normalize failure by:
 
 **Just one CURE in college can increase persistence in STEM**
 
-!!! warning "TODO workbook name"
+!!! warning "Workbook"
 
     Complete Activity TK in your workbook: Even if you don’t teach a CURE, commit to one action you could take to ensure students engage in the facets of science.
 
@@ -487,7 +494,7 @@ Scientific failure results from:
 - Data not supporting a hypothesis
 - Idea not being accepted by peers
 
-!!! note "TODO engagement name"
+!!! note "Activity"
 
     Think about where students implicitly or explicitly learn about failure in your course, and identify ways they can experience productive failure.
 
@@ -499,7 +506,7 @@ Scientific failure results from:
 
     What productive failure opportunities could be included in your course to mitigate negative outcomes related to scientific failure?
 
-!!! warning "TODO workbook name"
+!!! warning "Workbook"
 
     Complete Activity TK in your workbook: Commit to one action you could take to create a productive failure experience in your course. 
 
