@@ -108,7 +108,7 @@ This module is divided into a number of submodules. Their objectives are:
 
 ## Inclusive Learning Defined
 
-`TODO pithy summary`
+Inclusive learning encompasses the strategies, structure and climate of a learning environment. An inclusive learning environment is one in which students feel a sense of belonging, value, and respect, and are provided with the necessary resources and opportunities to actively learn.
 
 ## Why Inclusive Learning
 
@@ -263,7 +263,7 @@ When confronted with the idea that scientists are biased, we have heard:
 
 Yet study after study demonstrates that we *all* carry biases, assumptions, and stereotypes. 
 
-### TODO page title
+### Assumptions Matter
 
 `TODO are there citations for this?`
 
@@ -344,6 +344,8 @@ Stereotype threat can result from negative stereotypes against any aspect of one
 
 `TODO did we define HECs?`
 
+Historically excluded communities (HECs) refer to groups of individuals who have traditionally been denied full rights, privileges, and opportunities in STEM education, including women, people of color, caregivers, LGBTQIA+ students, first-generation students, and low-income students. These groups have traditionally been underrepresented or excluded from participating in STEM. See also [Asai2020-bb](@cite).
+
 The differential pattern of exclusion from STEM affects students not only according to race and ethnicity; talented college students from HECs leave at higher rates [thiry_talking_2019](@cite). 
 
 Most of those who leave have the interest, confidence, and aptitude to be successful in STEM, but early classroom experiences can dampen their interest and actively exclude them from persisting [thiry_talking_2019,estrada_influence_2019](@cite).
@@ -380,7 +382,7 @@ The Tripartite Integration Model of Social Influence (TIMSI) provides a framewor
 
 According to the TIMSI, each of these three factors — independently and collectively — contribute to social integration into STEM communities. Social integration (or persistence) is defined as the intent to pursue further academic or career goals in STEM, or as behaviors, such as submitting applications for graduate school.
 
-### TODO page title
+### Getting to Know Your Students
 
 `TODO wheres the data?`
 
@@ -410,9 +412,9 @@ Positive gains for all students with additional gains for students who are membe
 
 These outcomes lead to diversity in the STEM workforce and and informed citizenry.
 
-[estrada_toward_2011](@cite)
+Source: [estrada_toward_2011](@cite).
 
-### Once Example: CUREs
+### One Example: CUREs
 
 Course-based Undergraduate Research Experiences (CUREs) increase:
 

@@ -120,11 +120,9 @@ The STC brings scientific teaching to life: This course is organized around inte
 
 The modules build on and reinforce each other:
 
-`TODO revise this to match the new split-up module names`
-
 - **Scientific Teaching** explains why change is needed and lays a foundation of evidence-based theories.
-- **Course Design** and **Learning Experiences** turn theory into actionable practice.
-- **Inclusive Learning** permeates the entire course.
+- **Inclusive Learning** and **How Learning Works** permeates the entire course.
+- **Course Design**, **Learning Experiences**, **Summative Assessment**, and **Course Structure** turn theory into actionable practice.
 - **Scientific Teaching Revisited** offers a framework for lifelong learning and iterative improvement.
 
 [handelsman_scientific_2004](@cite)
