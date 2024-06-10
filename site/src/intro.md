@@ -547,13 +547,15 @@ end # let
 
 ![TODO alt text](assets/five-dimensions-of-inclusive-teaching.svg)
 
+Figure adapted from [bell2016design,marchesani1992dynamics](@cite).
+
 There are five dimensions to inclusive teaching:
 
-- **Who we are:** We can be aware of how our social, emotional, and pedagogical perspectives shape how we teach.
-- **Who we teach:** We can plan meaningful interactions when we are aware of the many dimensions of our students.
-- **What we teach:** We can choose diverse content, perspectives and contexts with students’ needs and backgrounds in mind.  
-- **How we teach:** We can impact learning by implementing evidence-based teaching practices and creating engaging activities with aligned assessments. 
-- **And how the class is designed:** We can create an environment that enriches student learning through supportive structure and peer connections.
+- **Who we are:** Be aware of how our social, emotional, and pedagogical perspectives shape how we teach.
+- **Who we teach:** Plan meaningful interactions when we are aware of the many dimensions of our students.
+- **What we teach:** Choose diverse content, perspectives and contexts with students’ needs and backgrounds in mind.  
+- **How we teach:** Impact learning by implementing evidence-based teaching practices and creating engaging activities with aligned assessments. 
+- **And how the class is designed:** Create an environment that enriches student learning through supportive structure and peer connections.
 
 !!! note "Activity"
 

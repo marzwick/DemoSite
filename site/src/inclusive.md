@@ -130,15 +130,15 @@ Image source: [handelsman_achieving_2022](@cite)
 
 ![TODO alt text](assets/five-dimensions-of-inclusive-teaching.svg)
 
-`TODO what is the citation for this?`
+Figure adapted from [bell2016design,marchesani1992dynamics](@cite).
 
 Recall the five dimensions to inclusive teaching:
 
-- **Who we are:** We can be aware of how our social, emotional, and pedagogical perspectives shape how we teach.
-- **Who we teach:** We can plan meaningful interactions when we are aware of the many dimensions of our students.
-- **What we teach:** We can choose diverse content, perspectives and contexts with students’ needs and backgrounds in mind.  
-- **How we teach:** We can impact learning by implementing evidence-based teaching practices and creating engaging activities with aligned assessments. 
-- **And how the class is designed:** We can create an environment that enriches student learning through supportive structure and peer connections.
+- **Who we are:** Be aware of how our social, emotional, and pedagogical perspectives shape how we teach.
+- **Who we teach:** Plan meaningful interactions when we are aware of the many dimensions of our students.
+- **What we teach:** Choose diverse content, perspectives and contexts with students’ needs and backgrounds in mind.  
+- **How we teach:** Impact learning by implementing evidence-based teaching practices and creating engaging activities with aligned assessments. 
+- **And how the class is designed:** Create an environment that enriches student learning through supportive structure and peer connections.
 
 Awareness of students helps to develop learning goals and teaching approaches and can help us to plan for meaningful interactions. And awareness of self can shape how we teach and help us to be aware of areas for growth.
 
@@ -244,10 +244,6 @@ Everyone holds biases, assumptions, and stereotypes about others, which can infl
 
     > Faculty gender did not affect bias. Tests of simple effects (all $d < 0.33$) indicated that female faculty participants did not rate the female student as more competent [$t(62) = 0.06$, $P = 0.95$] or hireable [$t(62) = 0.41$, $P = 0.69$] than did male faculty. Female faculty also did not offer more mentoring [$t(62) = 0.29$, $P = 0.77$] or a higher salary [$t(61) = 1.14$, $P = 0.26$] to the female student than did their male colleagues. In addition, faculty participants’ scientific field, age, and tenure status had no effect (all $P > 0.53$). Thus, the bias appears pervasive among faculty and is not limited to a certain demographic subgroup [Moss-Racusin2012-cm](@cite).
 
-    `TODO alt texts`
-
-    `NOTE when I double checked numbers against the source paper, our image on the google slides for the last plot was incorrect`
-
     Image source: [Moss-Racusin2012-cm](@cite)
 
     ```@raw html
@@ -328,17 +324,13 @@ Set a tone for your class and reinforce it:
 
 ### Mitigate stereotype threat
 
-`TODO did we have a source for this besides` [simplypsychology](https://www.simplypsychology.org/stereotype-threat.html#Stereotype-Threat-Examples) `?`
-
 Biases and assumptions can manifest as stereotypes. When those stereotypes are activated, it can result in a phenomenon called **stereotype threat**, in which people fear they may confirm negative stereotypes about their social group. This fear can negatively affect their performance and reinforce the stereotype – regardless of their actual capabilities – thereby creating a self-fulfilling prophecy. 
 
 Stereotype threat can result from negative stereotypes against any aspect of one’s identity, such as ethnicity, culture, first-generation status, veteran status, sexual orientation. It can negatively affect academic performance and persistence in STEM.
 
-**The simple act of mentioning a stereotype can activate threat and lead to negative outcomes.**
+**The simple act of mentioning a stereotype can activate threat and lead to negative outcomes** [Kumar2010-mp,Stricker2015-ce,Steele2002-pt,Steele1995-bz](@cite).
 
 ### Stereotype Threat Examples
-
-`TODO what are the citations for this?`
 
 - When Black students were told that a verbal section of the Graduate Record Exam (GRE) was diagnostic of intellectual ability, they would perform worse than white students. **They performed equally well when the test was not labeled diagnostic of intellectual ability.**
 - Students of lower socioeconomic backgrounds underperformed on the same GRE section when compared to students from more affluent backgrounds when financial status was mentioned. **They performed the same when affluence was not mentioned.**
@@ -380,9 +372,7 @@ Several interventions have demonstrated promise in increasing college students�
 
 ### A framework to gauge belonging
 
-`TODO what is the citation for TIMSI?`
-
-The Tripartite Integration Model of Social Influence (TIMSI) provides a framework for understanding the psychological mechanisms linking educational experiences and persistence outcomes. The TIMSI describes three orientations that predict persistence in STEM. 
+The Tripartite Integration Model of Social Influence (TIMSI) provides a framework for understanding the psychological mechanisms linking educational experiences and persistence outcomes [estrada_toward_2011](@cite). The TIMSI describes three orientations that predict persistence in STEM. 
 
 - **Scientific self-efficacy** indicates that a student feels capable of performing the actions needed to be successful in a STEM course, major, or career. 
 - **Scientific identity** indicates that a student perceives science as part of their identity and feel they belong to a scientific community. 
@@ -449,7 +439,7 @@ CUREs normalize failure by:
 Science is based on failure:
 
 - All engineering innovation is predicated on failed designs (Petroski 2006).
-- Failure is an expected and necessary part of learning and scientific inquiry (Simpson and Maltese, 2017). 
+- Failure is an expected and necessary part of learning and scientific inquiry [simpson_failure_2017](@cite).
 - Failure in science can lead to learning to iterate and solve problems (Lopatto et al., 2020; Gin, et al., 2018).
 
 Yet students may not think failure is productive:
@@ -470,7 +460,7 @@ Reframe how you and your students think about the role of failure:
 `TODO what are links to the citations on this page?`
 
 - Hearing only about physicists’ achievements diminished students’ interest in science; learning about their struggles enhanced students’ interest in and recall of key concepts from the course. (Hong & Lin-Siegler, 2012). 
-- “Struggle stories” increased student motivation and performance, especially among low-performing students (Lin-Siegler et al., 2016). 
+- “Struggle stories” increased student motivation and performance, especially among low-performing students [lin-siegler_even_2016](@cite). 
 - The “growth mindset” enables students to see a failure as an opportunity for growth rather than an assurance of further failure. (Dweck, 2006; Good et al., 2012; Canning, XX)
 
 ### Failure in STEM
