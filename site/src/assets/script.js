@@ -16,6 +16,9 @@ window.addEventListener("load", function(){
         }
     }
 
+    // Make the edit link show the plain view so it is quicker to add line-level comments
+    document.querySelector('a[title^="Edit"]').href += "?plain=1";
+
     // Reword "search docs" to "search course"
     document.getElementById("documenter-search-query").innerText = "🔬🔭🔍 Search Course";
 });
