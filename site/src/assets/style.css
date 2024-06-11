@@ -20,7 +20,7 @@
     text-shadow: 0 0 30px yellow;}
 
 /* Hide default features */
-#documenter-article-toggle-button, .breadcrumb ul {
+#documenter-article-toggle-button, .breadcrumb ul, a[title^="View"] {
   display: none;
 }
 

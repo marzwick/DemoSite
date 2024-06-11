@@ -158,7 +158,7 @@ Opportunity gaps between overrepresented and underrepresented students have been
 
 ### What the US Reports Say about STEM Education
 
-Most US science is taught as lectures that are dominated by facts rather than principles and ways of thinking (Stains et al.). Sadly, substantial evidence shows that lecturing alone is a relatively ineffective way of teaching, and retention from lectures is poor. But report after report shows there are better ways to teach science, to teach scientifically, and that these approaches also serve to make science education more equitable:
+Most US science is taught as lectures that are dominated by facts rather than principles and ways of thinking [stains_anatomy_2018](@cite). Sadly, substantial evidence shows that lecturing alone is a relatively ineffective way of teaching, and retention from lectures is poor. But report after report shows there are better ways to teach science, to teach scientifically, and that these approaches also serve to make science education more equitable:
 
 `TODO what are the full citations used in the points below?`
 
