@@ -9,11 +9,11 @@ to <mariah.knowles@wisc.edu>.
 
 ## I Have a Question
 
-Before you ask a question, it is best to search for existing [issues](https://github.com/TinyEarth/DemoSite/issues) and [pull requests](https://github.com/Tiny-Earth/DemoSite/pulls) that might help you. If you find a related issue to your question but still need clarification, you can respond to that issue with your question.
+Before you ask a question, it is best to search for existing [issues](https://github.com/Tiny-Earth/DemoSite/issues) and [pull requests](https://github.com/Tiny-Earth/DemoSite/pulls) that might help you. If you find a related issue to your question but still need clarification, you can respond to that issue with your question.
 
 If you can't find a related issue, we recommend the following:
 
-- Open an [issue](https://github.com/TinyEarth/DemoSite/issues/new).
+- Open an [issue](https://github.com/Tiny-Earth/DemoSite/issues/new).
 - Provide as much context as you can about what you're running into.
 
 We will then respond to your question as soon as possible.
@@ -32,7 +32,7 @@ A good bug report shouldn't leave others needing to chase you up for more inform
 
 - Make sure that you are viewing the latest version.
 - Determine if your bug is really a bug and not an error on your side.
-- To see if other users have experienced (and potentially already solved) the same issue you are having, check if there is not already a bug report existing for your bug or error in the [bug tracker](https://github.com/TinyEarth/DemoSite/issues?q=label%3Abug).
+- To see if other users have experienced (and potentially already solved) the same issue you are having, check if there is not already a bug report existing for your bug or error in the [bug tracker](https://github.com/Tiny-Earth/DemoSite/issues?q=label%3Abug).
 - Collect information about the bug:
     - OS, Platform and Version (Windows, Linux, macOS, x86, ARM)
     - Can you reliably reproduce the issue?
@@ -45,7 +45,7 @@ A good bug report shouldn't leave others needing to chase you up for more inform
 
 We use issues to track bugs and errors. If you run into an issue with the project:
 
-1. Open an [issue](https://github.com/TinyEarth/DemoSite/issues/new). (Since we can't be sure at this point whether it is a bug or not, we ask you not to talk about a bug yet and not to label the issue.)
+1. Open an [issue](https://github.com/Tiny-Earth/DemoSite/issues/new). (Since we can't be sure at this point whether it is a bug or not, we ask you not to talk about a bug yet and not to label the issue.)
 2. Explain the behavior you would expect and the actual behavior.
 3. Please provide as much context as possible and describe the *reproduction steps* that someone else can follow to recreate the issue on their own. For good bug reports you should isolate the problem and create a reduced test case.
 4. Provide the information you collected in the previous section.
@@ -63,13 +63,13 @@ This section guides you through submitting an enhancement suggestion for SCIENTI
 #### Before Submitting an Enhancement
 
 - Make sure that you are viewing the latest version.
-- Read the [documentation](https://tinyearth.github.io/DemoSite/contributing) carefully and find out if the functionality is already covered, maybe by an individual configuration.
-- Perform a [search](https://github.com/TinyEarth/DemoSite/issues) to see if the enhancement has already been suggested. If it has, add a comment to the existing issue instead of opening a new one.
+- Read the version completely and carefully to see if your enhancement is already covered.
+- Perform a [search](https://github.com/Tiny-Earth/DemoSite/issues) to see if the enhancement has already been suggested. If it has, add a comment to the existing issue instead of opening a new one.
 - Find out whether your idea fits with the scope and aims of the project. It's up to you to make a strong case to convince the project's developers of the merits of this feature. Keep in mind that we want features that will be useful to the majority of our users and not just a small subset. If you're just targeting a minority of users, consider writing add-on content that could be [referenced as a resource](resources.md).
 
 #### How Do I Submit a Good Enhancement Suggestion?
 
-Enhancement suggestions are tracked as [issues](https://github.com/TinyEarth/DemoSite/issues) and [pull requests](https://github.com/Tiny-Earth/DemoSite/pulls).
+Enhancement suggestions are tracked as [issues](https://github.com/Tiny-Earth/DemoSite/issues) and [pull requests](https://github.com/Tiny-Earth/DemoSite/pulls).
 
 - Use a **clear and descriptive title** for the issue to identify the suggestion.
 - Provide a **step-by-step description of the suggested enhancement** in as many details as possible.
@@ -81,18 +81,18 @@ Enhancement suggestions are tracked as [issues](https://github.com/TinyEarth/Dem
 
 To contribute course content:
 
-1. Before contributing, review our [issues](https://github.com/TinyEarth/DemoSite/issues) and [pull requests](https://github.com/Tiny-Earth/DemoSite/pulls) to see if someone else has already suggested your idea or a similar one. If they have, create a GitHub account, sign-in, and join the conversation!
+1. Before contributing, review our [issues](https://github.com/Tiny-Earth/DemoSite/issues) and [pull requests](https://github.com/Tiny-Earth/DemoSite/pulls) to see if someone else has already suggested your idea or a similar one. If they have, create a GitHub account, sign-in, and join the conversation!
 2. Otherwise, while viewing the page you wish to suggest a change to, click the pencil icon at the very top of the page.
 3. You should see the content for the page, written in a format called Markdown. See the Markdown Styleguide below for more.
 4. If you haven't yet, create a GitHub account and sign-in.
 5. If you would like to suggest an edit directly:
     1. While viewing the page's content on GitHub, follow GitHub's instructions for [editing files in another user's repository](https://docs.github.com/en/repositories/working-with-files/managing-files/editing-files#editing-files-in-another-users-repository). In your commit message, follow the same style as a Good Enhancement Suggestion described above.
-    2. Once you've submitted your pull request, your content suggestion will then be reviewed by team members, possibly discussed as an [issue](https://github.com/TinyEarth/DemoSite/issues/) with the community, and, if accepted, incorporated into the course.
+    2. Once you've submitted your pull request, your content suggestion will then be reviewed by team members, possibly discussed as an [issue](https://github.com/Tiny-Earth/DemoSite/issues/) with the community, and, if accepted, incorporated into the course.
     3. Please [review your GitHub notification settings](https://docs.github.com/en/account-and-profile/managing-subscriptions-and-notifications-on-github/setting-up-notifications/configuring-notifications#choosing-your-notification-settings) and periodically visit our [pull requests](https://github.com/Tiny-Earth/DemoSite/pulls) to track progress on your suggestion!
 6. If you would prefer to describe your suggestion generally and have others make the direct edit for you:
     1. While viewing the page's content on GitHub, follow GitHub's instructions for [creating an issue from code](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue#creating-an-issue-from-code). In your issue comment, follow the same style as a Good Enhancement Suggestion described above.
     2. Once you've submitted your issue, your content suggestion will then be reviewed by team members, possibly discussed with the community, and, if accepted, incorporated into the course.
-    3. Please [review your GitHub notification settings](https://docs.github.com/en/account-and-profile/managing-subscriptions-and-notifications-on-github/setting-up-notifications/configuring-notifications#choosing-your-notification-settings) and periodically visit our [issues](https://github.com/TinyEarth/DemoSite/issues) to track progress on your suggestion!
+    3. Please [review your GitHub notification settings](https://docs.github.com/en/account-and-profile/managing-subscriptions-and-notifications-on-github/setting-up-notifications/configuring-notifications#choosing-your-notification-settings) and periodically visit our [issues](https://github.com/Tiny-Earth/DemoSite/issues) to track progress on your suggestion!
 
 ## Markdown Styleguide
 
