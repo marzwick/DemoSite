@@ -238,6 +238,45 @@ Activate accurate prior knowledge:
 - Use analogies and examples that connect to everyday knowledge
 - Ask students to reason on the basis of relevant prior knowledge
 
+Address insufficient prior knowledge:
+
+- Identify the prior knowledge you expect students to have
+- Remediate insufficient prerequisite knowledge
+
+Help students recognize inappropriate prior knowledge: 
+
+- Highlight conditions of applicability
+- Provide heuristics to help students avoid inappropriate application of knowledge 
+- Explicitly identify discipline-specific conventions
+- Show where analogies break down
+
+Correct inaccurate knowledge:
+
+- Ask students to make and test predictions
+- Ask students to justify their reasoning
+- Provide multiple opportunities for students to use accurate knowledge
+- Allow sufficient time
+
+**A note about misconceptions**
+
+Misconceptions are a type of inaccurate prior knowledge that are especially resistant to correction. Misconceptions are models or theories that are deeply embedded in students’ thinking. For example, the notion that blind people have more sensitive hearing than sighted folks, and stereotypes about groups of people fall into this category. Misconceptions persist despite direct instructional interventions.
+
+Misconceptions are difficult to refute for a number of reasons:
+
+- They have been reinforced over time and across multiple contexts
+- Because they often include accurate–as well as inaccurate– elements, students may not recognize their flaws.
+- They allow for successful explanations and predictions in a number of everyday circumstances. For example, although stereotypes are dangerous simplifications, they are difficult to change in part because they fit aspects of our perceived reality and serve an adaptive human need to generalize and categorize (Allport 1952; Brewer 1988; Fiske & Taylor, 1991). 
+
+**What to do?** Guide students through a process of conceptual change over time, persistently creating opportunities to activate students’ awareness and motivation to apply reason over stereotypes. Creatively combine strategies from the STC. It takes time, patience, and creativity.
+
+!!! warning "Workbook"
+    Commit to one strategy to activate and address prior knowledge. 
+    Add it to the workbook.
+    
+
+
+
+
 
 
 
