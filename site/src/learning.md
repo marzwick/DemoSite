@@ -166,21 +166,21 @@ What if the student’s prior knowledge is inaccurate, or their understanding is
 
 Students possess some relevant knowledge, but it is not sufficient to support subsequent learning or a desired level of performance. The knowledge can be declarative (facts and concepts) or procedural (knowing when or how to apply procedures, methods, or theories). 
 
->Example:
+==Example:==
 Students know which statistical test to perform (declarative) but cannot apply it (procedural). Students may be able to apply formulas to data analysis (procedural) but not be able to explain their logic (declarative).
 
 *Inappropriate prior knowledge*
 
 - Students draw on prior knowledge that is not appropriate for the learning context. It is not necessarily inaccurate – it is merely used inaccurately.
 
->Example:
- Students’ everyday associations with the terms positive and negative skew their understanding of science concepts, such as negative controls in an experiment, or negative reinforcement in psychology.
+==Example:==
+Students’ everyday associations with the terms positive and negative skew their understanding of science concepts, such as negative controls in an experiment, or negative reinforcement in psychology.
 
 *Inaccurate prior knowledge*
 
 Information that is objectively wrong. This includes incorrect facts, as well as flawed ideas, beliefs, models, or theories.
 
->Example:
+==Example:==
 Students believe that Pluto is a planet or that the heart oxygenates the blood.
 
 !!! note "Activity"
@@ -272,7 +272,7 @@ Misconceptions are difficult to refute for a number of reasons:
 !!! warning "Workbook"
     Commit to one strategy to activate and address prior knowledge. 
     Add it to the workbook.
-    
+
 
 
 
