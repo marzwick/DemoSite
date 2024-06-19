@@ -35,6 +35,16 @@ This module is divided into a number of submodules. Their objectives are:
 
 ## Learning Defined
 
+!!! note "Activity"
+
+    Think of a concept that is challenging for students to learn. 
+    
+    - Why do you think it is challenging?
+    - What may help or hinder student learning in your discipline?
+    - In general, under what conditions do you learn best?
+    - Does your personal view of learning affect how you teach?
+
+
 ## Why Learning
 
 ## A Framework for Learning
