@@ -66,6 +66,8 @@ Learning is the acquisition and integration of new information that leads to a c
 
 When we approach from the perspective of what students will learn rather than what we will teach… [TBD]
 
+![slide8](https://github.com/marzwick/images/blob/main/slide8.png)
+
 `TODO: finish this`
 
 Move away from assumptions that students are lacking and move toward the idea that learning environments are lacking (in structure) and can be changed.
