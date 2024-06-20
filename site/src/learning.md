@@ -33,6 +33,17 @@ This module is divided into a number of submodules. Their objectives are:
 
 `TODO: write these`
 
+**The Biology of Learning:**
+
+`TODO: write these`
+
+**Factors that Affect Learning:**
+
+`TODO: write these`
+
+**Learning in Practice:**
+
+`TODO: write these`
 
 ---
 
@@ -162,26 +173,34 @@ When presented with new facts about individuals, college students were able to l
 
 What if the student’s prior knowledge is inaccurate, or their understanding is only partly correct? Understanding the types of prior knowledge can help us create better learning environments.
 
-*Accurate but insufficient prior knowledge*
+---
+
+<u>Accurate but insufficient prior knowledge</u>  
 
 Students possess some relevant knowledge, but it is not sufficient to support subsequent learning or a desired level of performance. The knowledge can be declarative (facts and concepts) or procedural (knowing when or how to apply procedures, methods, or theories). 
 
-==Example:==
+Example:
 Students know which statistical test to perform (declarative) but cannot apply it (procedural). Students may be able to apply formulas to data analysis (procedural) but not be able to explain their logic (declarative).
 
-*Inappropriate prior knowledge*
+---
+
+<u>Inappropriate prior knowledge</u> 
 
 - Students draw on prior knowledge that is not appropriate for the learning context. It is not necessarily inaccurate – it is merely used inaccurately.
 
-==Example:==
+Example:
 Students’ everyday associations with the terms positive and negative skew their understanding of science concepts, such as negative controls in an experiment, or negative reinforcement in psychology.
 
-*Inaccurate prior knowledge*
+---
+
+<u>Inaccurate prior knowledge</u> 
 
 Information that is objectively wrong. This includes incorrect facts, as well as flawed ideas, beliefs, models, or theories.
 
-==Example:==
+Example:
 Students believe that Pluto is a planet or that the heart oxygenates the blood.
+
+---
 
 !!! note "Activity"
     **Prior knowledge and misconceptions**
@@ -273,7 +292,90 @@ Misconceptions are difficult to refute for a number of reasons:
     Commit to one strategy to activate and address prior knowledge. 
     Add it to the workbook.
 
+---
 
+## The Biology of Learning
+
+- A human brain comprises 1011 neurons. 
+- Each neuron is capable of thousands of connections.
+- Average brain has 1015 neural connections.
+- Networks are unique to each person, and they can change.
+- More stimulus leads to more complex neural networks.
+
+**Implications for Learning**
+
+*Learning must:*
+
+- Account for and contend with existing neural networks
+- Provide opportunity to challenge those networks and construct new networks.
+---
+Neurons communicate with each other to drive everything we do, including how we learn. Learning requires adapting existing neural processes to orchestrate new pathways and new behaviors. Constructing knowledge involves making new neuronal connections and/or enhancing connections that exist.
+
+At a cellular and molecular level, the changing nature, or plasticity, of neuronal connections can lead to long-lasting changes in synaptic connections, neurotransmitter release, receptor number and binding properties (Basett et al, 2017). The consequences of these changes for humans are new behaviors and an ability to use new knowledge. The formation of long-lasting connections, and the storage of this information are what we think of as memory. 
+
+Many things contribute to learning, including one’s prior experiences, stress, situational factors, and motivation. Each of these can create different conditions that either favor learning in general, or favor learning a particular aspect of a situation (for example, a familiar smell from childhood can bring back specific memories) (Gold and Korol, 2017). Significant learning experiences commonly involve an important event or relationship to real events, a level of interest or value in the experience, and an opportunity to apply and integrate new knowledge (Fink 2013).
+
+---
+
+## Factors that Affect Learning
+
+Students are not necessarily well-informed about best learning practices. They often engage in whatever strategies have previously worked without being consciously aware of whether they are effective. Their choices are also affected by their interest in a topic, their motivation, and how much time they have to devote to learning something. 
+
+**Memory and Retrieval**
+
+The strength of a memory represents how associated the memory is with related knowledge and skills. A brain region called the hippocampus is involved in creating and storing memories. How well you can retrieve a memory depends on how accessible that information is, which can be influenced by how recently you thought about the information as well as other situational cues. Sometimes easily retrieved information is also easily forgotten, because it has not been consolidated and stored (Bjork and Bjork 2011)
+
+---
+
+## Learning in Practice
+
+**Developing Conceptual Frameworks**  
+
+`Check if should be an activity or not`
+
+An expert not only understands many concepts, but can relate them to each other, transfer principles across concepts, and easily add new knowledge to their framework. Novice are still acquiring and connecting information, and as a result, need guidance and practice in constructing their own frameworks. Experts have a conceptual framework that they use to identify concepts or patterns in various contexts so that they can transfer/apply their understanding to solve problems in novel contexts
+
+!!! note "Activity"
+    Provide the following information from the Chi paper, and write a question that lets the participant pretend to be a novice student in physics, thinking about how to organize problems. Experts organize by conceptual principles and students organize by surface features (Chi, Feltovich, and Glaser (1981) Cognitive Science 5: 121-152).
+
+    ---
+
+    Show two groupings, and have the participants identify which one is likely the expert grouping vs. the novice. Follow up question: describe what features the experts used to organize vs. what the novices used.
+
+    Experts: all use the underlying concept
+    - “Conservation of energy.”
+    - “Work-energy theorem. They are all straight-forward problems.”
+    - “These can be done from energy considerations. Either you should know the principle of conservation of energy, or work is lost somewhere.”
+
+    Novices: use the pictorial representation (surface features) without understanding the underlying concepts are different
+    - “These deal with blocks on an incline plane.”
+    - “Inclined plane problems, coefficient of friction.”
+    - “Blocks on inclined planes with angles."
+
+!!! note "Activity"
+    **Context and expertise**
+
+    We use the context of our prior experiences and knowledge to help us solve problems. Consider this study:
+
+    Researchers showed arrangements of chessboards to different kinds of participants and gave them ~ 30 sec to memorize the board. They were then asked to fill in a blank chess board from memory. Using the graphs shown below that summarize the findings, what can you conclude?
+
+    ---
+
+    **Sample answer to be included in the feedback box:**
+
+    Master chess players performed as badly as novices when the chessboard pieces were totally random. But when it was a real chess board, the master chess players easily remembered far more pieces than the novice. That is because they had the CONTEXT of the chess board and the game they were intimately familiar with to help them remember (Chase and Simon, 1973).  
+
+!!! note "Activity"
+    **Expertise: Practice and reflection are both essential**
+
+    One of the most valuable learning strategies is to practice retrieving information and then using it in a novel situation (Karpike & Roediger 2006). Too often, both instructors and students stop at the level of remembering a fact or understanding a concept at a basic level. Testing provides better feedback to a student than the more passive strategies of re-reading or re-watching. 
+
+    To make the most of practice, students also need to reflect on their learning and figure out what they do and don’t know--i.e. Regulate. 
+    
+    ---
+
+    1. Which of these two students is engaged in evidence-based practices for learning?
+    2. What might you do in your own teaching to encourage students to engage in meaningful learning?
 
 
 
