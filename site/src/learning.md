@@ -119,7 +119,7 @@ Let’s start with prior knowledge. We often think of prior knowledge as “righ
 However, prior knowledge is complex. Each student brings a set of knowledge, beliefs, experiences, and world views to every learning experience. In the 2010 book, How Learning Works: Seven research-based principles for smart teaching, Susan Ambrose et al., state: 
 - Students connect what they learn to what they already know, interpreting incoming information, and even sensory perception, through the lens of their existing knowledge, beliefs, and assumptions (Vygotsky, 1978; NRC 2000)…. students must connect new knowledge to previous knowledge in order to learn (Bransford & Johnson, 1972; Resnick, 1983)…. However the extent to which students are able to draw on prior knowledge to effectively construct new knowledge depends on the nature of their prior knowledge, as well as the instructor’s ability to harness it. 
 
-**Contending with prior knowledge**
+**Contending with Prior Knowledge**
 
 <u>Activating prior knowledge:</u>
 
@@ -181,7 +181,7 @@ When presented with new facts about individuals, college students were able to l
     9. Who wrote the play?
     10. Who broke up the band?
 
-**Prior knowledge… that is not quite “right”**
+**Prior Knowledge… that is not quite “right”**
 
 What if the student’s prior knowledge is inaccurate, or their understanding is only partly correct? Understanding the types of prior knowledge can help us create better learning environments.
 
@@ -205,7 +205,7 @@ What if the student’s prior knowledge is inaccurate, or their understanding is
 
 
 !!! note "Activity"
-    **Prior knowledge and misconceptions**
+    **Prior Knowledge and Misconceptions**
 
     How can we con tend with all these types of prior knowledge? Be clear in the knowledge requirements for different tasks. Do not assume because students know the facts that they know how to apply them, and vice versa. Assess both the amount and nature of prior knowledge and design instruction accordingly. 
     
@@ -226,7 +226,7 @@ What if the student’s prior knowledge is inaccurate, or their understanding is
     “People are becoming immune to antibiotics.”
     “The bacteria mutated to become resistant to the antibiotic.”
 
-    **Engagement prompts: Review the student activities.**
+    **Engagement Prompts: Review the Student Activities.**
 
     - How do these activities activate prior knowledge?
     - What type of prior knowledge would these activities detect?
@@ -241,7 +241,7 @@ What if the student’s prior knowledge is inaccurate, or their understanding is
         - Inaccurate
     - What would you teach next in this course?
 
-**Research-based strategies for contending with prior knowledge**
+**Research-Based Strategies for Contending with Prior Knowledge**
 
 Gauge the extent and nature of students’ prior knowledge:
 
@@ -278,7 +278,7 @@ Correct inaccurate knowledge:
 - Provide multiple opportunities for students to use accurate knowledge
 - Allow sufficient time
 
-**A note about misconceptions**
+**A Note about Misconceptions**
 
 Misconceptions are a type of inaccurate prior knowledge that are especially resistant to correction. Misconceptions are models or theories that are deeply embedded in students’ thinking. For example, the notion that blind people have more sensitive hearing than sighted folks, and stereotypes about groups of people fall into this category. Misconceptions persist despite direct instructional interventions.
 
@@ -359,7 +359,7 @@ An expert not only understands many concepts, but can relate them to each other,
     - “Blocks on inclined planes with angles."
 
 !!! note "Activity"
-    **Context and expertise**
+    **Context and Expertise**
 
     We use the context of our prior experiences and knowledge to help us solve problems. Consider this study:
 
