@@ -66,7 +66,7 @@ Learning is the acquisition and integration of new information that leads to a c
 
 When we approach from the perspective of what students will learn rather than what we will teach… [TBD]
 
-![slide8](https://github.com/marzwick/images/blob/main/slide8.png)
+![slide8](https://raw.githubusercontent.com/marzwick/images/main/slide8.png)
 
 `TODO: finish this`
 
