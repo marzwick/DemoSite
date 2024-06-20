@@ -78,6 +78,8 @@ Move away from assumptions that students are lacking and move toward the idea th
 
 **Constructing Knowledge**
 
+![slide10](https://raw.githubusercontent.com/marzwick/images/main/slide10.png)
+
 - Everyone has views about how the world works. Views are based on prior knowledge and experiences. The views could be inaccurate, insufficient, or inappropriate.
 
 - New information challenges these views. Consistent information validates the views, while inconsistent information requires the difference to be reconciled and explained.
@@ -337,8 +339,12 @@ The strength of a memory represents how associated the memory is with related kn
 
 An expert not only understands many concepts, but can relate them to each other, transfer principles across concepts, and easily add new knowledge to their framework. Novice are still acquiring and connecting information, and as a result, need guidance and practice in constructing their own frameworks. Experts have a conceptual framework that they use to identify concepts or patterns in various contexts so that they can transfer/apply their understanding to solve problems in novel contexts
 
+![slide31](https://raw.githubusercontent.com/marzwick/images/main/slide31.png)
+
 !!! note "Activity"
     Provide the following information from the Chi paper, and write a question that lets the participant pretend to be a novice student in physics, thinking about how to organize problems. Experts organize by conceptual principles and students organize by surface features (Chi, Feltovich, and Glaser (1981) Cognitive Science 5: 121-152).
+
+    ![slide32](https://raw.githubusercontent.com/marzwick/images/main/slide32.png)
 
     ---
 
@@ -363,6 +369,8 @@ An expert not only understands many concepts, but can relate them to each other,
 
     ---
 
+    ![slide33](https://raw.githubusercontent.com/marzwick/images/main/slide33.png)
+
     **Sample answer to be included in the feedback box:**
 
     Master chess players performed as badly as novices when the chessboard pieces were totally random. But when it was a real chess board, the master chess players easily remembered far more pieces than the novice. That is because they had the CONTEXT of the chess board and the game they were intimately familiar with to help them remember (Chase and Simon, 1973).  
@@ -378,6 +386,9 @@ An expert not only understands many concepts, but can relate them to each other,
 
     1. Which of these two students is engaged in evidence-based practices for learning?
     2. What might you do in your own teaching to encourage students to engage in meaningful learning?
+    
+    ![slide34](https://raw.githubusercontent.com/marzwick/images/main/slide34.png)
+
 
 
 
