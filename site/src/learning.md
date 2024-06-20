@@ -97,6 +97,8 @@ Move away from assumptions that students are lacking and move toward the idea th
 !!! note "Activity"
     TODO: finish this
 
+---
+
 ### Seven Principles for Learning
 
 This brings us to a set of research-based principles that are important for learning (Ambrose et al., 2010). 
@@ -108,6 +110,8 @@ This brings us to a set of research-based principles that are important for lear
 6. Students’ level of development interacts with the social, emotional, and intellectual climate to impact learning.
 7. To become self-directed learners, students must learn to monitor and adjust their approaches to learning.
 
+---
+
 ### The Role of Prior Knowledge in Learning
 
 Let’s start with prior knowledge. We often think of prior knowledge as “right” and “wrong.” We say that students either get it, or they don’t. This thinking leads us to assume that students hold misconceptions that need to be “corrected” or “replaced” with a right answer. We become frustrated when they get answers wrong that we lectured about or they read in the textbook.
@@ -117,7 +121,7 @@ However, prior knowledge is complex. Each student brings a set of knowledge, bel
 
 **Contending with prior knowledge**
 
-*Activating prior knowledge:*
+<u>Activating prior knowledge:</u>
 
 Prior knowledge must be activated for learning to occur. Ambrose et al., again:
 
@@ -126,7 +130,7 @@ Prior knowledge must be activated for learning to occur. Ambrose et al., again:
 But students don’t always bring their knowledge or connect it to the learning experience at hand.
 
 
-*Show me the evidence:*
+<u>Show me the evidence:</u>
 
 People with more knowledge of soccer recalled more scores from different soccer matches than people with less soccer knowledge (Morris et al., 1981). 
 
@@ -146,6 +150,8 @@ When presented with new facts about individuals, college students were able to l
     Aguri invented the mathematical equation.
     Amani took the picture.
 
+    ---
+
     **Round 2 [audio clip reads list, then do quiz below]**
 
     Mother Teresa helped the children.
@@ -158,6 +164,8 @@ When presented with new facts about individuals, college students were able to l
     Yoko Ono broke up the band.
     Pythagoras invented the mathematical equation.
     Rosalind Franklin took the picture.
+
+    ---
 
     **Quiz: Matching**
     *You have 30 seconds to complete.*
@@ -177,34 +185,24 @@ When presented with new facts about individuals, college students were able to l
 
 What if the student’s prior knowledge is inaccurate, or their understanding is only partly correct? Understanding the types of prior knowledge can help us create better learning environments.
 
----
-
 <u>Accurate but insufficient prior knowledge</u>  
 
-Students possess some relevant knowledge, but it is not sufficient to support subsequent learning or a desired level of performance. The knowledge can be declarative (facts and concepts) or procedural (knowing when or how to apply procedures, methods, or theories). 
-
-Example:
-Students know which statistical test to perform (declarative) but cannot apply it (procedural). Students may be able to apply formulas to data analysis (procedural) but not be able to explain their logic (declarative).
-
----
+- Students possess some relevant knowledge, but it is not sufficient to support subsequent learning or a desired level of performance. The knowledge can be declarative (facts and concepts) or procedural (knowing when or how to apply procedures, methods, or theories). 
+    - **Example:**
+    Students know which statistical test to perform (declarative) but cannot apply it (procedural). Students may be able to apply formulas to data analysis (procedural) but not be able to explain their logic (declarative).
 
 <u>Inappropriate prior knowledge</u> 
 
 - Students draw on prior knowledge that is not appropriate for the learning context. It is not necessarily inaccurate – it is merely used inaccurately.
-
-Example:
-Students’ everyday associations with the terms positive and negative skew their understanding of science concepts, such as negative controls in an experiment, or negative reinforcement in psychology.
-
----
+    - **Example:**
+    Students’ everyday associations with the terms positive and negative skew their understanding of science concepts, such as negative controls in an experiment, or negative reinforcement in psychology.
 
 <u>Inaccurate prior knowledge</u> 
 
-Information that is objectively wrong. This includes incorrect facts, as well as flawed ideas, beliefs, models, or theories.
+- Information that is objectively wrong. This includes incorrect facts, as well as flawed ideas, beliefs, models, or theories.
+    - **Example:**
+    Students believe that Pluto is a planet or that the heart oxygenates the blood.
 
-Example:
-Students believe that Pluto is a planet or that the heart oxygenates the blood.
-
----
 
 !!! note "Activity"
     **Prior knowledge and misconceptions**
@@ -308,11 +306,11 @@ Misconceptions are difficult to refute for a number of reasons:
 
 **Implications for Learning**
 
-*Learning must:*
+Learning must:
 
 - Account for and contend with existing neural networks
 - Provide opportunity to challenge those networks and construct new networks.
----
+
 Neurons communicate with each other to drive everything we do, including how we learn. Learning requires adapting existing neural processes to orchestrate new pathways and new behaviors. Constructing knowledge involves making new neuronal connections and/or enhancing connections that exist.
 
 At a cellular and molecular level, the changing nature, or plasticity, of neuronal connections can lead to long-lasting changes in synaptic connections, neurotransmitter release, receptor number and binding properties (Basett et al, 2017). The consequences of these changes for humans are new behaviors and an ability to use new knowledge. The formation of long-lasting connections, and the storage of this information are what we think of as memory. 
@@ -386,7 +384,7 @@ An expert not only understands many concepts, but can relate them to each other,
 
     1. Which of these two students is engaged in evidence-based practices for learning?
     2. What might you do in your own teaching to encourage students to engage in meaningful learning?
-    
+
     ![slide34](https://raw.githubusercontent.com/marzwick/images/main/slide34.png)
 
 
