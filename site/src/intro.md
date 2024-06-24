@@ -576,8 +576,8 @@ Scientific teaching offers a natural structure for teaching that parallels our s
     </figcaption>
     <table aria-labelledby="table1-label" aria-describedby="table1-summary">
         <tr>
-            <th>What Students Do</th>
-            <th>What Instructors Do</th>
+            <th scope="col">What Students Do</th>
+            <th scope="col">What Instructors Do</th>
         </tr>
         <tr>
             <td>Ask questions about scientific concepts</td>
@@ -622,8 +622,8 @@ Scientific teaching offers a natural structure for teaching that parallels our s
     </figcaption>
     <table aria-labelledby="table2-label" aria-describedby="table2-summary">
         <tr>
-            <th>What Students Do</th>
-            <th>What Instructors Do</th>
+            <th scope="col">What Students Do</th>
+            <th scope="col">What Instructors Do</th>
         </tr>
         <tr>
             <td>Replicate and reproduce scientific experiments</td>
@@ -648,8 +648,8 @@ Scientific teaching offers a natural structure for teaching that parallels our s
     </figcaption>
     <table aria-labelledby="table3-label" aria-describedby="table3-summary">
         <tr>
-            <th>What Students Do</th>
-            <th>What Instructors Do</th>
+            <th scope="col">What Students Do</th>
+            <th scope="col">What Instructors Do</th>
         </tr>
         <tr>
             <td>Do scientific research tasks that have unknown outcomes</td>
@@ -670,8 +670,8 @@ Scientific teaching offers a natural structure for teaching that parallels our s
     </figcaption>
     <table aria-labelledby="table4-label" aria-describedby="table4-summary">
         <tr>
-            <th>What Students Do</th>
-            <th>What Instructors Do</th>
+            <th scope="col">What Students Do</th>
+            <th scope="col">What Instructors Do</th>
         </tr>
         <tr>
             <td>Actively do the type of work that professional science researchers do</td>
@@ -708,8 +708,8 @@ Scientific teaching offers a natural structure for teaching that parallels our s
     </figcaption>
     <table aria-labelledby="table5-label" aria-describedby="table5-summary">
         <tr>
-            <th>What Students Do</th>
-            <th>What Instructors Do</th>
+            <th scope="col">What Students Do</th>
+            <th scope="col">What Instructors Do</th>
         </tr>
         <tr>
             <td>Have a sense of responsibility for scientific research findings</td>
@@ -734,8 +734,8 @@ Scientific teaching offers a natural structure for teaching that parallels our s
     </figcaption>
     <table aria-labelledby="table6-label" aria-describedby="table6-summary">
         <tr>
-            <th>What Students Do</th>
-            <th>What Instructors Do</th>
+            <th scope="col">What Students Do</th>
+            <th scope="col">What Instructors Do</th>
         </tr>
         <tr>
             <td>Share scientific research findings outside the classroom</td>
