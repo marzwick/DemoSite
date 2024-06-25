@@ -15,6 +15,27 @@ window.addEventListener("load", function(){
         // }
     }
 
+    // Display alt text as figure captions
+    let fig_no = 1;
+    for (const img of document.querySelectorAll("img[alt]")){
+        const figure = document.createElement("figure");
+        const figcaption = document.createElement("figcaption");
+        const p = document.createElement("p");
+        const strong = document.createElement("strong");
+        const br = document.createElement("br");
+        const span = document.createElement("span");
+        img.parentNode.insertBefore(figure, img);
+        img.parentNode.removeChild(img);
+        figure.appendChild(figcaption);
+        figure.appendChild(img);
+        figcaption.appendChild(p);
+        p.appendChild(strong);
+        p.appendChild(br);
+        p.appendChild(span);
+        strong.innerText = `Figure ${fig_no++}.`;
+        span.innerText = img.getAttribute("alt");
+    }
+
     // Don't cite more than 20 names total in a single citation
     for (const citation of document.querySelectorAll(".citation li div")){
         var r = /^((.*?; ){19}).*? and /;
