@@ -38,9 +38,7 @@ h3 {
 }
 
 summary {
-  margin-bottom: 1em;
   cursor: pointer;
-  text-decoration: underline;
 }
 
 p a, ol a, ul a:not(.tocitem), blockquote a {
