@@ -269,6 +269,46 @@ As a scientific instructor, choosing active learning techniques that help you ga
 - **Discussion forums:** Students participate in an online discussion forum/ board on the class learning management platform. Students take turns posing questions and responding to posts.
 - **Quizzes:** Students complete short, frequent assessments that can gauge prior knowledge, preparedness for class, or understanding of the week’s lessons.
 
+!!! note "Activity"
+    Examine the active learning techniques listed in the section above. Pick a technique that is of interest to you, and design a learning experience around it.
+
+    Include:
+
+    - How it will provide feedback to the students
+    - How it will provide feedback to the instructor
+    - How you will make it inclusive
+    - How it actively engages students in their learning (think about the steps of learning)
+
+!!! warning "Workbook"
+
+    Use one of the following three prompts to a brainstorm a learning experience for your own course:
+
+    !!! details "Prompt 1: Discussing Data"
+        Describe a text that you use that discusses data (e.g., primary or popular article, book chapter, video).
+
+        What open-ended question can you ask to assess students’ ability to think about the scientific practices that led to the results presented?
+
+        What would students gain from discussion in pairs and with the whole class?
+
+        What question could you ask students at the end of class to help you prepare for the next class meeting?
+
+    !!! details "Prompt 2: Jigsawing Data"
+        Describe a text that you use that discusses data (e.g., primary or popular article, book chapter, video).
+
+        How could you use the data to form three complementary expert groups in a jigsaw?
+
+        What questions could you ask students that require them to pull from data across the three groups?
+
+    !!! details "Prompt 3: Learning Objective Questions"
+        Choose a learning objective for one of your classes.
+
+        Write two questions that assess students’ progress toward meeting that objective. Have one of the questions address a lower order of cognition, and one address a higher order.
+
+        How would you use these in a think-pair-share?
+
+        What variety of answers would you expect?
+
+        How/why is posing these questions student-centered?
 
 ## An AJEDI Lexicon for Learning Experiences
 
