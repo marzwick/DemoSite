@@ -279,7 +279,175 @@ To support student learning, we strongly advise instructors to share rubrics wit
     - Are guidelines for assigning points clear and specific?
     - What aspects of the lab report does the rubric emphasize as most important, and are these priorities justified in the context of the assignment?
 
-## `TODO` Inclusive section, slides 24+
+## Inclusive Summative Assessments
+
+!!! compat "Objectives"
+    By the end of this section, you will be able to:
+
+    - Identify practices that enhance equity in the design of summative assessments, including guidelines for accessibility and Universal Design. 
+    - Explain how to reduce stereotype threat.
+    - Recognize the importance of equitable grading practices.
+    - Describe equitable grading practices.
+    - Explore alternative grading methods.
+    - Understand key concepts and principles:
+        - All students deserve the opportunity to demonstrate their knowledge on an accurate and unbiased summative assessment.
+        - Incorporate principles for fairness, accessibility, and Universal Design into assessment design.
+        - Practice fair and transparent grading.
+        - Continually keep your biases and assumptions in check.
+        - Alternative grading practices are more equitable than traditional grading practices and can be implemented partially.
+
+Given the significant influence of summative assessment outcomes on students and their grades, which can have a direct impact on scholarship, university admissions, and career opportunities, it is essential to design summative assessments that are equitable, accurate, and fair in their evaluation of student knowledge. The Standards for Educational and Psychological Testing provide principles to establish fairness in testing (American Educational Research Association, 1999):
+
+- All test takers have access to materials and opportunities to learn
+- All test takers receive fair and equitable treatment during tests
+- Biases are removed from the assessment and in evaluation of the student’s work
+
+Additionally, Kibble (2017) recommends instructors practice these elements to produce high-quality and equitable assessments:
+
+- Ask instructional staff and colleagues to review assessments for construct underrepresentation (e.g., too few items on a construct, inclusion of trivial items) and construct irrelevant variance (e.g., items that are too hard/ easy, contain trivial details, are culturally insensitive).
+- Include enough, high-quality items that provide a reliable and accurate picture of students’ knowledge, skills, and abilities.
+- Provide clear instructions and practice materials to students.
+
+The principles and elements outlined above are crucial for ensuring that all students have an equal opportunity to showcase their knowledge and understanding on assessments that accurately measure their abilities. While these principles may seem intuitive, it’s essential to delve deeper into the evidence-based strategies instructors can employ to design assessments that promote equity and accuracy. By doing so, educators can create a fair and inclusive assessment environment that values the diverse strengths and abilities of all students.
+
+### Accessibility and Universal Design
+
+Designing assessments with accessibility and Universal Design at the forefront fosters equity, inclusion, and enhanced learning outcomes. By accommodating diverse learners’ needs and preferences, assessments become a tool for providing equal opportunities for all students to demonstrate their knowledge and skills. In addition, instructors have a moral and ethical responsibility to comply with disability rights legislation and provide student accommodations to ensure access to educational materials and assessments. Meeting the following principles will improve the accessibility of your assessments:
+
+- Communicate the purpose, format, and expectations of the assessment
+- Provide closed captions, transcripts, and audio descriptions for videos and audio clips
+- Use alternative text for images
+- Use high contrast colors between the background and text
+- Ensure images are colorblind friendly
+- Ensure that the assessment is compatible with popular screen readers (e.g., JAWS, VoiceOver)
+- Administer exams without a time limit
+- Use clear and concise language, and limit jargon
+- Avoid complex formatting
+
+### Exams without Time Limits
+
+In reviewing these accessibility principles, administering exams without a time limit might have jumped out at you.
+
+Timed tests are a staple in educational settings, but what does the literature have to say about it? Time-limited tests are less valid, reliable, inclusive, and equitable than tests in which there is no time limit or a time limit that’s so generous all students can complete all items (Gernsbacher et al., 2020).
+
+Test-taking pace is not a valid measure of student understanding. Students who need additional test-taking times are literally excluded from the test-taking classroom. Timed tests restrict students who are learning English, from underrepresented backgrounds, older than average, and students with disabilities who face barriers obtaining accommodations.
+
+Research shows that most students who do receive additional time on tests do not use all of it (Cahalan-Laitusis, King, Cline, & Bridgeman, 2006; Holmes & Silvestri, 2019; Spenceley & Wheeler, 2016). Gernsbacher speculates that these students are actually requesting to not experience the anxiety and pressure of running out of time (2015). When time limits are removed from exams, numerous studies have shown that student performance improves across student groups including those who are learning English, from underrepresented backgrounds, older than average, and females (De Paoloa & Gioia, 2015; Foos & Boone, 2008; Mullane & McKelvie, 2001). Consider administering untimed asynchronous tests such as take-home exams or untimed online exams and designing test questions that aren’t easily searchable.
+
+`TODO figure from slide 28`
+
+### Designing Summative Assessments for Equity
+
+As we saw in Course Design, incorporating Universal Design principles into course materials not only benefits students with disabilities but also enhances learning experiences for all learners. Here’s how you can use UDL principles in the context of summative assessments:
+
+- Provide multiple means of representation
+    - Offer different formats for presenting information
+        - Visual: images, diagrams, charts, and graphs
+        - Auditory: audio recordings, podcasts, and videos
+        - Text-based: written text, transcripts, and summaries
+- Provide multiple means of action and expression
+    - Allow students to demonstrate their knowledge and skills through various methods
+        - Writing: papers (research, essay, lab reports) and free-response answers
+        - Speaking: oral presentations, debates, and discussions
+        - Creating: multimedia projects
+- Provide multiple means of engagement
+    - Incorporate features that motivate and engage students
+        - Authentic tasks: use real-world problems that reflect students’ interests and experiences
+        - Cultural relevance: incorporate diverse perspectives, cultures, examples, and scenarios
+        - Choice and autonomy: allow students to choose topics, formats, or pace
+        - Provide regular feedback and progress monitoring
+
+### Reduce Stereotype Threat
+
+Stereotype threat is a psychological phenomenon that refers to the feeling of anxiety or self-doubt that individuals experience when they are in a situation where they are at risk of being judged or evaluated based on a negative stereotype about their group (Steele, Spencer, & Aronson, 2002).
+
+This can lead to a decrease in performance and motivation, as individuals may feel like they are being held to a lower standard or that they are being judged based on their group membership rather than their individual abilities.
+
+For example, a study that asked about participants’ race immediately before an exam resulted in decreased performance for Black students whereas White students were unaffected (Steele & Aronson, 1995).
+
+Stereotype threat can manifest in various ways, including:
+
+- Fear of confirming a negative stereotype: Individuals may feel like they are being watched or evaluated, and that if they don't perform well, they will be seen as confirming the negative stereotype.
+- Lack of confidence: Individuals may feel like they are not good enough or that they are not capable of performing well, due to the stereotype.
+- Overemphasis on confirmation: Individuals may feel like they need to prove themselves by doing well, which can lead to increased pressure and anxiety.
+- Reduced motivation: Individuals may feel like they are not motivated to perform well because they are already being judged based on their group membership.
+
+To mitigate stereotype threat, it’s essential to create inclusive and welcoming environments that value diversity. In the context of summative assessments, instructors should follow these practices:
+
+- Communicate with students about the assessment and its purpose, ensuring they understand what is being tested (their skills and knowledge) and why.
+- Write inclusive test questions, and include diverse and inclusive examples and scenarios.
+- Ensure that test materials, such as images or scenarios, do not perpetuate negative stereotypes or biases.
+- Solicit demographic information after exams, not before (Kumar, 2010).
+
+!!! warning "Workbook"
+    After reviewing principles for designing more equitable summative assessments, list 3 commitments you will make.
+
+### Equitable Grading
+
+Traditional grading is the practice of assigning numerical points to one-time assessments and aggregating those points into a single letter grade for the course (Clark & Talbert, 2023). In addition, there are usually no reattempts or revisions of work, so students are unable to apply feedback received on a new attempt (Clark & Talbert, 2023). Overall, traditional grading penalizes students who have received unequal opportunities and discourages growth and learning.
+
+Incorporating more equitable grading practices promotes a more just and inclusive educational environment that supports the success of all students. Below are some equitable grading practices you can implement in your course.
+
+**In providing feedback:**
+
+- Ensure it is constructive, focusing on strengths and areas for improvement. Specific and actionable feedback can help students understand their performance and make meaningful progress towards developing expertise.
+- Locate it separately from the grade or points
+- Make sure it is timely so that students are not waiting or guessing
+
+**Ensure your grading policy is transparent:**
+
+- Communicate the criteria and standards used to evaluate performance
+- Communicate how grades are assigned
+- Provide rubrics, standards, or expectations
+
+**Do not apply grading curves:**
+
+- Curves are not transparent and make it difficult for students to determine grades
+- They are inconsistent and unfair
+- Curving grades is the result of misalignment in the course design: instructors need to ask themselves why students are failing exams rather than applying a curve (which “fixes” the symptom but not the underlying issue)
+
+**Check your own biases and assumptions:**
+
+- Confirmation bias: don’t let existing beliefs about a student bias your grading
+- Halo effect: don’t let a first impression of a student bias your grading
+- Don’t stereotype students
+- Don’t let expectations or assumptions about students affect your grading
+- Use your grading data to self-check: did you give males higher scores over females on free-response questions? What about students from historically excluded communities?
+
+**Provide opportunities for retesting:**
+
+- Allow students to apply what they learned from the assessment feedback to retest for partial or full credit
+- Assessment drives learning: give students another opportunity to grow and showcase their knowledge
+
+### Alternative Grading Methods
+
+In recent years, there has been a growing movement to move away from traditional grading methods altogether and implement alternative grading methods. Alternative grading shifts the focus from traditional letter grades (A-F) or numerical scores to a more nuanced and detailed assessment of student learning.
+
+Common alternative grading methods include standards-based grading, specifications grading, and ungrading. Briefly:
+
+- Standards-based grading assesses students’ competency of specific skills or knowledge: final grades are based on how many standards a student meets, no matter the number of attempts (Clark & Talbert, 2023).
+- In specifications or specs grading, the instructor creates a list of attributes of a successful submission for assignments. Students then earn a “Satisfactory” or “Not Yet” on their work and have the opportunity to resubmit for full credit (Clark & Talbert, 2023).
+- Ungrading removes grades in favor of formative and descriptive feedback. Instructors meet regularly with students to discuss progress, and students build a portfolio of their work and growth (Clark & Talbert, 2023).
+
+Instructors who are interested in alternative grading but can’t or aren’t ready to overhaul their course can try partial conversions, such as standards-based testing (i.e., only tests are graded using standards).
+
+`TODO there were additional resources listed on slide 35. how do we want to deal with those? just include in the resources appendix and link to that section here?`
+
+### Peer-Grading and Self-Assessment
+
+After an assessment is administered, the instructors or teaching assistants will typically be responsible for grading. However, peer-grading and self-assessment can offer several benefits to students and ease the burden of grading on instructional staff.
+
+In peer-grading, students assess and provide feedback on the work of their classmates. This approach allows students to witness a diverse range of perspectives and opinions, which can help students develop a more nuanced understanding of the subject. Peer-grading can also promote collaboration and communication skills, as students work together to share knowledge and insights.
+
+Self-assessment allows students to take ownership of their learning by evaluating their own work and reflecting on their learning, performance, and understanding. This approach can foster a sense of responsibility and accountability, as students are more likely to invest time and effort into their work when they are invested in the outcome. Additionally, self-assessment can provide students with immediate feedback on their performance, which can help them identify areas for improvement, track their progress over time, and develop self-regulation of their learning.
+
+Despite their benefits, peer-grading and self-assessment also have their challenges. With peer-grading, students may not have the same level of expertise, which can lead to inconsistent grading. Self-assessment can also lead to inaccurate grading as students might be too critical/lenient or have subjective opinions when grading their own work. It is therefore essential to establish clear criteria and rubrics for grading and provide training such as examples of high-quality feedback, guidance on using the rubric, and tips for constructive criticism. Instructors should monitor the grading process and spot-check grading to ensure that biases are minimized and fairness is maintained.
+
+!!! warning "Workbook"
+    After reviewing principles for more equitable grading, list 3 commitments you will make.
+
+!!! warning "Workbook"
+    Check the alignment between your summative assessment plan and your inclusive learning commitments, learning objectives, and syllabus. Does anything need to be adjusted?
 
 ## An AJEDI Lexicon for Summative Assessment
 
