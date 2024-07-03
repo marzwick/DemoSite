@@ -125,13 +125,9 @@ By using a variety of assessment methods, instructors can gain a more comprehens
 ```@raw html
 <figure>
     <figcaption>
-        <p><strong id="table1-label">Table 1. Practice vs. Test Matrix</strong><br><span id="table1-summary">Description here.</span></p>
+        <p><strong id="table1-label">Table 1. How/Why to Use Common Summative Assessment Techniques</strong><br><span id="table1-summary">Description here.</span></p>
     </figcaption>
     <table aria-labelledby="table1-label" aria-describedby="table1-summary">
-        <tr>
-            <td></td>
-            <th scope="col">How/Why to Use</th>
-        </tr>
         <tr>
             <th scope="row">Tests (e.g., quizzes and exams)</th>
             <td>
@@ -237,6 +233,51 @@ Additionally, well-designed summative assessment plans have a high number of sum
     How do they align with the knowledge, skills, and competencies for your course?
 
     How are students demonstrating facets of science?
+
+### Rubrics
+
+All summative assessments need to be evaluated in a way that’s standardized and consistent across student work. Rubrics are a tool that can achieve this goal by providing a detailed description of the criteria and standards used to assess student performance. Without rubrics, assessments can be subjective and biased, leading to unfair grading and lack of clarity for students. Rubrics also help instructors identify areas where students need improvement, which can provide specific, targeted support and inform instruction.
+
+To write a rubric, first establish clear and specific criteria that outline the expectations for student performance. What do students need to do to achieve a particular grade? Grading criteria may include elements such as content knowledge, organization, critical thinking, and creativity.
+
+Using your grading criteria, design a rubric. This typically consists of a grid or chart that outlines the specific criteria for success, along with descriptions of different levels of performance for each criterion (e.g., developing, proficient, and excellent). Rubrics help instructors assess student work systematically and consistently, providing feedback that is aligned with the established criteria.
+
+To support student learning, we strongly advise instructors to share rubrics with students prior to the assessment. Rubrics provide transparency and clarity to students about what is expected of them and how their work will be evaluated. Additionally, rubrics allow students to monitor their progress and make improvements based on the established criteria.
+
+!!! note "Activity"
+    Dr. Kane has assigned students to write a lab report on an enzyme assay. She has also provided students with the following rubric:
+
+    ```@raw html
+    <figure>
+        <figcaption>
+            <p><strong id="table2-label">Table 2. Dr. Kane's Rubric</strong><br><span id="table2-summary">Description here.</span></p>
+        </figcaption>
+        <table aria-labelledby="table2-label" aria-describedby="table2-summary">
+            <tr>
+                <th scope="col">Points</th>
+                <th scope="col">Criteria</th>
+            </tr>
+            <tr>
+                <td>40</td>
+                <td>Content: Is the lab report well-written and informative?</td>
+            </tr>
+            <tr>
+                <td>35</td>
+                <td>Grammar: Are there any spelling, grammatical, or punctuation errors?</td>
+            </tr>
+            <tr>
+                <td>25</td>
+                <td>Format: Is the paper double-spaced? Is the font Arial and 12-point? Are figure captions after figures and table captions before tables? Is every paragraph indented? Are section headers title case and bold?</td>
+            </tr>
+        </table>
+    </figure>
+    ```
+
+    Using the following prompts, provide a critique of the rubric:
+
+    - Are the assessment criteria clear?
+    - Are guidelines for assigning points clear and specific?
+    - What aspects of the lab report does the rubric emphasize as most important, and are these priorities justified in the context of the assignment?
 
 ## `TODO` Inclusive section, slides 24+
 
