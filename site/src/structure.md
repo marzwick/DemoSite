@@ -15,9 +15,9 @@ This module is divided into a number of submodules. Their objectives are:
 
 `TODO: write these`
 
-**A framework for Course Structure:**
+**A Framework for Course Structure:**
 
-`TODO: write these`
+- Considering the principles of Universal Design, determine how you will make your course accessible and inclusive..
 
 **Course Structure in Practice:**
 
@@ -41,7 +41,7 @@ The organizational structure of a course, including schedule, format, communicat
 
 !!! note "Activity"
 
-    ==Engagement Vignette [sunny]:==
+    **Engagement Vignette [Sunny]:**
 
     <span style="font-size:0.8em;">
 
@@ -61,7 +61,7 @@ The organizational structure of a course, including schedule, format, communicat
 
     Best regards,
 
-    Mei Wong, Ph.D. (she/her, they/them)
+    **Mei Wong, Ph.D.** (she/her, they/them)
 
     University of Universities
     Department Biological Sciences
@@ -71,7 +71,7 @@ The organizational structure of a course, including schedule, format, communicat
 
     ---
 
-    ==Engagement Vignette [Cloudy]==
+    **Engagement Vignette [Cloudy]**
 
     <span style="font-size:0.8em;">
 
@@ -93,10 +93,31 @@ The organizational structure of a course, including schedule, format, communicat
 
     Sincerely,
 
-    Emilio Reyes, Ph.D.
-    
+    **Emilio Reyes, Ph.D.**
+
     University of Universities
     Department of Biological Sciences
     ereyes@school.edu
+
+    </span>
+
+    ---
+
+    **Opening Activity**
+
+    Read Dr. Reyes's and Dr. Wong's "Welcome to Class" email. 
+    
+    - What do these emails reveal about the class atmosphere and course structure? 
+    - How do you feel after reading these?
+
+---
+
+## A Framework for Course Structure 
+
+By adopting the principles of Universal Design, an instructor can build an inclusive course from the outset.
+
+**Universal Design for Learning (UDL)** is a *framework for designing and delivering flexible, inclusive, and accessible learning experiences that can be customized to meet the needs of all learners*, regardless of their abilities, backgrounds, or learning preferences (CAST, 2018). It is rooted in the principles of **Universal Design**, which is an approach to creating products environments, and experiences that are **usable by as many people as possible without the need for adaptation or specialized design**. UDL is based on the idea that learning should be engaging, relevant, and responsive to individual needs. Importantly, **UDL aims to change thedesign of the environment rather than to change the learner.**
+
+As we saw previously, **Universal Design for Learning (UDL)** *places accessibility at the forefront and leverages various AJEDI principles* for improving teaching and learning for all students. To help implement UDL in the classroom, the Center for Applied Special Technology (CAST) developed the **UDL Guidelines** (CAST, 2018). These are *a set of principles and strategies that aim to provide equal and inclusive access to learning for all students*, including those with disabilities or diverse learning styles. The guidelines provide specific recommendations for creating flexible and engaging learning environments and materials that can be customized to meet the diverse needs and preferences of all students.
 
 
