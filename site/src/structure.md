@@ -250,15 +250,7 @@ In the context of education, accessibility refers to the practice of creating le
 
 Students with disabilities face many challenges when seeking accommodations in higher education (Gin et al., 2020).
 
-1. <mark style="background-color: #FF9B9B   ">  Individuals with disabilities are often discriminated against in 1 society, and students may be reluctant to disclose their disabilities in the context of college. <span>
-
-2. <mark style="background-color: #FFB19B "> Students may fear being singled out by an instructor for their 2 disabilities, which may encourage them to conceal their disabilities, if possible. <span>
-
-3. <mark style="background-color: #FFD79B ">  Navigating the accommodations process can be physically, mentally, and emotionally taxing for students with disabilities. </span>
-
-4. <mark style="background-color: #FFF79B"> Instructors can have lower academic expectations for students with disabilities compared with students who do not have disabilities. </span>
-
-5. <mark style="background-color: #D6FF9B"> A study found that regardless of the type of postsecondary institution, STEM majors with disabilities received fewer accommodations than non-STEM majors with disabilities. </span>
+![slide24](https://raw.githubusercontent.com/marzwick/images/main/cs24.png)
 
 !!! note "Activity"
 
@@ -305,3 +297,25 @@ Studies have shown that using UDL principles and teaching strategies **positivel
 Structuring a course using UDL and AJEDI principles positively impacts students, increasing engagement,and empowering students. 
 
 ![slide32](https://raw.githubusercontent.com/marzwick/images/main/cs32.png)
+
+**Show Me the Data!**
+
+To determine the possible impact of equity-oriented pedagogy on student learning, researchers recruited 54 undergraduate students for a treatment group and 59 students for a control. Equity- oriented pedagogy was defined as using specific components of democratic, assessment-driven, strengths-based, multimodal, and game-based pedagogies. Instructors in the treatment group applied the equity-oriented pedagogy, using student data and feedback to adjust instruction, while instructors for the control group used a standard pedagogy and no data/feedback.
+
+The researchers found statistically **significant differences on the final assessment scores** in favor of students who were in the treatment classroom (p < .0001). Students in each group answered questions before each lesson (pre) and at the end of each lesson (post). These scores each week are shown in Figure 1. **Students in the treatment group consistently outperformed those in the control group** (Phuong et al., 2017).
+
+`TODO: Create plot?`
+
+![slide33](https://raw.githubusercontent.com/marzwick/images/main/cs33.png)
+
+
+
+!!! note "Activity" 
+    **Evaluate the Data Yourself**
+
+    A curriculum called i-NATURE (Indigenous integration of Aquatic sciences and Traditional Ecological Knowledge for Undergraduate culturally Responsive Education) is a culturally relevant, project-, and place-based curriculum that includes extensive applied research experience contextualized for specific Indigenous communities. Researchers tested whether implementation of the i-NATURE curriculum improved retention and learning outcomes for the students who participated (Alexiades et al., 2021).
+
+    ![slide34](https://raw.githubusercontent.com/marzwick/images/main/cs34.png)
+
+    ![slide35](https://raw.githubusercontent.com/marzwick/images/main/cs35.png)
+
