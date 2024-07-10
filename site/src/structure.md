@@ -120,4 +120,19 @@ By adopting the principles of Universal Design, an instructor can build an inclu
 
 As we saw previously, **Universal Design for Learning (UDL)** *places accessibility at the forefront and leverages various AJEDI principles* for improving teaching and learning for all students. To help implement UDL in the classroom, the Center for Applied Special Technology (CAST) developed the **UDL Guidelines** (CAST, 2018). These are *a set of principles and strategies that aim to provide equal and inclusive access to learning for all students*, including those with disabilities or diverse learning styles. The guidelines provide specific recommendations for creating flexible and engaging learning environments and materials that can be customized to meet the diverse needs and preferences of all students.
 
+The UDL Guidelines encompass **three key principles:** providing multiple means of (1) Engagement, (2) Representation, and (3) Action and Expression.
+
+![slide10](https://raw.githubusercontent.com/marzwick/images/main/cs10.jpeg)
+
+**UDL Guidelines: Multiple Means of Representation**  
+
+In this submodule, we will be focusing on the principle of providing **multiple means of Representation.** This principle outlines strategies for creating course materials that provide options for perception, language and symbols, and comprehension.
+- **Perception:** *Present information in a variety of formats*, such as visual, auditory, and tactile. Instructors can use this principle to ensure that textbooks, videos, lectures, and other course materials are accessible to all students, including those with disabilities or those who process information differently. By incorporating visual aids, videos, diagrams, and other interactive media, instructors provide multiple ways of representing important information and allow students to choose the means that work best for them.
+
+- **Language & Symbols:** *Use clear, concise, and accessible language and symbols and avoid language or symbols that may be exclusive, biased, or offensive.* This guideline aims to promote understanding and reduce barriers to learning by selecting language and symbols that are familiar and meaningful to all learners. This can be achieved by providing captioning, transcripts, and audio descriptions for multimedia content, incorporating pictures or symbols to represent concepts, and avoiding jargon or complex language whenever possible, and providing alternative means of representation for students with different cultural and linguistic
+backgrounds.
+
+- **Comprehension:** *Incorporate a variety of instructional techniques to ensure that students can access, process, and assimilate new information and knowledge.* Instructors need to provide supports and scaffold curriculum to help students comprehend the material. This can include activating or providing prior knowledge; providing explicit cues or prompts to emphasize key elements, concepts, and features; embedding scaffolds and feedback to organize and process information; and incorporating opportunities for students to apply their knowledge to new contexts.
+
+For more information on the other two principles, visit the [CAST UDL website](https://udlguidelines.cast.org/).
 
