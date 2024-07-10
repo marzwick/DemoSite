@@ -21,7 +21,9 @@ This module is divided into a number of submodules. Their objectives are:
 
 **Course Structure in Practice:**
 
-`TODO: write these`
+- Communicating course structure to students
+- Structuring for Accessibility
+- Creating a High Structure Course
 
 *Universal Design: Focusing on Accessibility:*
 
@@ -135,4 +137,27 @@ backgrounds.
 - **Comprehension:** *Incorporate a variety of instructional techniques to ensure that students can access, process, and assimilate new information and knowledge.* Instructors need to provide supports and scaffold curriculum to help students comprehend the material. This can include activating or providing prior knowledge; providing explicit cues or prompts to emphasize key elements, concepts, and features; embedding scaffolds and feedback to organize and process information; and incorporating opportunities for students to apply their knowledge to new contexts.
 
 For more information on the other two principles, visit the [CAST UDL website](https://udlguidelines.cast.org/).
+
+---
+
+## Course Structure in Practice
+
+Communicating course structure to students
+
+- First day of class
+
+Instructors might consider collaborating with various colleagues or resources as they design their course to meet UDL guidelines. For example, instructors could consult with:
+
+- Staff at the university's center for teaching and learning
+- Staff at the university's disability services office Diversity, Equity, and Inclusion (DEI) specialists
+- Teaching assistants
+- Technology specialists
+
+!!! note "Activity"
+
+    **Evaluate the way this instructor uses UDL principles on their first day of class.**
+    
+    Review the following slides from an introductory biology class for nonmajors (asynchronous and online). What elements from the UDL Guidelines are present? Additionally, how could the slides be improved?
+
+    `TODO: add slides`
 
