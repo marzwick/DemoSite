@@ -18,84 +18,17 @@ By taking this module, we hope you will be able to...
 - Examine why diversity matters in science.
 - Begin applying scientific teaching to your own teaching and course(s).
 
-### Submodule Objectives
-
-**Scientific Teaching Defined:**
-
-- Define scientific teaching.
-- Articulate the goals of scientific teaching.
-- Understand key concepts and principles:
-    - Scientific teaching is both the teaching of science and the science of teaching.
-    - The goals of scientific teaching are to make teaching and learning more scientific and increase diversity in STEM.
-    - Scientific teaching means being intentional, inclusive, and iterative.
-
-**Why Scientific Teaching:**
-
-`TODO we still need to address the use of "good" and whether we are going to select a different word`
-
-- Explain why scientific teaching leads to good science education, good science, and good teaching
-- Examine how various courses (including your own) uphold scientific teaching.
-- Commit to one change in your course to uphold scientific teaching principles.
-- Understand key concepts and principles:
-    - Good science education means equitable science education.
-    - Good science is inclusive science.
-    - Good teaching is intentional, inclusive, and iterative.
-
-*Good Science Education:*
-
-- Identify barriers to good science education around the world.
-- List recommendations to improve science education in your country.
-- Commit to one systemic recommendation for improving diversity in STEM.
-- Commit to one discrete action you could take to improve how science is taught in your own course.
-- Understand key concepts and principles:
-    - Poor teaching methods are the main reason college students switch out of STEM majors.
-    - Myriad reports call for changes in teaching practices to foster inclusive learning environments.
-    - STEM education reform can happen at many levels. As an instructor, you have agency for change in your courses.
-
-*Good Science:*
-
-- Explain why it is important for students to learn the facets of science.
-- Examine how your current course schedule engages students in the facets of science.
-- Commit to the facets of science you want your future course schedule to embody.
-- Understand key concepts and principles:
-    - The facets of science include much more than the facts of science.
-    - The facets of science include thinking like a scientist, using the tools of a scientist, and communicating like a scientist.
-    - Students who engage in authentic science practices are more likely to persist in STEM.
-
-*Good Teaching:*
-
-- Identify what aspects of teaching science are personally motivating for you.
-- Reconsider how you think of the course material and the role of instructors and students in the course.
-- Connect good science teaching with intentional course design, inclusive learning, and iterative approaches.
-- Understand key concepts and principles:
-    - Good teaching moves away from the instructor covering content toward the student learning science.
-    - Change can be achieved at many levels. The STC focuses on what instructors have agency to change: the classroom.
-    - Good teaching is intentional, inclusive, and iterative.
-
-**A Framework for Scientific Teaching:**
-
-- Examine the parallels between your scientific research and your teaching approaches.
-- Commit to one action you could take to address each of the five dimensions of diversity and equity in your course.
-- Understand key concepts and principles:
-    - Good teaching embodies five dimensions of diversity and equity: students, instructors, curriculum, pedagogy, and the classroom climate and group dynamics.
-    - These dimensions can work together to create a cohesive learning experience.
-    - Instructors do not need to be educational experts to be good teachers, but it helps to use methods that are (1) based on solid theory, (2) tested and evaluated in the classroom, and (3) organized by a logical framework.
-
-**Scientific Teaching in Practice:**
-
-- Describe how scientific teaching leverages the facets of science for students for learning and for instructors while teaching.
-- Commit to one action you could take to put scientific teaching in practice with respect to students learning science and for you, the instructor, teaching science.
-- Understand key concepts and principles:
-    - Scientific teaching offers a natural structure for teaching that parallels our scientific research, as well as the scientific practices we are asking our students to learn.
-    - The STC focuses on what instructors have agency to change: The classroom.
-
-**Lexicon of Scientific Teaching:**
-
-- Know the definitions of terms used in STC
-- Understand key concepts and principles:
-    - Words used in scientific teaching support a common, shared understanding.
-
 ## Scientific Teaching Defined
+
+!!! compat "Objectives"
+    By the end of this section, you will be able to:
+
+    - Define scientific teaching.
+    - Articulate the goals of scientific teaching.
+    - Understand key concepts and principles:
+        - Scientific teaching is both the teaching of science and the science of teaching.
+        - The goals of scientific teaching are to make teaching and learning more scientific and increase diversity in STEM.
+        - Scientific teaching means being intentional, inclusive, and iterative.
 
 Scientific teaching is both the *teaching of science* and the *science of teaching*. An instructor who practices scientific teaching:
 
@@ -129,9 +62,34 @@ The modules build on and reinforce each other:
 
 ## Why Scientific Teaching?
 
+`TODO we still need to address the use of "good" and whether we are going to select a different word`
+
+!!! compat "Objectives"
+    By the end of this section, you will be able to:
+
+    - Explain why scientific teaching leads to good science education, good science, and good teaching
+    - Examine how various courses (including your own) uphold scientific teaching.
+    - Commit to one change in your course to uphold scientific teaching principles.
+    - Understand key concepts and principles:
+        - Good science education means equitable science education.
+        - Good science is inclusive science.
+        - Good teaching is intentional, inclusive, and iterative.
+
 `TODO distillation sentence / paragraph for this submodule`
 
 ### Good Science Education
+
+!!! compat "Objectives"
+    By the end of this section, you will be able to:
+
+    - Identify barriers to good science education around the world.
+    - List recommendations to improve science education in your country.
+    - Commit to one systemic recommendation for improving diversity in STEM.
+    - Commit to one discrete action you could take to improve how science is taught in your own course.
+    - Understand key concepts and principles:
+        - Poor teaching methods are the main reason college students switch out of STEM majors.
+        - Myriad reports call for changes in teaching practices to foster inclusive learning environments.
+        - STEM education reform can happen at many levels. As an instructor, you have agency for change in your courses.
 
 **Good science education is equitable science education.**
 
@@ -249,6 +207,17 @@ Change can be achieved at many levels. Policy decisions can be improved when pol
     - One discrete action you could take to improve how science is taught in your own course.
 
 ### Good Science
+
+!!! compat "Objectives"
+    By the end of this section, you will be able to:
+
+    - Explain why it is important for students to learn the facets of science.
+    - Examine how your current course schedule engages students in the facets of science.
+    - Commit to the facets of science you want your future course schedule to embody.
+    - Understand key concepts and principles:
+        - The facets of science include much more than the facts of science.
+        - The facets of science include thinking like a scientist, using the tools of a scientist, and communicating like a scientist.
+        - Students who engage in authentic science practices are more likely to persist in STEM.
 
 Good science is inclusive science.
 
@@ -446,6 +415,17 @@ In order to achieve these goals, we need to teach in a way that intentionally en
 
 ### Good Teaching
 
+!!! compat "Objectives"
+    By the end of this section, you will be able to:
+
+    - Identify what aspects of teaching science are personally motivating for you.
+    - Reconsider how you think of the course material and the role of instructors and students in the course.
+    - Connect good science teaching with intentional course design, inclusive learning, and iterative approaches.
+    - Understand key concepts and principles:
+        - Good teaching moves away from the instructor covering content toward the student learning science.
+        - Change can be achieved at many levels. The STC focuses on what instructors have agency to change: the classroom.
+        - Good teaching is intentional, inclusive, and iterative.
+
 **Good teaching moves from covering content to learning science.**
 
 To integrate science authentically into teaching requires moving beyond a mindset of “covering the content” toward designing experiences in which students actively develop the essential knowledge, skills, and mindsets that align with how science is practiced.
@@ -486,6 +466,16 @@ Like science, these teaching principles take time to practice and implement. Als
     - Increase equity of science: Students with diverse identities persist in science, enhancing the range of questions that scientists investigate and the ways that science benefits society.
 
 ## A Framework for Scientific Teaching
+
+!!! compat "Objectives"
+    By the end of this section, you will be able to:
+
+    - Examine the parallels between your scientific research and your teaching approaches.
+    - Commit to one action you could take to address each of the five dimensions of diversity and equity in your course.
+    - Understand key concepts and principles:
+        - Good teaching embodies five dimensions of diversity and equity: students, instructors, curriculum, pedagogy, and the classroom climate and group dynamics.
+        - These dimensions can work together to create a cohesive learning experience.
+        - Instructors do not need to be educational experts to be good teachers, but it helps to use methods that are (1) based on solid theory, (2) tested and evaluated in the classroom, and (3) organized by a logical framework.
 
 ```@setup fivedims
 using Luxor
@@ -566,6 +556,15 @@ There are five dimensions to inclusive teaching:
     Complete Activity TK in your workbook: Commit to one action you could take to address each of the five dimensions of inclusive teaching. 
 
 ## Scientific Teaching in Practice
+
+!!! compat "Objectives"
+    By the end of this section, you will be able to:
+
+    - Describe how scientific teaching leverages the facets of science for students for learning and for instructors while teaching.
+    - Commit to one action you could take to put scientific teaching in practice with respect to students learning science and for you, the instructor, teaching science.
+    - Understand key concepts and principles:
+        - Scientific teaching offers a natural structure for teaching that parallels our scientific research, as well as the scientific practices we are asking our students to learn.
+        - The STC focuses on what instructors have agency to change: The classroom.
 
 Scientific teaching offers a natural structure for teaching that parallels our scientific research, as well as the scientific practices we are asking our students to learn. 
 
@@ -776,6 +775,13 @@ Scientific teaching offers a natural structure for teaching that parallels our s
 During the rest of the course, you will have the chance to practice each of these.
 
 ## Lexicon of Scientific Teaching
+
+!!! compat "Objectives"
+    By the end of this section, you will be able to:
+
+    - Know the definitions of terms used in STC
+    - Understand key concepts and principles:
+        - Words used in scientific teaching support a common, shared understanding.
 
 - Active learning
 - AJEDI
