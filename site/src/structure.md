@@ -80,6 +80,7 @@ The organizational structure of a course, including schedule, format, communicat
     Dear students,
 
     I am writing to welcome you to BIO 101 - Introduction to Biology. My name is Emilio Reyes, and I will be your instructor for this course.
+    
     Biology is a complex and fascinating field that requires a disciplined and rigorous approach to learning. Throughout this course, we will
     cover the fundamental concepts of biology, including cell biology, genetics, ecology, and evolution.
 
@@ -142,9 +143,9 @@ For more information on the other two principles, visit the [CAST UDL website](h
 
 ## Course Structure in Practice
 
-Communicating course structure to students
+**Communicating course structure to students**
 
-- First day of class
+<u> First day of class</u> 
 
 Instructors might consider collaborating with various colleagues or resources as they design their course to meet UDL guidelines. For example, instructors could consult with:
 
@@ -161,3 +162,29 @@ Instructors might consider collaborating with various colleagues or resources as
 
     `TODO: add slides`
 
+<u> Learner-Centered Syllabi</u> 
+
+The syllabus offers one of the first opportunities for instructors to communicate with their students about the course and begin building an inclusive learning environment. The **conventional syllabus** is *content-focused*, providing a brief overview of the course subject matter followed by a weekly outline of topics to be covered, and a list of assignments and course activities with relative grading weights and due dates.
+
+A **learner-centered syllabus** also provides basic course information, but **it shifts the emphasis** from what the instructor will cover in the course *to what learning outcomes students will achieve by the end of the course* (Johnson, 2006). It explains how learning will be assessed and offers information and tools to promote student learning and intellectual development in an inclusive environment. It establishes the responsibilities of the instructor(s) and students for achieving course goals. In short, the learner-centered syllabus "becomes an invitation to share responsibility for successful learning" (O'Brien et al., 2008, p. 22).
+
+In his book, "What the Best College Teachers Do," Ken Bain (2004) describes three parts of what he calls "the promising syllabus":
+
+1. **Highlight the promises or opportunities.**
+
+    - What kinds of questions
+    - will the course help students answer?
+    - What kind of intellectual, physical, emotional, or social abilities will it help them develop?
+    - Why is the course relevant?
+
+2. **Explain what students will do to meet those promises.**
+
+    - What are the learning activities (e.g., activities, assignments, readings) that will be used in the course?
+    - How will they learn from the course resources, the instructional team, and each other?
+    - Give students a sense of agency in their education
+
+3. **Discuss how students will engage in the learning process.**
+
+    - How will the instructor and students best "understand the nature and progress of their learning?"
+    - How will learning be evaluated?
+    - How will all students feel included in the learning process and welcome as scientists?
