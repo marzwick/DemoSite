@@ -331,3 +331,34 @@ The researchers found statistically **significant differences on the final asses
     - [ ] Participating in the i-NATURE program did not significantly change the mean GPA of students
     - [ ] There was 100% retention in the Environmental Science and Studies Programs for students participating in the i-NATURE program
 
+!!! warning "TODO worbook name"
+    Commit to implementing one component of universal design that emphasizes accessibility in your course.
+
+    Add it to the workbook.
+
+**The High Structure Course Format**
+
+Course structure refers to the organization of a course's content, activities, experiences, and assessments. The structure of a course lies on a continuum from low to high. Low structure courses have few opportunities for engagement and assessment whereas high structure courses embed multiple opportunities for engagement and frequent assessments (Beck & Roosa, 2020). Low structure courses assume that students know how to efficiently work with course materials in and outside of class. However, data suggest that many students do not implement effective study strategies nor time management skills (Hartwig & Dunlosky, 2012). High structure courses scaffold student learning with increased engagement and practice and by decoding the learning process through clear and accessible learning goals and expectations (Beck & Roosa, 2020).
+
+![slide38](https://raw.githubusercontent.com/marzwick/images/main/cs38.png)
+
+!!! note "Activity" 
+
+    Examine the home pages for two courses, and identify which course is low structure and which one is high structure.
+
+    ![slide39](https://raw.githubusercontent.com/marzwick/images/main/cs39.png)
+
+!!! note "Activity" 
+
+    **Comparing Course Designs**
+
+    Examine the two course preparations below that describe 1 week of a course.
+
+    ![slide40](https://raw.githubusercontent.com/marzwick/images/main/cs40.png)
+
+    ![slide41](https://raw.githubusercontent.com/marzwick/images/main/cs41.png)
+
+    Which course looks more like yours and why?
+    
+    If you haven't taught a course yet, which course preparation resonates with your experiences as a student?
+  
