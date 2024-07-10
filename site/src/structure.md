@@ -259,3 +259,49 @@ Students with disabilities face many challenges when seeking accommodations in h
 4. <mark style="background-color: #FFF79B"> Instructors can have lower academic expectations for students with disabilities compared with students who do not have disabilities. </span>
 
 5. <mark style="background-color: #D6FF9B"> A study found that regardless of the type of postsecondary institution, STEM majors with disabilities received fewer accommodations than non-STEM majors with disabilities. </span>
+
+!!! note "Activity"
+
+    **Invisible Barriers and Inequity**
+
+    The image below shows an instructor making an announcement about office hours, and the different responses of his students. What unintentional inequities are revealed in this interaction, and how would you try to offset them? (Yee, 2016)
+    ![slide25](https://raw.githubusercontent.com/marzwick/images/main/cs25.png)
+
+!!! note "Activity"    
+
+    **Is it Accessible?**
+
+    For each of the following pictures and accompanying statements, list the considerations an instructor should address to ensure all students have access to learning. Think about barriers and issues related to the physical space, learning, sensory, communication, chronic health, and mental health.
+
+    ![slide26](https://raw.githubusercontent.com/marzwick/images/main/cs26.png)
+
+    ![slide27](https://raw.githubusercontent.com/marzwick/images/main/cs27.png)
+
+    ![slide28](https://raw.githubusercontent.com/marzwick/images/main/cs28.png)
+
+
+An accessible course design **reduces the need for accommodation, alleviates the burden and stigma** associated with students seeking accommodations, **saves time** for educators, and **diminishes the cost** associated with providing individual accommodations. Importantly, accessibility **improves educational outcomes for all learners** by making sure that educational materials and resources are available and usable by everyone, regardless of their individual needs.
+
+Universal Design for Learning (UDL) provides a framework that guides educators to create accessible course materials and flexible and inclusive learning experiences that meet the needs of all learners, regardless of their abilities or background. Why build a course with UDL at the forefront instead of accommodating student needs as they arise? Consider this passage from Rose and colleagues (2006):
+
+<span style="font-size:0.9em;">
+
+>"Such an environmental view fosters solutions that **address the limitations of the learning environment** rather than the limitations of the student, while making the student less of a problem, and **more a part of diversity within the course**. The advantage of such universal solutions is that, as with such approaches in built environments, they are likely to be useful for many individuals; **built once, applied many times.**" (p. 150)
+
+</span>
+
+**Individuals with disabilities are highly underrepresented in STEM degree attainment and STEM employment.**
+
+Individuals with disabilities enter postsecondary education at a slightly higher percentage in which they are represented in the general population. Additionally, individuals with disabilities enroll in STEM field majors at the same percentage as individuals without disabilities.
+
+![slide30](https://raw.githubusercontent.com/marzwick/images/main/cs30.png)
+
+**The Impact of Accessibility**
+
+Studies have shown that using UDL principles and teaching strategies **positively affect student's perception, performance, and engagement in learning.**
+
+![slide31](https://raw.githubusercontent.com/marzwick/images/main/cs31.png)
+
+Structuring a course using UDL and AJEDI principles positively impacts students, increasing engagement,and empowering students. 
+
+![slide32](https://raw.githubusercontent.com/marzwick/images/main/cs32.png)
