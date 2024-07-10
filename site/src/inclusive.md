@@ -63,8 +63,8 @@ This module is divided into a number of submodules. Their objectives are:
 
 *Mitigate stereotype threat:*
 
-- Examine how your course might activitate stereotype threat.
-- Predict how stereotype influences student outcomes.
+- Examine how your course might activate stereotype threat.
+- Predict how stereotypes influence student outcomes.
 - Commit to one action you could take to mitigate the negative impacts of stereotype   threat in your course.
 - Understand key concepts and principles:
     - Stereotype threat influences the classroom learning environment.
@@ -181,7 +181,7 @@ Your identity matters. Consider the identities that you bring to the learning en
 
 ### Address Biases and Assumptions
 
-Everyone holds biases, assumptions, and stereotypes about others, which can influence outcomes. For example, biases and assumptions affect how we rate people can have consequences for hiring decisions and advancement.
+Everyone holds biases, assumptions, and stereotypes about others, which can influence outcomes. For example, biases and assumptions affect how we rate people, which can have consequences for hiring decisions and advancement.
 
 !!! note "Hiring Studies"
 
@@ -271,12 +271,7 @@ Everyone holds biases, assumptions, and stereotypes about others, which can infl
 
 **Rating Verbal Skills:**
 
-Reviewers rated a candidate’s verbal skills based on text.
-
-They rated the candidate’s skills lower if they were told that:
-
-- An African American person wrote the text than if a they were told a white person wrote it
-- A man wrote the text than if they were told a woman wrote it
+When reviewers evaluated a candidate’s written text, their ratings of the candidate’s verbal skills were influenced by the author’s demographics. For example, when reviewers were informed that an African American person had written the text, they rated the candidate’s verbal skills lower compared to when they were told a white person had written it. Similarly, when reviewers were told that a man wrote the text, they evaluated the candidate’s skills more negatively than when they were told a woman wrote it.
 
 **More Hiring Studies:**
 
@@ -285,7 +280,7 @@ Dozens of studies have compared hiring decisions with the same setup…
 - Identical applications with a male or female name.
 - Evaluators review the applicant’s credentials and decide whether or not to hire them. 
 
-…and they all yield the same result: Evaluators are substantially more likely to hire if an applicant has man’s name.
+…and they all yield the same result: Evaluators are substantially more likely to hire if an applicant has a man’s name.
 
 **This result has not changed for 50 years.**
 
@@ -326,7 +321,7 @@ Set a tone for your class and reinforce it:
 
 Biases and assumptions can manifest as stereotypes. When those stereotypes are activated, it can result in a phenomenon called **stereotype threat**, in which people fear they may confirm negative stereotypes about their social group. This fear can negatively affect their performance and reinforce the stereotype – regardless of their actual capabilities – thereby creating a self-fulfilling prophecy. 
 
-Stereotype threat can result from negative stereotypes against any aspect of one’s identity, such as ethnicity, culture, first-generation status, veteran status, sexual orientation. It can negatively affect academic performance and persistence in STEM.
+Stereotype threat can result from negative stereotypes against any aspect of one’s identity, such as ethnicity, culture, first-generation status, veteran status, and sexual orientation. It can negatively affect academic performance and persistence in STEM.
 
 **The simple act of mentioning a stereotype can activate threat and lead to negative outcomes** [Kumar2010-mp,Stricker2015-ce,Steele2002-pt,Steele1995-bz](@cite).
 

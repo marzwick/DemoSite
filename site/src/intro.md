@@ -56,7 +56,7 @@ By taking this module, we hope you will be able to...
 
 - Explain why it is important for students to learn the facets of science.
 - Examine how your current course schedule engages students in the facets of science.
-- Commit to the facets of science you want your your future course schedule to embody.
+- Commit to the facets of science you want your future course schedule to embody.
 - Understand key concepts and principles:
     - The facets of science include much more than the facts of science.
     - The facets of science include thinking like a scientist, using the tools of a scientist, and communicating like a scientist.
