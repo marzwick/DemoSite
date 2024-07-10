@@ -188,3 +188,74 @@ In his book, "What the Best College Teachers Do," Ken Bain (2004) describes thre
     - How will the instructor and students best "understand the nature and progress of their learning?"
     - How will learning be evaluated?
     - How will all students feel included in the learning process and welcome as scientists?
+
+**Learner-Centered Syllabus Example**
+
+`TODO: add link`
+
+Click on this link to view a syllabus from Dr. Cara Gormally for an asynchronous introductory biology class for non-majors (bilingual-American Sign Language & English). Take note of what the syllabus contains. A sample of text from Dr. Gormally's syllabus is provided below (page 2, following the course description).
+
+--
+
+**What we'll actually do**
+
+- You're likely taking this class because it's required for your major.
+- My goal: make this class actually useful to your life.
+- Together, we'll make this class meaningful for ourselves. How will we do that?
+- We'll learn biology relevant to our lives: when a person is most likely to get pregnant; how Covid-19 vaccines work; why we have skin color; how antidepressants work; what we can do to slow climate change; and why we should limit plastic use.
+- There's no textbook; we'll read and watch high quality enjoyable articles and videos.
+- We'll learn how to answer questions we have related to biology, for example about health or the environment.
+- I hope you're excited about our class--I am so excited to get to know you all and do this work together! This work feels real and important to me. I hope you think so, too.
+
+**Diversity: it makes our class better**
+
+- **Build community through discussion:** Though we won't meet face-to-face, we'll learn about each other and build a community through our discussions.
+- **Diversity strengthens us:** The diversity that we all bring to this class is a resource, strength and benefit to our class. I'm committed to anti-racism and I believe Black Lives Matter. Everyone belongs here in my classroom if you want to be here. In this class, we'll use materials and activities that are respectful of diversity: gender, sexuality, disability, age, socioeconomic status, national origin, ethnicity, race, culture, etc. Your suggestions are encouraged and appreciated. Please let me know ways to improve the effectiveness of the course for you personally or for other students or student groups.
+- **You make our class what it is.** Our class will be awesome because of the diversity of perspectives, thoughts, and experiences that we will share through our work. Who you are, what you bring to our class, your perspective--it's important.
+
+!!! note "Activity"
+    **Learner-Centered Syllabus**
+
+    Now that you've seen a learner-centered syllabus, reflect on your own syllabus. (If you do not have one, think about a traditional syllabus or one from a course you've taken.) Think about the elements in a learner-centered syllabus and the components of your syllabus.
+
+    What are two things you could change in your syllabus to make it more learner-centered? You can use these prompts to help you re-imagine your syllabus:
+    - What are the promises or opportunities presented by the instructor?
+    - What activities will students do in order to meet those promises?
+    - How will students track progress of their learning (i.e., how will learning be evaluated)?
+
+!!! warning "TODO worbook name"
+    **Acting on Intentions**
+
+    Fill out the learner-centered syllabus template provided. Also, consider how you will introduce your course on the first day of class.
+
+    Add these items to the workbook.
+
+**Structuring for Accessibility**
+
+<u>What is Accessibility?</u>
+
+Providing access to resources is **fundamental to addressing inequities**, because it ensures that course structures, artifacts, and the environment do not preclude anyone from learning. However, *the mere existence of a resource* **does not by itself lead to equitable and inclusive outcomes.**
+
+**Accessibility** refers to the *design and creation of products, devices, environments, and content that can be used and accessed by all people*, including those with disabilities or other impairments. The goal of accessibility is to **provide equal access and opportunities for everyone, regardless of their abilities**, so that they can participate fully in all aspects of society. This includes considerations such as physical, digital, and social accessibility.
+
+In the context of education, accessibility refers to the practice of creating learning environments, resources, and technologies that allow all students to access and engage with academic content and participate in learning activities.
+
+- **Physical accessibility:** Make physical spaces and materials accessible, such as by providing wheelchair ramps, captioning videos, and offering alternative formats of textbooks. 
+- **Digital accessibility:** Design digital content and technologies that are compatible with assistive technologies, such as screen readers and text-to-speech software.
+- **Social accessibility:** Use inclusive language, accommodate different communication styles.
+
+**The Need for Accessibility**
+
+`TODO: add citations slide 24`
+
+Students with disabilities face many challenges when seeking accommodations in higher education (Gin et al., 2020).
+
+1. <mark style="background-color: #FF9B9B   ">  Individuals with disabilities are often discriminated against in 1 society, and students may be reluctant to disclose their disabilities in the context of college. <span>
+
+2. <mark style="background-color: #FFB19B "> Students may fear being singled out by an instructor for their 2 disabilities, which may encourage them to conceal their disabilities, if possible. <span>
+
+3. <mark style="background-color: #FFD79B ">  Navigating the accommodations process can be physically, mentally, and emotionally taxing for students with disabilities. </span>
+
+4. <mark style="background-color: #FFF79B"> Instructors can have lower academic expectations for students with disabilities compared with students who do not have disabilities. </span>
+
+5. <mark style="background-color: #D6FF9B"> A study found that regardless of the type of postsecondary institution, STEM majors with disabilities received fewer accommodations than non-STEM majors with disabilities. </span>
