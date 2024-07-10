@@ -315,7 +315,19 @@ The researchers found statistically **significant differences on the final asses
 
     A curriculum called i-NATURE (Indigenous integration of Aquatic sciences and Traditional Ecological Knowledge for Undergraduate culturally Responsive Education) is a culturally relevant, project-, and place-based curriculum that includes extensive applied research experience contextualized for specific Indigenous communities. Researchers tested whether implementation of the i-NATURE curriculum improved retention and learning outcomes for the students who participated (Alexiades et al., 2021).
 
+    `TODO: Create plot? + resize`
+
     ![slide34](https://raw.githubusercontent.com/marzwick/images/main/cs34.png)
 
     ![slide35](https://raw.githubusercontent.com/marzwick/images/main/cs35.png)
+
+    ---
+
+    **What conclusions can you draw from the data shown above? (Check all that apply.)**
+
+    - [ ] The i-NATURE program had no effect on annual percentage retention or mean course GPA
+    There is a statistically significant difference in mean course GPA for students after participating in the i-NATURE program
+    - [ ] Participating in the i-NATURE program did not significantly change the annual percentage retained
+    - [ ] Participating in the i-NATURE program did not significantly change the mean GPA of students
+    - [ ] There was 100% retention in the Environmental Science and Studies Programs for students participating in the i-NATURE program
 
