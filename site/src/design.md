@@ -4,29 +4,7 @@
 
 ## Module Goals
 
-### Submodule Objectives
-
-**Course Design Defined:**
-
-**Why Course Design:**
-
-**A Framework for Course Design:**
-
-*Backward Design:*
-
-- Examine the parallels between your scientific research and your teaching approaches.
-- Commit to one action you could take to address each of the five dimensions of diversity and equity in your course.
-- Understand key concepts and principles:
-    - Good teaching embodies five dimensions of inclusion: students, instructors, curriculum, pedagogy, and the classroom climate.
-    - These dimensions can work together to create a cohesive learning experience.
-    - Instructors do not need to be educational experts to be good teachers, but it helps to use methods that are (1) based on solid theory, (2) tested and evaluated in the classroom, and (3) organized by a logical framework. 
-
-
-**Course Design in Practice:**
-
-*Setting learning goals and learning objectives:*
-
-**An AJEDI Lexicon for Course Design:**
+`TODO: write these`
 
 ## Course Design Defined
 
@@ -135,6 +113,16 @@ The following 6 statements make up a "rubric" to help gauge effective course des
 `TODO did we skip this?`
 
 ## A Framework for Course Design
+
+!!! compat "Objectives"
+    By the end of this section, you will be able to:
+
+    - Examine the parallels between your scientific research and your teaching approaches.
+    - Commit to one action you could take to address each of the five dimensions of diversity and equity in your course.
+    - Understand key concepts and principles:
+        - Good teaching embodies five dimensions of inclusion: students, instructors, curriculum, pedagogy, and the classroom climate.
+        - These dimensions can work together to create a cohesive learning experience.
+        - Instructors do not need to be educational experts to be good teachers, but it helps to use methods that are (1) based on solid theory, (2) tested and evaluated in the classroom, and (3) organized by a logical framework. 
 
 ### Five Dimensions of Inclusive Teaching
 

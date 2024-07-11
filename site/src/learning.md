@@ -9,45 +9,14 @@ In this module, we hope you will...
 - Examine evidence-based strategies for eliciting and contending with prior knowledge.
 - Apply learning sciences principles to your own teaching and course(s).
 
-### Submodule Objectives
-
-This module is divided into a number of submodules. Their objectives are:
-
-**Learning Defined:**
-
-`TODO: write these`
-
-**Why Learning:**
-
-`TODO: write these`
-
-**A Framework for Learning:**
-
-`TODO: write these`
-
-*Seven Principles for Learning:*
-
-`TODO: write these`
-
-*The Role of Prior Knowledge in Learning:*
-
-`TODO: write these`
-
-**The Biology of Learning:**
-
-`TODO: write these`
-
-**Factors that Affect Learning:**
-
-`TODO: write these`
-
-**Learning in Practice:**
-
-`TODO: write these`
-
 ---
 
 ## Learning Defined
+
+!!! compat "Objectives"
+    By the end of this section, you will be able to:
+
+    `TODO: write these`
 
 Learning is the acquisition and integration of new information that leads to a change in behavior.
 
@@ -64,6 +33,11 @@ Learning is the acquisition and integration of new information that leads to a c
 
 ## Why Learning
 
+!!! compat "Objectives"
+    By the end of this section, you will be able to:
+
+    `TODO: write these`
+
 When we approach from the perspective of what students will learn rather than what we will teach… [TBD]
 
 ![slide8](https://raw.githubusercontent.com/marzwick/images/main/slide8.png)
@@ -75,6 +49,11 @@ Move away from assumptions that students are lacking and move toward the idea th
 ---
 
 ## A Framework for Learning
+
+!!! compat "Objectives"
+    By the end of this section, you will be able to:
+
+    `TODO: write these`
 
 **Constructing Knowledge**
 
@@ -101,6 +80,11 @@ Move away from assumptions that students are lacking and move toward the idea th
 
 ### Seven Principles for Learning
 
+!!! compat "Objectives"
+    By the end of this section, you will be able to:
+
+    `TODO: write these`
+
 This brings us to a set of research-based principles that are important for learning (Ambrose et al., 2010). 
 1. Prior knowledge can help or hinder learning.
 2. How students organize knowledge influences how they learn and apply what they know.
@@ -113,6 +97,11 @@ This brings us to a set of research-based principles that are important for lear
 ---
 
 ### The Role of Prior Knowledge in Learning
+
+!!! compat "Objectives"
+    By the end of this section, you will be able to:
+
+    `TODO: write these`
 
 Let’s start with prior knowledge. We often think of prior knowledge as “right” and “wrong.” We say that students either get it, or they don’t. This thinking leads us to assume that students hold misconceptions that need to be “corrected” or “replaced” with a right answer. We become frustrated when they get answers wrong that we lectured about or they read in the textbook.
 
@@ -298,6 +287,11 @@ Misconceptions are difficult to refute for a number of reasons:
 
 ## The Biology of Learning
 
+!!! compat "Objectives"
+    By the end of this section, you will be able to:
+
+    `TODO: write these`
+
 - A human brain comprises 1011 neurons. 
 - Each neuron is capable of thousands of connections.
 - Average brain has 1015 neural connections.
@@ -321,6 +315,11 @@ Many things contribute to learning, including one’s prior experiences, stress,
 
 ## Factors that Affect Learning
 
+!!! compat "Objectives"
+    By the end of this section, you will be able to:
+
+    `TODO: write these`
+
 Students are not necessarily well-informed about best learning practices. They often engage in whatever strategies have previously worked without being consciously aware of whether they are effective. Their choices are also affected by their interest in a topic, their motivation, and how much time they have to devote to learning something. 
 
 **Memory and Retrieval**
@@ -330,6 +329,11 @@ The strength of a memory represents how associated the memory is with related kn
 ---
 
 ## Learning in Practice
+
+!!! compat "Objectives"
+    By the end of this section, you will be able to:
+
+    `TODO: write these`
 
 **Developing Conceptual Frameworks**  
 

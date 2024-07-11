@@ -20,97 +20,25 @@ In this module, we hope you will...
 - Commit to one action you could take to ensure students engage in the facets of science.
 - Commit to one action you could take to create a productive failure experience in your course. 
 
-### Submodule Objectives
-
-This module is divided into a number of submodules. Their objectives are:
-
-**Inclusive Learning Defined:**
-
-`TODO write these`
-
-**Why Inclusive Learning:**
-
-- Explain why inclusive learning environments matter.
-- Identify actions an instructor can take to create inclusive learning environments.
-- Understand key concepts and principles:
-    - Inclusive learning environments lead to persistence and diversity in STEM.
-    - Inclusive learning environments come from inclusive teaching practices.
-
-**A Framework for Inclusive Learning:**
-
-`TODO write these`
-
-**Inclusive Learning in Practice:**
-
-*Share Your Identity:*
-
-- Examine your identities.
-- Predict how instructor identities influence student outcomes.
-- Decide which identities to share.
-- Understand key concepts and principles:
-    - Your identity influences the classroom learning environment.
-    - The first step is to be aware of them.
-
-*Address Biases and Assumptions:*
-
-- Examine your biases and assumptions.
-- Predict how biases and assumptions influence student outcomes.
-- Commit to one action you could take to mitigate the negative impacts of biases and assumptions in your course.
-- Understand key concepts and principles:
-    - Biases and assumptions influence the classroom learning environment.
-    - We all hold biases and assumptions.
-    - Biases and assumptions are very difficult to change, but the first step is to be aware of them.
-
-*Mitigate stereotype threat:*
-
-- Examine how your course might activate stereotype threat.
-- Predict how stereotypes influence student outcomes.
-- Commit to one action you could take to mitigate the negative impacts of stereotype   threat in your course.
-- Understand key concepts and principles:
-    - Stereotype threat influences the classroom learning environment.
-    - We all hold stereotypes.
-    - Stereotypes are very difficult to change, but the first step is to be aware of them.
-
-*Create a sense of belonging in STEM:*
-
-- Examine how your course might create or preclude a sense of belonging.
-- Predict how belonging influences student outcomes.
-- Commit to one discrete and one systemic action you could take to promote a positive sense of belonging in your course.
-- Understand key concepts and principles:
-    - The classroom learning environment influences the extent to which student feel a sense of belonging.
-    - Belonging affects outcomes and persistence in STEM.
-
-*Connect Facets of Science with Inclusive Learning:*
-
-- Examine how your course provides students with access to the facets of science.
-- Predict how experiencing the facets of science influences student outcomes.
-- Commit to one action you could take to ensure students engage in the facets of science. 
-- Understand key concepts and principles
-    - The facets of science provide a framework for engaging students in learning science authentically.
-    - Students who engage in authentic science practices are more likely to persist in STEM.
-    - Just one CURE in college can increase persistence in STEM.
-
-*Create Productive Failure Experiences:*
-
-- Examine where students implicitly or explicitly learn about failure in your course.
-- Predict how experiencing personal or scientific failure influences student outcomes.
-- Commit to one action you could take to create a productive failure experience in your course. 
-- Understand key concepts and principles:
-    - Science and discovery are based on failure.
-    - Failure can be personal or scientific.
-    - Learning how to fail productively may lead to positive student outcomes.
-
-**An AJEDI lexicon for inclusive learning:**
-
-- Know the relevant terms for inclusive learning.
-- Understand key concepts and principles:
-    - AJEDI = antiracism, justice, equity, diversity, and inclusion
-
 ## Inclusive Learning Defined
+
+!!! compat "Objectives"
+    By the end of this section, you will be able to:
+
+    `TODO write these`
 
 Inclusive learning encompasses the strategies, structure and climate of a learning environment. An inclusive learning environment is one in which students feel a sense of belonging, value, and respect, and are provided with the necessary resources and opportunities to actively learn.
 
 ## Why Inclusive Learning
+
+!!! compat "Objectives"
+    By the end of this section, you will be able to:
+        
+    - Explain why inclusive learning environments matter.
+    - Identify actions an instructor can take to create inclusive learning environments.
+    - Understand key concepts and principles:
+        - Inclusive learning environments lead to persistence and diversity in STEM.
+        - Inclusive learning environments come from inclusive teaching practices.
 
 Diversity in STEM starts with inclusive learning environments. There is no shortage of proven inclusive teaching methods; in fact the number of choices can be overwhelming. Moreover, who we are as people also influences the learning environment. 
 
@@ -127,6 +55,11 @@ This module provides a supplement to the many examples woven into the rest of th
 Image source: [handelsman_achieving_2022](@cite)
 
 ## A Framework for Inclusive Learning
+
+!!! compat "Objectives"
+    By the end of this section, you will be able to:
+    
+    `TODO write these`
 
 ![TODO alt text](assets/five-dimensions-of-inclusive-teaching.svg)
 
@@ -145,6 +78,16 @@ Awareness of students helps to develop learning goals and teaching approaches an
 ## Inclusive Learning in Practice
 
 ### Share Your Identity
+
+!!! compat "Objectives"
+    By the end of this section, you will be able to:
+    
+    - Examine your identities.
+    - Predict how instructor identities influence student outcomes.
+    - Decide which identities to share.
+    - Understand key concepts and principles:
+        - Your identity influences the classroom learning environment.
+        - The first step is to be aware of them.
 
 `TODO wheres the data?`
 
@@ -180,6 +123,17 @@ Your identity matters. Consider the identities that you bring to the learning en
     Complete Activity TK in your workbook: Commit to one action you could take toward sharing your identity in your course.
 
 ### Address Biases and Assumptions
+
+!!! compat "Objectives"
+    By the end of this section, you will be able to:
+    
+    - Examine your biases and assumptions.
+    - Predict how biases and assumptions influence student outcomes.
+    - Commit to one action you could take to mitigate the negative impacts of biases and assumptions in your course.
+    - Understand key concepts and principles:
+        - Biases and assumptions influence the classroom learning environment.
+        - We all hold biases and assumptions.
+        - Biases and assumptions are very difficult to change, but the first step is to be aware of them.
 
 Everyone holds biases, assumptions, and stereotypes about others, which can influence outcomes. For example, biases and assumptions affect how we rate people, which can have consequences for hiring decisions and advancement.
 
@@ -319,6 +273,17 @@ Set a tone for your class and reinforce it:
 
 ### Mitigate stereotype threat
 
+!!! compat "Objectives"
+    By the end of this section, you will be able to:
+    
+    - Examine how your course might activate stereotype threat.
+    - Predict how stereotypes influence student outcomes.
+    - Commit to one action you could take to mitigate the negative impacts of stereotype   threat in your course.
+    - Understand key concepts and principles:
+        - Stereotype threat influences the classroom learning environment.
+        - We all hold stereotypes.
+        - Stereotypes are very difficult to change, but the first step is to be aware of them.
+
 Biases and assumptions can manifest as stereotypes. When those stereotypes are activated, it can result in a phenomenon called **stereotype threat**, in which people fear they may confirm negative stereotypes about their social group. This fear can negatively affect their performance and reinforce the stereotype – regardless of their actual capabilities – thereby creating a self-fulfilling prophecy. 
 
 Stereotype threat can result from negative stereotypes against any aspect of one’s identity, such as ethnicity, culture, first-generation status, veteran status, and sexual orientation. It can negatively affect academic performance and persistence in STEM.
@@ -336,6 +301,16 @@ Stereotype threat can result from negative stereotypes against any aspect of one
     Complete Activity TK in your workbook: Commit to one action you could take to mitigate the negative impacts of stereotype threat in your course. 
 
 ### Create a sense of belonging in STEM
+
+!!! compat "Objectives"
+    By the end of this section, you will be able to:
+    
+    - Examine how your course might create or preclude a sense of belonging.
+    - Predict how belonging influences student outcomes.
+    - Commit to one discrete and one systemic action you could take to promote a positive sense of belonging in your course.
+    - Understand key concepts and principles:
+        - The classroom learning environment influences the extent to which student feel a sense of belonging.
+        - Belonging affects outcomes and persistence in STEM.
 
 `TODO did we define HECs?`
 
@@ -396,6 +371,17 @@ You might have students…
 
 ### Connect Facets of Science with Inclusive Learning
 
+!!! compat "Objectives"
+    By the end of this section, you will be able to:
+    
+    - Examine how your course provides students with access to the facets of science.
+    - Predict how experiencing the facets of science influences student outcomes.
+    - Commit to one action you could take to ensure students engage in the facets of science. 
+    - Understand key concepts and principles
+        - The facets of science provide a framework for engaging students in learning science authentically.
+        - Students who engage in authentic science practices are more likely to persist in STEM.
+        - Just one CURE in college can increase persistence in STEM.
+
 When students actively participate in the facets of science, we see:
 
 - Improved scientific self-identity and efficacy
@@ -430,6 +416,17 @@ CUREs normalize failure by:
     Complete Activity TK in your workbook: Even if you don’t teach a CURE, commit to one action you could take to ensure students engage in the facets of science.
 
 ### Create Productive Failure Experiences
+
+!!! compat "Objectives"
+    By the end of this section, you will be able to:
+    
+    - Examine where students implicitly or explicitly learn about failure in your course.
+    - Predict how experiencing personal or scientific failure influences student outcomes.
+    - Commit to one action you could take to create a productive failure experience in your course. 
+    - Understand key concepts and principles:
+        - Science and discovery are based on failure.
+        - Failure can be personal or scientific.
+        - Learning how to fail productively may lead to positive student outcomes.
 
 `TODO what are links to the citations on this page?`
 
@@ -498,6 +495,13 @@ Scientific failure results from:
     Complete Activity TK in your workbook: Commit to one action you could take to create a productive failure experience in your course. 
 
 ## An AJEDI lexicon for inclusive learning
+
+!!! compat "Objectives"
+    By the end of this section, you will be able to:
+    
+    - Know the relevant terms for inclusive learning.
+    - Understand key concepts and principles:
+        - AJEDI = antiracism, justice, equity, diversity, and inclusion
 
 **Antiracism:** Active efforts to reduce racism that are embodied in behaviors, actions, and policies that lead to racial equity and are substantiated by antiracist ideas. Practicing antiracism requires constantly identifying, challenging, and replacing existing racist acts and policies to foster equity between racial groups.
 
