@@ -23,7 +23,7 @@ In this module, we hope you will...
 ## Inclusive Learning Defined
 
 !!! compat ""
-    `NOTE: This content was restructured recentlys. Its objectives need to be rewritten.`
+    `NOTE: This content was restructured recently. Its objectives need to be rewritten.`
 
 Inclusive learning encompasses the strategies, structure and climate of a learning environment. An inclusive learning environment is one in which students feel a sense of belonging, value, and respect, and are provided with the necessary resources and opportunities to actively learn.
 
@@ -59,7 +59,7 @@ Image source: [handelsman_achieving_2022](@cite)
 ## A Framework for Inclusive Learning
 
 !!! compat ""    
-    `NOTE: This content was restructured recentlys. Its objectives need to be rewritten.`
+    `NOTE: This content was restructured recently. Its objectives need to be rewritten.`
 
 ![Illustration of the five dimensions of inclusive teaching, reproduced from the Scientific Teaching module.](assets/five-dimensions-of-inclusive-teaching.svg)
 

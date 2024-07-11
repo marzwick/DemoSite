@@ -1,22 +1,36 @@
 # Course Design
 
-`TODO split this into two modules, each with a 20 minute read time`
+!!! warning ""
+    This site is still under development. Thank you for previewing it! Your feedback is much appreciated -- [Let us know what you think!](https://uwmadison.co1.qualtrics.com/jfe/form/SV_eaCduZfaBtfNpRA)
 
+```@raw html
+<!-- TODO insert vignette videos from Sarah K here -->
+```
+
+```@raw html
+<!-- `TODO this is about a 40 minute read, resolve` -->
+```
+
+---
 ## Module Goals
 
-`TODO: write these`
+`NOTE: This content was restructured recently. Its goals need to be rewritten.`
 
+---
 ## Course Design Defined
 
-What is Course design?
+!!! compat ""
+    `NOTE: This content was restructured recently. Its objectives need to be rewritten.`
 
-An intentional, reflective process of developing effective learning materials and environments that encourage students to develop their skills and knowledge. 
+What is course design?
+
+It is an intentional, reflective process of developing effective learning materials and environments that encourage students to develop their skills and knowledge. 
 
 In designing a course, we set goals and adopt strategies for students and teachers to achieve learning outcomes.
 
-# A Rubric for Course Design
+### A Rubric for Course Design
 
-The following 6 statements make up a "rubric" to help gauge effective course design:
+The following six statements make up a "rubric" to help gauge effective course design:
 
 1. The course is designed using evidence-based practices.
 2. Students likely feel that the course is inclusive, fosters belonging and supports learning.
@@ -26,6 +40,7 @@ The following 6 statements make up a "rubric" to help gauge effective course des
 6. Students have multiple chances to interact with the content, with each other, and with the instructional team.
 
 !!! note ""
+    #### Apply a Rubric for Course Design
 
     The following description of a course meets these 6 statements. Match each of the bolded parts to the part(s) of the rubric they align with.
 
@@ -41,65 +56,48 @@ The following 6 statements make up a "rubric" to help gauge effective course des
     > - Lastly, my course includes multiple assignments before, during, and after class to help provide **low-stakes opportunities for practice and feedback**. In particular, I like to use the **jigsaw activity** in class so that students have a **sense or ownership and can learn from each other**.
 
 !!! note ""
+    #### Rating Courses with a Rubric
 
-    Read each of the following vignettes, and then rate the course and its instructor for each of the 6 elements.
+    Read each of the following vignettes, and then rate the course and its instructor for each of the six elements.
 
-    ```@raw html
-    <details><summary>Click here to show Vignette #1</summary>
-    ```
+    !!! details "Click here to show Vignette #1"
+        > My genetics course uses the premiere \$300 textbook that covers all the founding fathers' discoveries. I give two-hour multiple-choice exams from 6-8pm on Tuesdays every 5 weeks. The final is cumulative and all exams are graded on a curve. All content is delivered through the textbook and my lectures. There are no worksheets or homework assignments - I'm not going to tell them what's important and what to study. I pride myself in weeding out students who aren't cut out to be genetics majors. We only want the best of the best in our program.
 
-    > My genetics course uses the premiere \$300 textbook that covers all the founding fathers' discoveries. I give two-hour multiple-choice exams from 6-8pm on Tuesdays every 5 weeks. The final is cumulative and all exams are graded on a curve. All content is delivered through the textbook and my lectures. There are no worksheets or homework assignments - I'm not going to tell them what's important and what to study. I pride myself in weeding out students who aren't cut out to be genetics majors. We only want the best of the best in our program.
+        1. How well is the course designed using evidence-based practices? 0 (absent/ unsure), 1 (developing), 2 (present)
+        2. How well are students likely to feel that the course is inclusive, fosters belonging and supports learning? 0 (absent/ unsure), 1 (developing), 2 (present)
+        3. How well do the course materials promote ideas and concepts related to antiracism, justice, equity, diversity, and inclusion? 0 (absent/ unsure), 1 (developing), 2 (present)
+        4. How well do students know what is expected of them in the course? 0 (absent/ unsure), 1 (developing), 2 (present)
+        5. How well do the activities and assessments reinforce the learning objectives? 0 (absent/ unsure), 1 (developing), 2 (present)
+        6. How well do students have multiple chances to interact with the content, with each other, and with the Instructional team? 0 (absent/ unsure), 1 (developing), 2 (present)
 
-    1. How well is the course designed using evidence-based practices? 0 (absent/ unsure), 1 (developing), 2 (present)
-    2. How well are students likely to feel that the course is inclusive, fosters belonging and supports learning? 0 (absent/ unsure), 1 (developing), 2 (present)
-    3. How well do the course materials promote ideas and concepts related to antiracism, justice, equity, diversity, and inclusion? 0 (absent/ unsure), 1 (developing), 2 (present)
-    4. How well do students know what is expected of them in the course? 0 (absent/ unsure), 1 (developing), 2 (present)
-    5. How well do the activities and assessments reinforce the learning objectives? 0 (absent/ unsure), 1 (developing), 2 (present)
-    6. How well do students have multiple chances to interact with the content, with each other, and with the Instructional team? 0 (absent/ unsure), 1 (developing), 2 (present)
+    !!! details "Click here to show Vignette #2"
+        > Students in my chemistry course know what is expected of them. The learning objectives are transparent, and we do a variety of student-centered activities in class that help them practice skills related to the objectives. We ask and answer scientific questions with relevance to their lives, and I highlight the work of diverse scientists whenever possible. We connect the science to historical legacies of exclusion and privilege in science. Everything for class is on our learning management system, which ensures students can find materials even if they miss class. I have built a lot of structure in my course such as pre-class readings/quizzes and post-class reflection assignments to help students monitor and progress their learning. I use frequent low-stakes assessments with timely feedback, and I make sure to tell them it's ok to make mistakes while they are learning-that's what class is for. I encourage students to ask questions and to work together to generate their own understanding. I really love talking with my students. They bring so much curiosity and enthusiasm to the class.
 
-    ```@raw html
-    </details>
-    ```
+        1. How well is the course designed using evidence-based practices? 0 (absent/ unsure), 1 (developing), 2 (present)
+        2. How well are students likely to feel that the course is inclusive, fosters belonging and supports learning? 0 (absent/ unsure), 1 (developing), 2 (present)
+        3. How well do the course materials promote ideas and concepts related to antiracism, justice, equity, diversity, and inclusion? 0 (absent/ unsure), 1 (developing), 2 (present)
+        4. How well do students know what is expected of them in the course? 0 (absent/ unsure), 1 (developing), 2 (present)
+        5. How well do the activities and assessments reinforce the learning objectives? 0 (absent/ unsure), 1 (developing), 2 (present)
+        6. How well do students have multiple chances to interact with the content, with each other, and with the Instructional team? 0 (absent/ unsure), 1 (developing), 2 (present)
 
-    ```@raw html
-    <details><summary>Click here to show Vignette #2</summary>
-    ```
+    !!! details "Click here to show Vignette #3"
+        > My department chair showed me the data about students in my engineering course. Not only do 18% of them fail each semester, the majority of those who fail are students of color, women, or first-generation students. This really bothered me, so I've been trying to make some changes, but I don't know how to specifically help those students. I mostly stick to the textbook but have added in a few diverse examples of engineers who are women and persons of color. I have a syllabus with some flexibility in due dates, and I let them drop their lowest exam score. In class, I stop and ask if people have questions, but they almost never do. Lab is interactive and students work in pairs. It's worth 30% of their grade, so when they make mistakes and their designs fail, it can adversely affect their final grades. In my course evaluations, students said I wasn't approachable and that I talk too fast, but then nobody comes to my office hours for help even though I say I'm available.
 
-    > Students in my chemistry course know what is expected of them. The learning objectives are transparent, and we do a variety of student-centered activities in class that help them practice skills related to the objectives. We ask and answer scientific questions with relevance to their lives, and I highlight the work of diverse scientists whenever possible. We connect the science to historical legacies of exclusion and privilege in science. Everything for class is on our learning management system, which ensures students can find materials even if they miss class. I have built a lot of structure in my course such as pre-class readings/quizzes and post-class reflection assignments to help students monitor and progress their learning. I use frequent low-stakes assessments with timely feedback, and I make sure to tell them it's ok to make mistakes while they are learning-that's what class is for. I encourage students to ask questions and to work together to generate their own understanding. I really love talking with my students. They bring so much curiosity and enthusiasm to the class.
+        1. How well is the course designed using evidence-based practices? 0 (absent/ unsure), 1 (developing), 2 (present)
+        2. How well are students likely to feel that the course is inclusive, fosters belonging and supports learning? 0 (absent/ unsure), 1 (developing), 2 (present)
+        3. How well do the course materials promote ideas and concepts related to antiracism, justice, equity, diversity, and inclusion? 0 (absent/ unsure), 1 (developing), 2 (present)
+        4. How well do students know what is expected of them in the course? 0 (absent/ unsure), 1 (developing), 2 (present)
+        5. How well do the activities and assessments reinforce the learning objectives? 0 (absent/ unsure), 1 (developing), 2 (present)
+        6. How well do students have multiple chances to interact with the content, with each other, and with the Instructional team? 0 (absent/ unsure), 1 (developing), 2 (present)
 
-    1. How well is the course designed using evidence-based practices? 0 (absent/ unsure), 1 (developing), 2 (present)
-    2. How well are students likely to feel that the course is inclusive, fosters belonging and supports learning? 0 (absent/ unsure), 1 (developing), 2 (present)
-    3. How well do the course materials promote ideas and concepts related to antiracism, justice, equity, diversity, and inclusion? 0 (absent/ unsure), 1 (developing), 2 (present)
-    4. How well do students know what is expected of them in the course? 0 (absent/ unsure), 1 (developing), 2 (present)
-    5. How well do the activities and assessments reinforce the learning objectives? 0 (absent/ unsure), 1 (developing), 2 (present)
-    6. How well do students have multiple chances to interact with the content, with each other, and with the Instructional team? 0 (absent/ unsure), 1 (developing), 2 (present)
+!!! tip ""
+    #### Self-Evaluation with a Rubric
 
-    ```@raw html
-    </details>
-    ```
+    *Answer in your workbook:*
 
-    ```@raw html
-    <details><summary>Click here to show Vignette #3</summary>
-    ```
-
-    > My department chair showed me the data about students in my engineering course. Not only do 18% of them fail each semester, the majority of those who fail are students of color, women, or first-generation students. This really bothered me, so I've been trying to make some changes, but I don't know how to specifically help those students. I mostly stick to the textbook but have added in a few diverse examples of engineers who are women and persons of color. I have a syllabus with some flexibility in due dates, and I let them drop their lowest exam score. In class, I stop and ask if people have questions, but they almost never do. Lab is interactive and students work in pairs. It's worth 30% of their grade, so when they make mistakes and their designs fail, it can adversely affect their final grades. In my course evaluations, students said I wasn't approachable and that I talk too fast, but then nobody comes to my office hours for help even though I say I'm available.
-
-    1. How well is the course designed using evidence-based practices? 0 (absent/ unsure), 1 (developing), 2 (present)
-    2. How well are students likely to feel that the course is inclusive, fosters belonging and supports learning? 0 (absent/ unsure), 1 (developing), 2 (present)
-    3. How well do the course materials promote ideas and concepts related to antiracism, justice, equity, diversity, and inclusion? 0 (absent/ unsure), 1 (developing), 2 (present)
-    4. How well do students know what is expected of them in the course? 0 (absent/ unsure), 1 (developing), 2 (present)
-    5. How well do the activities and assessments reinforce the learning objectives? 0 (absent/ unsure), 1 (developing), 2 (present)
-    6. How well do students have multiple chances to interact with the content, with each other, and with the Instructional team? 0 (absent/ unsure), 1 (developing), 2 (present)
-
-    ```@raw html
-    </details>
-    ```
-
-!!! note ""
-
-    Using the same statements, let's evaluate your own course. Take a moment to call up materials in your mind, on your computer, or wherever you have the ideas saved. Write where you think your course is now for each of the 6 statements listed here. Then, describe where you would like it to be. Finally, describe what changes it make take and you are willing to do to get it there.
+    Continuing with the same rubric, let's evaluate your own course. Take a moment to call up materials in your mind, on your computer, or wherever you have the ideas saved. Write where you think your course is now for each of the six statements listed here. Then, describe where you would like it to be. Finally, describe what changes it make take and you are willing to do to get it there.
     
-    If you do not have your own course to evaluate, think about a favorite STEM course you previously took or TA'd for..
+    If you do not have your own course to evaluate, think about a favorite STEM course you previously took or TA'd for.
 
     1. How well is the course designed using evidence-based practices?
     2. How well are students likely to feel that the course is inclusive, fosters belonging and supports learning?
@@ -108,15 +106,52 @@ The following 6 statements make up a "rubric" to help gauge effective course des
     5. How well do the activities and assessments reinforce the learning objectives?
     6. How well do students have multiple chances to interact with the content, with each other, and with the Instructional team?
 
+---
 ## Why Course Design
 
-`TODO did we skip this?`
+Science teachers are designers: You select content. You modify it for your courses. You create presentations and you craft lectures. You prepare online course space so students can find the assignments they need. You prepare physical lab space so the flow of traffic does not impede hands-on learning. You plan, you adapt, you iterate.
 
+
+And like in any type of design—from technology, to paintings, to skyscrapers, and yes, to science courses—you make decisions. Your decisions help you approach your aims, within your constraints. You’ll make decisions about your teaching before the semester begins, while teaching a unit, and after you’ve seen how it all played out. From designing new courses, to overhauling an old design you’ve inherited, and to continuously improving your teaching, as a science teacher you are as much a designer as you are a scientist.
+
+In all three of these roles—teacher, scientist, designer—you hold a number of commitments that are relevant to, inspire, and inform how you carry out your course [flanagan2005values,flanagan2014values,belman2009instructional](@cite). As a teacher, you are likely committed to delivering on the specific learning objectives of your courses. As a scientist, you may be committed to a certain bar of rigor in your work, and as a science teacher you may be committed to instilling a sense of this rigor in your students. And so on.
+
+Only you can know what your own commitments are and the ways they:
+
+- Shape what you aspire to achieve in your work as a science teacher
+- Motivate you to pursue your own degree of quality
+- Guide you to explore and weigh between design alternatives
+
+!!! tip ""
+    #### Reflect on Your Design Decisions
+
+    *Answer in your workbook:* Take a moment to recall and list decisions you've made while designing, planning, structuring, or teaching your courses. Which decisions stand out? What decisions have you made that were unlike what your own teachers made when you were a student?
+
+!!! tip ""
+    #### Reflect on Your Design Commitments
+    
+    *Answer in your workbook:* Look through your answer to the prompt above. Consider, for each decision, *why* you made that decision, and what that decision illuminates about the commitments you already bring to your teaching, your science, your craft, and so on. List a few commitments that you illuminate this way, then compare to our own list of commitments below.
+
+    !!! details "Click to show the commitments of the authors of the Scientific Teaching Course"
+        As we reflected on our own course design decisions throughout our own histories as teachers, we came to the following list of commitments that shape our work. What from our list resonates with your own experiences? What other commitments does this bring to mind that are relevant to, inspire, or inform how you carry out your own teaching?
+
+        - Committed to Achieving our Learning Objectives
+        - Committed to Advancing or Maintaining our Science Discipline
+        - Committed to the Purposes of Education
+        - Committed to the CURE Mission
+        - Committed to our Students as Individuals, Whole Persons, and Fellow Humans
+        - Committed to our College Programs
+        - Committed to Creating and Iterating Quality Products
+        - Committed to our Careers
+        - Committed to our Work/Life Balance
+        - Committed to our Personal and Professional Identities
+        - Committed to our Beliefs, Values, Principles
+        - Special Commitments in Concerning Times: various commitments that arose from specific needs and conversations at a specific moment in time, eg. COVID-19, George Floyd, wars at home and abroad, Title IX cases, and advancements in artificial intelligence
+
+---
 ## A Framework for Course Design
 
 !!! compat ""
-    By the end of this section, you will be able to:
-
     - Examine the parallels between your scientific research and your teaching approaches.
     - Commit to one action you could take to address each of the five dimensions of diversity and equity in your course.
     - Understand key concepts and principles:
@@ -128,7 +163,7 @@ The following 6 statements make up a "rubric" to help gauge effective course des
 
 Course design includes all dimensions of inclusive teaching: as we focus on designing a course, we should consider ourselves, the curriculum, our pedagogy, and our students.
 
-![TODO alt text](assets/five-dimensions-of-inclusive-teaching.svg)
+![Illustration of the five dimensions of inclusive teaching, reproduced from the Scientific Teaching module.](assets/five-dimensions-of-inclusive-teaching.svg)
 
 Figure adapted from [bell2016design,marchesani1992dynamics](@cite).
 
@@ -144,7 +179,7 @@ In this module, we will focus on the last one.
 
 ### Six Facets of Science
 
-![TODO alt text](assets/six-facets-of-science.svg)
+![Illustration of the six facets of science, reproduced from the Scientific Teaching module.](assets/six-facets-of-science.svg)
 
 As we design a course, we should intentionally include ways for students to engage in the different facets of science 
 
@@ -155,6 +190,8 @@ As we design a course, we should intentionally include ways for students to enga
 - **Ownership:** Develop a sense of responsibility for and personal connection to  research findings
 - **Relevance:** Apply the outcomes and applications of scientific discoveries to real world-contexts
 
+```@raw html
+<!--
 !!! tip ""
 
     Which dimension(s) of the inclusive teaching framework do you tend to think about most naturally in your teaching? 
@@ -162,16 +199,18 @@ As we design a course, we should intentionally include ways for students to enga
     Which facets of science do you already explicitly include in your course? 
 
     Describe the structures you already have in place, and document areas in which you would like to improve.
+-->
+```
 
 ### Backward Design
 
-Backward design is an instructional approach that emphasizes starting with the end goals in mind (Wiggins & McTighe, 2005) `TODO what is this full citation?`. What should students know or be able to do after instruction? What are the desired results after the course or a lesson? Once you have identified these goals, you can design the curriculum such that students can achieve the goals.
+Backward design is an instructional approach that emphasizes starting with the end goals in mind (Wiggins & McTighe, 2005). What should students know or be able to do after instruction? What are the desired results after the course or a lesson? Once you have identified these goals, you can design the curriculum such that students can achieve the goals.
 
 The process of backward design typically involves three stages:
 
-- Establishing learning goals and objectives: What skills and knowledge should students learn?
-- Creating assessments that match those objectives: What evidence is needed to know if students have gained the skills and knowledge?
-- Designing learning experiences (instructional materials and activities) that will help students achieve those objectives: What activities will teach these skills and knowledge?
+1. Establishing learning goals and objectives: What skills and knowledge should students learn?
+2. Creating assessments that match those objectives: What evidence is needed to know if students have gained the skills and knowledge?
+3. Designing learning experiences (instructional materials and activities) that will help students achieve those objectives: What activities will teach these skills and knowledge?
 
 Although backward design emphasizes starting with the end in mind, the process itself is not always strictly linear or sequential.
 
@@ -181,8 +220,8 @@ And importantly, this approach focuses on what students should be able to do as 
 
 By prioritizing learning objectives, teachers are able to create more targeted and effective instruction that is better aligned with the needs of their students, rather than designing materials based on covering a certain amount of content.
 
-
 !!! note ""
+    #### Compare Two Courses
 
     Two professors are covering the same learning objective and using the same assessment in their introductory science courses.
 
@@ -226,9 +265,9 @@ By prioritizing learning objectives, teachers are able to create more targeted a
 
 ### Bloom's Taxonomy
 
-Bloom's Taxonomy is a framework for categorizing educational goals, objectives and assessment by levels of cognitive complexity and specificity (Bloom, 1959) `TODO what is this citation?`.
+Bloom's Taxonomy is a framework for categorizing educational goals, objectives and assessment by levels of cognitive complexity and specificity (Bloom, 1959).
 
-Since its development, it has become a widely used tool for designing and assessing instruction. The taxonomy consists of six levels, where each level builds upon the prior (McNulty 2019) `TODO what is this citation?`.
+Since its development, it has become a widely used tool for designing and assessing instruction. The taxonomy consists of six levels, where each level builds upon the prior (McNulty 2019):
 
 1. **Remember:** Can the learner create a new product or point of view? Action verbs: assemble, construct, create, design, develop, forumlate, write
 2. **Comprehend:** Can the learner justify a stand or decision? Action verbs: appraise, argue, defend, judge, select, support, value, evaluate
@@ -248,6 +287,7 @@ However, since it can be difficult to distinguish between the 6 levels of Bloom'
 In general, levels 1 and 2 are LOCS and levels 3-6 are HOCS. But depending on the context and what information the student is given, exercises written for higher Bloom's levels such as levels 3 (Apply) and 5 (Evaluate) can be considered LOCS. Often, the distinction depends on the novelty of the task. For example, if students do an evaluation activity in class (HOCS) and encounter the same exercise on an assessment, then it's no longer an evaluation, but a recall task (LOCS) that reinforces what was learned in class.
 
 !!! note ""
+    #### Practice Bloom's Taxonomy
 
     For each assessment prompt below, identify if targets a lower-order cognitive skill (LOCS) or higher-order cognitive skill (HOCS):
 
@@ -259,7 +299,11 @@ In general, levels 1 and 2 are LOCS and levels 3-6 are HOCS. But depending on th
     6. Considering the forces acting on an object in motion (direction and magnitude), predict the resultant motion of the object using Newton's laws.
 
 
+---
 ## Course Design in Practice
+
+!!! compat ""
+    `NOTE: This content was restructured recently. Its objectives need to be rewritten.`
 
 ### Setting learning goals and learning objectives
 
@@ -271,6 +315,7 @@ Learning goals and learning objectives are two key components of instructional d
 One way to visualize the difference between the two is to think about learning goals as the destination on a map or GPS, while learning objectives are the individual steps or directions that must be followed to reach that destination.
 
 !!! note ""
+    #### Identify Goals and Objectives
 
     Which of the following statements are learning goals, and which are learning objectives?
     
@@ -285,7 +330,7 @@ One way to visualize the difference between the two is to think about learning g
 
 Learning goals are at a larger scale than learning objectives, describing broad outcomes at the course-level.
 
-An instructor may have only 5 or so learning goals for an entire course. Because a goal is not directly measured by a single assessment question, it can use terms such as understand and appreciate, which should be avoided for learning objectives.
+An instructor may have only five or so learning goals for an entire course. Because a goal is not directly measured by a single assessment question, it can use terms such as understand and appreciate, which should be avoided for learning objectives.
 
 To write an effective learning goal, we suggest the following:
 
@@ -301,6 +346,7 @@ Examples:
 3. Students will develop critical thinking skills to analyze and evaluate the impact of changes in the water cycle on ecosystems and human societies.
 
 !!! note ""
+    #### Give Advice for Learning Goals
 
     The following learning goals come from Professor Nguyen's earth science course.
 
@@ -318,9 +364,11 @@ Examples:
 
 Learning objectives are at a smaller grain size than learning goals and describe specific outcomes at the topic level.
 
-`TODO I think we need to clarify here that the step is NOT to just come up with 2 to 5 things at random, but to (1) come up with a RICH understanding of the objective and imagine ALL the ways learners might demonstrate that, bring their background knowledge to it, etc. (2) and THEN whittle that down to 2 to 5 objectives that SPAN that full understanding of the goal.`
+```@raw html
+<!-- `TODO I think we need to clarify here that the step is NOT to just come up with 2 to 5 things at random, but to (1) come up with a RICH understanding of the objective and imagine ALL the ways learners might demonstrate that, bring their background knowledge to it, etc. (2) and THEN whittle that down to 2 to 5 objectives that SPAN that full understanding of the goal.` -->
+```
 
-A general suggestion is to have 2 to 5 learning objectives per topic, depending on its complexity. Although learning objectives are often content-focused, they can also include gaining competence in a new skill or developing a certain type of knowledge or expertise. Learning objectives should be designed to be achievable and realistic but also challenging enough to promote growth and progress.
+A general suggestion is to have two to five learning objectives per topic, depending on its complexity. Although learning objectives are often content-focused, they can also include gaining competence in a new skill or developing a certain type of knowledge or expertise. Learning objectives should be designed to be achievable and realistic but also challenging enough to promote growth and progress.
 
 To write an effective learning objective, we suggest the following:
 
@@ -331,14 +379,9 @@ To write an effective learning objective, we suggest the following:
 - **Align with learning goals:** The objective should align with a larger learning goal.
 
 !!! note ""
+    #### Align Goals and Objectives
 
-    Describe how each the learning objectives below intentionally align with specific learning goals.
-
-    **Goals:**
-
-    1. Students will understand the water cycle as a complex process that involves the continuous movement and transformation of water through the environment.
-    2. Students will recognize the importance of the water cycle in sustaining life on earth and the implications of human activity on this process.
-    3. Students will develop critical thinking skills to analyze and evaluate the impact of changes in the water cycle on ecosystems and human societies.
+    For each learning objective below, describe how it aligns with one or more specific learning goals further below:
 
     **Objectives:**
     
@@ -348,7 +391,14 @@ To write an effective learning objective, we suggest the following:
     4. Predict how changes to the natural water cycle process from human activities affect other lifeforms on Earth.
     5. Evaluate the effects of droughts, floods, and water pollution on various civilizations around the globe.
 
+    **Goals:**
+
+    1. Students will understand the water cycle as a complex process that involves the continuous movement and transformation of water through the environment.
+    2. Students will recognize the importance of the water cycle in sustaining life on earth and the implications of human activity on this process.
+    3. Students will develop critical thinking skills to analyze and evaluate the impact of changes in the water cycle on ecosystems and human societies.
+
 !!! note ""
+    #### Raising Learning Objective Bloom Levels
 
     Professor Kim realizes that many of the learning objectives for his botany course are at the Remember level of Bloom's taxonomy (Level 1).
     
@@ -410,7 +460,9 @@ Alignment helps to promote consistency and transparency, providing students with
 </figure>
 ```
 
-`TODO what is this table based on?`
+```@raw html
+<!-- `TODO what is this table based on?` -->
+```
 
 Let's look at an example of alignment between a learning objective and assessment. Here's a learning objective we saw previously:
 
@@ -423,6 +475,7 @@ What is an appropriate assessment question? Since this learning objective is at 
 - In what ways does the stage of infiltration rely on the previous stages of the water cycle, like precipitation and surface runoff?
 
 !!! note ""
+    #### Align Objectives and Assessments: Part One
 
     Compare the following learning objective with a test item. Are they aligned? Explain your reasoning.
 
@@ -456,6 +509,7 @@ As before, activities should be aligned to the Bloom's level of the assessment q
 Ideally, multiple activities are leveraged to help students get more practice, gain expertise toward higher-order skills, and engage a diversity of students in learning.
 
 !!! note ""
+    #### Align Objectives and Assessments: Part Two
 
     Professor Gupta has the following assessment question in their astronomy class:
 
@@ -469,15 +523,24 @@ Ideally, multiple activities are leveraged to help students get more practice, g
     - D. Students practice reading diagrams that depict the evolutionary tracks of stars based on luminosity and temperature.
 
 !!! tip ""
+    #### Plan Your Goals, Objectives, and Assessments
 
-    `TODO see comment above, I think we need to draw out that they should think about all the complexity of how a goal can be demonstrated, what background students bring to it, etc.`
+    ```@raw html
+    <!-- `TODO see comment above, I think we need to draw out that they should think about all the complexity of how a goal can be demonstrated, what background students bring to it, etc.` -->
+    ```
+
+    *Answer in your workbook:*
 
     1. Reflect on and write your course goals. What is the purpose of this course? What big questions will it answer? What big problems will it aim to solve? What ways of thinking will it elucidate?
     2. Based on these course-level learning goals, think about how your course is broken up into units and identify the topics within each unit.
     3. Next, develop learning objectives that address each unit's topic. These are measurable and specific objectives that will inform you and your students on how well they learned the course content.
     4. Write out the learning objectives for each day of class. What will students learn? What will they be able to do? How do these objectives fit together within a unit?
-    5. Plan your assessments. How will students demonstrate whether the objectives are achieved? `TODO reinforce UDL concepts in this question`
+    5. Plan your assessments. How will students demonstrate whether the objectives are achieved?
     6. Plan your activities. What activities will help students achieve the objectives? How will they practice their skills, learn knowledge, and gauge progress toward the learning objectives?
+
+    ```@raw html
+    <!-- `TODO reinforce UDL concepts in question 5 above` -->
+    ```
 
     Until you've completed the learning experiences module, you may wish to keep the assessments and activities as simple ideas, then build on them later.
 
@@ -485,7 +548,11 @@ Ideally, multiple activities are leveraged to help students get more practice, g
 
 What is Course Climate?
 
-In the opening activity `TODO which one?`, we saw how an email can communicate what the course will look like and forecast details about the instructor.
+In the opening activity, we saw how an email can communicate what the course will look like and forecast details about the instructor.
+
+```@raw html
+<!-- `TODO "in the opening activity" -- which one?` -->
+```
 
 Before the semester even starts, a student may feel intimidated or start doubting their ability to succeed. All students have the right to an education and should be given the tools and space to engage and learn. What can we do as educators to help all students succeed?
 
@@ -501,9 +568,12 @@ A common phrase associated with group spaces is "taking the temperature of a roo
 - 🧊 **Cold:** The atmosphere is unfavorable, unfriendly, or unwelcoming. The individuals in the room may be unresponsive or uninterested in the topic or discussion being presented. Students may withdraw from participating in activities or attending class altogether. The classroom environment may be covertly hostile to students based on race, gender, socioeconomic or other status, ability, or other demographic factors.
 - ⚖️ **Just Right:** The atmosphere is collaborative, collegial, and supportive. It suggests that the individuals in the room are receptive and engaged, and conversations are respectful and inquiry-based. Diverse perspectives are encouraged and considered. This type of room temperature correlates with a respectful buzz of engagement, where everyone feels their voice is heard, their insights are valid, and their questions are welcome.
 
-`TODO where's the data on how well (or not well) we can accurately gauge these things in a real setting? across cultures? etc.?`
+```@raw html
+<!-- `TODO where's the data on how well (or not well) we can accurately gauge these things in a real setting? across cultures? etc.?` -->
+```
 
 !!! note ""
+    #### Reflect on Course Temperatures
 
     Recall times when your courses -- when you were a student -- felt "Hot," "Cold," or "Just Right." Try to describe a few examples of each.
 
@@ -540,6 +610,7 @@ Examples of instructor immediacy (Andersen et al., 1981) and presence (Arbaugh &
     - Ensure students don't feel isolated
 
 !!! note ""
+    #### Instructor Immediacy and Presence
 
     Match each of the following interactions to either "Instructor Immediacy" or "Instructor Presence."
 
@@ -623,7 +694,10 @@ For example, instructors who are approachable, open-minded, and understanding ca
 
 Through sharing and thoughtful integration of one's identities into the course, instructors can cultivate positive relationships with their students, leading to enhanced learning outcomes, a sense of belonging, and persistence in STEM (Estrada et al., 2011).
 
-!!! note ""
+!!! tip ""
+    #### Reflect on Identity in Teaching Contexts
+
+    *Answer in your workbook:*
 
     Take a few minutes to reflect on your various social and professional identities. You can use the items listed below as a starting point:
 
@@ -698,7 +772,8 @@ The perception of being unwelcome in the college classroom was termed "chilly cl
 ```
 
 ### Show Me the Data!
-Based on data from 6,687 first-year students and 5,024 faculty members from 30 public and private four-year institutions, analyses identified several student and organizational variables that independently contribute to students' development of academic competence during the first year of college (Reason et al., 2006).
+
+Based on data from $6,687$ first-year students and $5,024$ faculty members from $30$ public and private four-year institutions, analyses identified several student and organizational variables that independently contribute to students' development of academic competence during the first year of college (Reason et al., 2006).
 
 Various performance indicators related to course climate were significantly related to academic competence, such as:
 
@@ -708,6 +783,7 @@ Various performance indicators related to course climate were significantly rela
 - **Diverse Interactions:** Frequency of, and institutional emphasis placed upon, students' interactions with diverse others and ideas ($p < .001$)
 
 !!! note ""
+    #### Utility-Value Intervention 
 
     Researchers tested the long-term effects of a utility-value intervention administered in a gateway chemistry course [asher2023utility](@cite). A utility-value intervention is a task designed to help students recognize the practical significance and usefulness of the content they are learning, linking it to their own goals, interests, and future aspirations.
 
@@ -757,6 +833,7 @@ Various performance indicators related to course climate were significantly rela
 
     Commit to one or more mechanisms that will help you create the course climate you want.
 
+---
 ## An AJEDI Lexicon for Course Design
 
-`TODO`
+`NOTE: This content was restructured recently. This section needs to be rewritten.`
