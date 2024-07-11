@@ -359,6 +359,65 @@ Course structure refers to the organization of a course's content, activities, e
     ![slide41](https://raw.githubusercontent.com/marzwick/images/main/cs41.png)
 
     Which course looks more like yours and why?
-    
+
     If you haven't taught a course yet, which course preparation resonates with your experiences as a student?
   
+
+**The Impact of High Structure Courses**
+
+Increasing a course's structure has many implications for student learning and their educational experience.
+
+- **Student failure rates** were lower in a moderately structured course design and were **dramatically lower in a highly structured course design** (Freeman et al., 2011)
+- A "moderate-structure" intervention **increased course performance for all student populations**, but worked **disproportionately well for black students and first-generation students**. Students also consistently reported completing the assigned readings more frequently, spending more time studying for class, and feeling an increased sense of community (Eddy & Hogan, 2014)
+- Implementing a hybrid course format with high structure improved exam performance for **traditionally underrepresented students** (Gavassa et al., 2019)
+- A highly structured course design improved the performance of all students in a college-level introductory biology class and **reduced the achievement gap between disadvantaged and nondisadvantaged students** (Haak et al., 2011)
+
+**Show Me the Data!**
+Freeman and colleagues measured failure rates in a major's introductory biology course, while varying the structure of the course. One instructor taught the course in 6 iterations using a low structure, moderate structure, or high structure course design (2011). The researchers found that the difference between the proportion of students predicted to fail and the actual proportion failing decreased with increasing structure. (n = 2267, *p = 0.06, **p = 0.0004).
+
+`TODO: make plot?`
+
+![slide43](https://raw.githubusercontent.com/marzwick/images/main/cs43.png)
+
+!!! note "Activity" 
+
+    **Evaluate the Data Yourself**
+
+    Eddy and Hogan (2014) used a similar study structure, comparing exam performance in traditional vs. increased structure sections of the same course. The figure below shows point estimates for exam performance (% correct) based on a regression model that included (A) race and ethnicity and (B) first-generation status.
+
+    What conclusions can you draw from these data? (Check all that apply.)
+
+    ![slide44](https://raw.githubusercontent.com/marzwick/images/main/cs44.png)
+
+    - [ ] Exam performance will likely not be affected by course structure.
+    - [ ] All students are expected to perform worse on exams in high structure courses. All students are expected to perform better on exams in high structure courses.
+    - [ ] Students from communities historically excluded from STEM aren't expected to show much improvement.
+    - [ ] Students from communities historically excluded from STEM are expected to show greater improvements.
+
+Remember, a high structure course has multiple opportunities for engagement and practice and makes clear the learning goals and expectations (Beck & Roosa, 2020). Eddy and Hogan provide a table that shows how adding in more graded preparatory assignments, student in-class engagement, and graded review assignments increases course design (2014).
+
+![slide45](https://raw.githubusercontent.com/marzwick/images/main/cs45.png)
+
+Preparatory assignments are tasks or activities given to students prior to a class or lesson to help them prepare for upcoming content. Examples: reading assigned texts, watching videos, researching a topic, completing practice exercises.
+
+Graded review assignments are tasks or assessments that evaluate students' understanding, comprehension, and recall of previously covered material. Examples: case studies, writing assignments, discussion posts, quizzes, projects.
+
+!!! note "Activity"   
+
+    **Increasing the Course Structure**
+
+    Professor Ali wants to transform her lecture-based chemistry course into a higher structure course, but is feeling overwhelmed. What are some possible small changes Professor Ali can make to her Week 1 course map to modify it from a low structure to a moderate structure? (Select all that apply.)
+
+    ![slide46](https://raw.githubusercontent.com/marzwick/images/main/cs46.png)
+
+    - [ ] Add a homework assignment that covers concepts from class such as entropy.
+    - [ ] Add a brief pre-class quiz on principles of energy conservation.
+    - [ ] Have students complete example problems in class and use small group discussions.
+    - [ ] Add in a few clicker questions that elicit students' prior knowledge on the week's concepts.
+
+!!! warning "TODO worbook name"
+
+    Commit to converting (or beginning to convert) your course into a high structure format. 
+
+    **Add your thoughts on how you will do this to the workbook.**
+
