@@ -11,7 +11,7 @@ In this module, we hope you will...
 
 ## Summative Assessment Defined
 
-!!! compat "Objectives"
+!!! compat ""
     By the end of this section, you will be able to:
 
     - Define summative assessment, including its purpose, characteristics, and when it is typically used in the learning process.
@@ -50,7 +50,7 @@ Examples of summative assessments include:
 
 ## Why Summative Assessment
 
-!!! compat "Objectives"
+!!! compat ""
     By the end of this section, you will be able to:
 
     - Describe the role of summative assessments in evaluating student learning and informing teaching practice.
@@ -70,7 +70,7 @@ Feedback from summative assessments aids students in refining their study strate
 
 ## A Framework for Summative Assessment
 
-!!! compat "Objectives"
+!!! compat ""
     By the end of this section, you will be able to:
 
     - `TODO`
@@ -99,7 +99,7 @@ Some aspects of summative assessment to consider when designing them include:
 
 ## Summative Assessment in Practice
 
-!!! compat "Objectives"
+!!! compat ""
     By the end of this section, you will be able to:
 
     - Describe how different summative assessment techniques gather different information about a student’s learning.
@@ -281,7 +281,7 @@ To support student learning, we strongly advise instructors to share rubrics wit
 
 ## Inclusive Summative Assessments
 
-!!! compat "Objectives"
+!!! compat ""
     By the end of this section, you will be able to:
 
     - Identify practices that enhance equity in the design of summative assessments, including guidelines for accessibility and Universal Design. 
@@ -451,7 +451,7 @@ Despite their benefits, peer-grading and self-assessment also have their challen
 
 ## An AJEDI Lexicon for Summative Assessment
 
-!!! compat "Objectives"
+!!! compat ""
     By the end of this section, you will be able to:
 
     - `TODO`

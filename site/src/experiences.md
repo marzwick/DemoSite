@@ -11,7 +11,7 @@ In this module, we hope you will...
 
 ## Learning Experiences Defined
 
-!!! compat "Objectives"
+!!! compat ""
     By the end of this section, you will be able to:
 
     - Define what learning experiences encompass.
@@ -77,7 +77,7 @@ Formative assessment provides a unique opportunity for feedback, which can take 
 
 ## Why Learning Experiences
 
-!!! compat "Objectives"
+!!! compat ""
     By the end of this section, you will be able to:
 
     - Describe the outcomes of studies comparing student learning in traditional vs. active learning classrooms.
@@ -161,7 +161,7 @@ In essence, the results of the activity allow the instructor to “see” what�
 
 ## A Framework for Learning Experiences
 
-!!! compat "Objectives"
+!!! compat ""
     By the end of this section, you will be able to:
 
     - Identify the components of the learning experiences framework.
@@ -192,7 +192,7 @@ In this framework, active learning provides the foundation for engaging students
 
 ## Learning Experiences in Practice
 
-!!! compat "Objectives"
+!!! compat ""
     By the end of this section, you will be able to:
 
     - List evidence-based instructional strategies that are applicable to teaching science and align with AJEDI principles.
@@ -312,7 +312,7 @@ As a scientific instructor, choosing active learning techniques that help you ga
 
 ## An AJEDI Lexicon for Learning Experiences
 
-!!! compat "Objectives"
+!!! compat ""
     By the end of this section, you will be able to:
 
     - `TODO`

@@ -114,7 +114,7 @@ The following 6 statements make up a "rubric" to help gauge effective course des
 
 ## A Framework for Course Design
 
-!!! compat "Objectives"
+!!! compat ""
     By the end of this section, you will be able to:
 
     - Examine the parallels between your scientific research and your teaching approaches.

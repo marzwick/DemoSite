@@ -223,7 +223,7 @@ Click on this link to view a syllabus from Dr. Cara Gormally for an asynchronous
     - What activities will students do in order to meet those promises?
     - How will students track progress of their learning (i.e., how will learning be evaluated)?
 
-!!! warning "TODO worbook name"
+!!! warning ""
     **Acting on Intentions**
 
     Fill out the learner-centered syllabus template provided. Also, consider how you will introduce your course on the first day of class.
@@ -331,7 +331,7 @@ The researchers found statistically **significant differences on the final asses
     - [ ] Participating in the i-NATURE program did not significantly change the mean GPA of students
     - [ ] There was 100% retention in the Environmental Science and Studies Programs for students participating in the i-NATURE program
 
-!!! warning "TODO worbook name"
+!!! warning ""
     Commit to implementing one component of universal design that emphasizes accessibility in your course.
 
     Add it to the workbook.
@@ -415,7 +415,7 @@ Graded review assignments are tasks or assessments that evaluate students' under
     - [ ] Have students complete example problems in class and use small group discussions.
     - [ ] Add in a few clicker questions that elicit students' prior knowledge on the week's concepts.
 
-!!! warning "TODO worbook name"
+!!! warning ""
 
     Commit to converting (or beginning to convert) your course into a high structure format. 
 

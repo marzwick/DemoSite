@@ -13,7 +13,7 @@ In this module, we hope you will...
 
 ## Learning Defined
 
-!!! compat "Objectives"
+!!! compat ""
     By the end of this section, you will be able to:
 
     `TODO: write these`
@@ -33,7 +33,7 @@ Learning is the acquisition and integration of new information that leads to a c
 
 ## Why Learning
 
-!!! compat "Objectives"
+!!! compat ""
     By the end of this section, you will be able to:
 
     `TODO: write these`
@@ -50,7 +50,7 @@ Move away from assumptions that students are lacking and move toward the idea th
 
 ## A Framework for Learning
 
-!!! compat "Objectives"
+!!! compat ""
     By the end of this section, you will be able to:
 
     `TODO: write these`
@@ -80,7 +80,7 @@ Move away from assumptions that students are lacking and move toward the idea th
 
 ### Seven Principles for Learning
 
-!!! compat "Objectives"
+!!! compat ""
     By the end of this section, you will be able to:
 
     `TODO: write these`
@@ -98,7 +98,7 @@ This brings us to a set of research-based principles that are important for lear
 
 ### The Role of Prior Knowledge in Learning
 
-!!! compat "Objectives"
+!!! compat ""
     By the end of this section, you will be able to:
 
     `TODO: write these`
@@ -287,7 +287,7 @@ Misconceptions are difficult to refute for a number of reasons:
 
 ## The Biology of Learning
 
-!!! compat "Objectives"
+!!! compat ""
     By the end of this section, you will be able to:
 
     `TODO: write these`
@@ -315,7 +315,7 @@ Many things contribute to learning, including one’s prior experiences, stress,
 
 ## Factors that Affect Learning
 
-!!! compat "Objectives"
+!!! compat ""
     By the end of this section, you will be able to:
 
     `TODO: write these`
@@ -330,7 +330,7 @@ The strength of a memory represents how associated the memory is with related kn
 
 ## Learning in Practice
 
-!!! compat "Objectives"
+!!! compat ""
     By the end of this section, you will be able to:
 
     `TODO: write these`
