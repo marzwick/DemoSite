@@ -20,7 +20,7 @@ In this module, we hope you will...
 
 Learning is the acquisition and integration of new information that leads to a change in behavior.
 
-!!! note "Activity"
+!!! note ""
 
     Think of a concept that is challenging for students to learn. 
 
@@ -73,7 +73,7 @@ Move away from assumptions that students are lacking and move toward the idea th
 
 `TODO: finish this`
 
-!!! note "Activity"
+!!! note ""
     TODO: finish this
 
 ---
@@ -125,7 +125,7 @@ People with more knowledge of soccer recalled more scores from different soccer 
 
 When presented with new facts about individuals, college students were able to learn and retain those facts twice as often if the individuals were familiar when compared to unfamiliar individuals (Kole and Healy, 2007).
 
-!!! note "Activity"
+!!! note ""
     **Round 1 [audio clip reads list, then do quiz below]**
 
     Amir helped the children.
@@ -193,7 +193,7 @@ What if the student’s prior knowledge is inaccurate, or their understanding is
     Students believe that Pluto is a planet or that the heart oxygenates the blood.
 
 
-!!! note "Activity"
+!!! note ""
     **Prior Knowledge and Misconceptions**
 
     How can we con tend with all these types of prior knowledge? Be clear in the knowledge requirements for different tasks. Do not assume because students know the facts that they know how to apply them, and vice versa. Assess both the amount and nature of prior knowledge and design instruction accordingly. 
@@ -279,7 +279,7 @@ Misconceptions are difficult to refute for a number of reasons:
 
 **What to do?** Guide students through a process of conceptual change over time, persistently creating opportunities to activate students’ awareness and motivation to apply reason over stereotypes. Creatively combine strategies from the STC. It takes time, patience, and creativity.
 
-!!! warning "Workbook"
+!!! tip ""
     Commit to one strategy to activate and address prior knowledge. 
     Add it to the workbook.
 
@@ -343,7 +343,7 @@ An expert not only understands many concepts, but can relate them to each other,
 
 ![slide31](https://raw.githubusercontent.com/marzwick/images/main/slide31.png)
 
-!!! note "Activity"
+!!! note ""
     Provide the following information from the Chi paper, and write a question that lets the participant pretend to be a novice student in physics, thinking about how to organize problems. Experts organize by conceptual principles and students organize by surface features (Chi, Feltovich, and Glaser (1981) Cognitive Science 5: 121-152).
 
     ![slide32](https://raw.githubusercontent.com/marzwick/images/main/slide32.png)
@@ -362,7 +362,7 @@ An expert not only understands many concepts, but can relate them to each other,
     - “Inclined plane problems, coefficient of friction.”
     - “Blocks on inclined planes with angles."
 
-!!! note "Activity"
+!!! note ""
     **Context and Expertise**
 
     We use the context of our prior experiences and knowledge to help us solve problems. Consider this study:
@@ -377,7 +377,7 @@ An expert not only understands many concepts, but can relate them to each other,
 
     Master chess players performed as badly as novices when the chessboard pieces were totally random. But when it was a real chess board, the master chess players easily remembered far more pieces than the novice. That is because they had the CONTEXT of the chess board and the game they were intimately familiar with to help them remember (Chase and Simon, 1973).  
 
-!!! note "Activity"
+!!! note ""
     **Expertise: Practice and reflection are both essential**
 
     One of the most valuable learning strategies is to practice retrieving information and then using it in a novel situation (Karpike & Roediger 2006). Too often, both instructors and students stop at the level of remembering a fact or understanding a concept at a basic level. Testing provides better feedback to a student than the more passive strategies of re-reading or re-watching. 

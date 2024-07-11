@@ -25,7 +25,7 @@ The following 6 statements make up a "rubric" to help gauge effective course des
 5. Activities and assessments reinforce the learning objectives.
 6. Students have multiple chances to interact with the content, with each other, and with the instructional team.
 
-!!! note "Activity"
+!!! note ""
 
     The following description of a course meets these 6 statements. Match each of the bolded parts to the part(s) of the rubric they align with.
 
@@ -40,7 +40,7 @@ The following 6 statements make up a "rubric" to help gauge effective course des
     > - **Mastery-oriented rubrics** are also provided to students **to help them know what I'm looking for** in their term papers.
     > - Lastly, my course includes multiple assignments before, during, and after class to help provide **low-stakes opportunities for practice and feedback**. In particular, I like to use the **jigsaw activity** in class so that students have a **sense or ownership and can learn from each other**.
 
-!!! note "Activity"
+!!! note ""
 
     Read each of the following vignettes, and then rate the course and its instructor for each of the 6 elements.
 
@@ -95,7 +95,7 @@ The following 6 statements make up a "rubric" to help gauge effective course des
     </details>
     ```
 
-!!! note "Activity"
+!!! note ""
 
     Using the same statements, let's evaluate your own course. Take a moment to call up materials in your mind, on your computer, or wherever you have the ideas saved. Write where you think your course is now for each of the 6 statements listed here. Then, describe where you would like it to be. Finally, describe what changes it make take and you are willing to do to get it there.
     
@@ -155,7 +155,7 @@ As we design a course, we should intentionally include ways for students to enga
 - **Ownership:** Develop a sense of responsibility for and personal connection to  research findings
 - **Relevance:** Apply the outcomes and applications of scientific discoveries to real world-contexts
 
-!!! warning "Workbook"
+!!! tip ""
 
     Which dimension(s) of the inclusive teaching framework do you tend to think about most naturally in your teaching? 
 
@@ -182,7 +182,7 @@ And importantly, this approach focuses on what students should be able to do as 
 By prioritizing learning objectives, teachers are able to create more targeted and effective instruction that is better aligned with the needs of their students, rather than designing materials based on covering a certain amount of content.
 
 
-!!! note "Activity"
+!!! note ""
 
     Two professors are covering the same learning objective and using the same assessment in their introductory science courses.
 
@@ -194,7 +194,7 @@ By prioritizing learning objectives, teachers are able to create more targeted a
     ```@raw html
     <figure>
         <figcaption>
-            <p><strong id="table1-label">Table 1. Two Science Courses</strong><br><span id="table1-summary">Description here.</span></p>
+            <p><strong id="table1-label">Table 1. Two Science Courses</strong><br><span id="table1-summary"><!-- TODO: Description here. --></span></p>
         </figcaption>
         <table aria-labelledby="table1-label" aria-describedby="table1-summary">
             <tr>
@@ -247,7 +247,7 @@ However, since it can be difficult to distinguish between the 6 levels of Bloom'
 
 In general, levels 1 and 2 are LOCS and levels 3-6 are HOCS. But depending on the context and what information the student is given, exercises written for higher Bloom's levels such as levels 3 (Apply) and 5 (Evaluate) can be considered LOCS. Often, the distinction depends on the novelty of the task. For example, if students do an evaluation activity in class (HOCS) and encounter the same exercise on an assessment, then it's no longer an evaluation, but a recall task (LOCS) that reinforces what was learned in class.
 
-!!! note "Activity"
+!!! note ""
 
     For each assessment prompt below, identify if targets a lower-order cognitive skill (LOCS) or higher-order cognitive skill (HOCS):
 
@@ -270,7 +270,7 @@ Learning goals and learning objectives are two key components of instructional d
 
 One way to visualize the difference between the two is to think about learning goals as the destination on a map or GPS, while learning objectives are the individual steps or directions that must be followed to reach that destination.
 
-!!! note "Activity"
+!!! note ""
 
     Which of the following statements are learning goals, and which are learning objectives?
     
@@ -300,7 +300,7 @@ Examples:
 2. Students will recognize the importance of the water cycle in sustaining life on earth and the implications of human activity on this process.
 3. Students will develop critical thinking skills to analyze and evaluate the impact of changes in the water cycle on ecosystems and human societies.
 
-!!! note "Activity"
+!!! note ""
 
     The following learning goals come from Professor Nguyen's earth science course.
 
@@ -330,7 +330,7 @@ To write an effective learning objective, we suggest the following:
 - **Be realistic:** The objective should be achievable within the context of the course unit and based on a reasonable level of prior knowledge or skill.
 - **Align with learning goals:** The objective should align with a larger learning goal.
 
-!!! note "Activity"
+!!! note ""
 
     Describe how each the learning objectives below intentionally align with specific learning goals.
 
@@ -348,7 +348,7 @@ To write an effective learning objective, we suggest the following:
     4. Predict how changes to the natural water cycle process from human activities affect other lifeforms on Earth.
     5. Evaluate the effects of droughts, floods, and water pollution on various civilizations around the globe.
 
-!!! note "Activity"
+!!! note ""
 
     Professor Kim realizes that many of the learning objectives for his botany course are at the Remember level of Bloom's taxonomy (Level 1).
     
@@ -388,7 +388,7 @@ Alignment helps to promote consistency and transparency, providing students with
 ```@raw html
 <figure>
     <figcaption>
-        <p><strong id="table2-label">Table 2. Practice vs. Test Matrix</strong><br><span id="table2-summary">Description here.</span></p>
+        <p><strong id="table2-label">Table 2. Practice vs. Test Matrix</strong><br><span id="table2-summary"><!-- TODO: Description here. --></span></p>
     </figcaption>
     <table aria-labelledby="table2-label" aria-describedby="table2-summary">
         <tr>
@@ -422,7 +422,7 @@ What is an appropriate assessment question? Since this learning objective is at 
 - Compare the connections in two models of the water cycle.
 - In what ways does the stage of infiltration rely on the previous stages of the water cycle, like precipitation and surface runoff?
 
-!!! note "Activity"
+!!! note ""
 
     Compare the following learning objective with a test item. Are they aligned? Explain your reasoning.
 
@@ -455,7 +455,7 @@ As before, activities should be aligned to the Bloom's level of the assessment q
 
 Ideally, multiple activities are leveraged to help students get more practice, gain expertise toward higher-order skills, and engage a diversity of students in learning.
 
-!!! note "Activity"
+!!! note ""
 
     Professor Gupta has the following assessment question in their astronomy class:
 
@@ -468,7 +468,7 @@ Ideally, multiple activities are leveraged to help students get more practice, g
     - C. Students work in groups to complete a case study on the discovery of Earendel, the farthest star recorded.
     - D. Students practice reading diagrams that depict the evolutionary tracks of stars based on luminosity and temperature.
 
-!!! warning "Workbook"
+!!! tip ""
 
     `TODO see comment above, I think we need to draw out that they should think about all the complexity of how a goal can be demonstrated, what background students bring to it, etc.`
 
@@ -503,7 +503,7 @@ A common phrase associated with group spaces is "taking the temperature of a roo
 
 `TODO where's the data on how well (or not well) we can accurately gauge these things in a real setting? across cultures? etc.?`
 
-!!! note "Activity"
+!!! note ""
 
     Recall times when your courses -- when you were a student -- felt "Hot," "Cold," or "Just Right." Try to describe a few examples of each.
 
@@ -539,7 +539,7 @@ Examples of instructor immediacy (Andersen et al., 1981) and presence (Arbaugh &
     - Encourage student participation
     - Ensure students don't feel isolated
 
-!!! note "Activity"
+!!! note ""
 
     Match each of the following interactions to either "Instructor Immediacy" or "Instructor Presence."
 
@@ -566,7 +566,7 @@ Social identities and instructor's professional identities (Rus et al., 2013; Pe
 ```@raw html
 <figure>
     <figcaption>
-        <p><strong id="table3-label">Table 3. Social and Instructor Identities</strong><br><span id="table3-summary">Description here.</span></p>
+        <p><strong id="table3-label">Table 3. Social and Instructor Identities</strong><br><span id="table3-summary"><!-- TODO: Description here. --></span></p>
     </figcaption>
     <table aria-labelledby="table3-label" aria-describedby="table3-summary">
         <tr>
@@ -623,7 +623,7 @@ For example, instructors who are approachable, open-minded, and understanding ca
 
 Through sharing and thoughtful integration of one's identities into the course, instructors can cultivate positive relationships with their students, leading to enhanced learning outcomes, a sense of belonging, and persistence in STEM (Estrada et al., 2011).
 
-!!! note "Activity"
+!!! note ""
 
     Take a few minutes to reflect on your various social and professional identities. You can use the items listed below as a starting point:
 
@@ -646,7 +646,7 @@ The perception of being unwelcome in the college classroom was termed "chilly cl
 ```@raw html
 <figure>
     <figcaption>
-        <p><strong id="table4-label">Table 4. Impacts of Course and Campus Climate</strong><br><span id="table4-summary">Description here.</span></p>
+        <p><strong id="table4-label">Table 4. Impacts of Course and Campus Climate</strong><br><span id="table4-summary"><!-- TODO: Description here. --></span></p>
     </figcaption>
     <table aria-labelledby="table4-label" aria-describedby="table4-summary">
         <tr>
@@ -707,7 +707,7 @@ Various performance indicators related to course climate were significantly rela
 - **Academic Engagement:** How often students actively engage in class activities and time spent preparing for class ($p < .001$)
 - **Diverse Interactions:** Frequency of, and institutional emphasis placed upon, students' interactions with diverse others and ideas ($p < .001$)
 
-!!! note "Activity"
+!!! note ""
 
     Researchers tested the long-term effects of a utility-value intervention administered in a gateway chemistry course [asher2023utility](@cite). A utility-value intervention is a task designed to help students recognize the practical significance and usefulness of the content they are learning, linking it to their own goals, interests, and future aspirations.
 
@@ -753,7 +753,7 @@ Various performance indicators related to course climate were significantly rela
 
     True or False? Overall, the utility-value intervention led to positive outcomes for URM student retention in STEM.
 
-!!! warning "Workbook"
+!!! tip ""
 
     Commit to one or more mechanisms that will help you create the course climate you want.
 

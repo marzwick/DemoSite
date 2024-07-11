@@ -39,7 +39,7 @@ At their core, learning experiences involve active learning. However, given its 
 
 So, before we delve into the whys and hows of adopting an active learning approach, let’s start by developing your personal working definition of this concept: What does active learning mean to you?
 
-!!! note "Activity"
+!!! note ""
     How do you define active learning? Write this down before revealing published examples below.
 
     !!! details "Click to show published examples"
@@ -72,7 +72,7 @@ Formative assessment builds on active learning and connects directly to learning
 
 Formative assessment provides a unique opportunity for feedback, which can take various forms. This may include self-assessment using a rubric, peer review with guidelines for constructive feedback, or instructor-led commentary. Importantly, formative assessment is not necessarily tied to grading, allowing students to focus on the process of learning rather than simply the outcome.
 
-!!! note "Activity"
+!!! note ""
     Where does your current course use formative assessment?
 
 ## Why Learning Experiences
@@ -106,7 +106,7 @@ The stark contrast between active and passive learning classes is evident when e
 
 A more recent metastudy by Theobald and colleagues (2020) examined the impact of active learning on achievement gaps for students from historically excluded groups. The study found that active learning classes reduced achievement gaps for assessment scores by 33% and reduced gaps in failure rates by 45%. These findings underscore the importance of active learning in promoting equity in STEM education.
 
-!!! note "Activity"
+!!! note ""
     The literature on active learning argues that its implementation leads to improved learning gains, better performance and lower failure rates, and reduced achievement gaps.
     
     Reflect on the following three arguments. Which do you think would most persuade your colleagues and why? How would you strengthen the argument?
@@ -128,7 +128,7 @@ The ICAP framework is one tool that categorizes engagement in four modes: intera
 - **Active:** Learners participate in some form of hands-on activity or engage in a task.
 - **Passive:** Learners are recipients of information without actively participating in the learning process.
 
-!!! note "Activity"
+!!! note ""
     Match each of the following activity descriptions with the appropriate ICAP category: Interactive, Constructive, Active, or Passive.
 
     - Completing worksheets, solving problems, or participating in discussions where students are processing and applying the information they are learning.
@@ -148,13 +148,13 @@ While active learning and formative assessment are nearly inseparable, some acti
 
 In essence, the results of the activity allow the instructor to “see” what’s going on in the students’ heads (e.g., what is their prior knowledge, where are they in the learning cycle). By revealing this information, the instructor can more effectively tailor next steps to the students’ needs rather than following a pre-scripted order of activities.
 
-!!! note "Activity"
+!!! note ""
     Let’s practice identifying student-centeredness in learning activities. Compare the activities below. Which is more student-centered? Why?
 
     - **Activity A:** Students answer a polling question individually. The answers are split roughly equally across the four choices. The professor shows the answer bar chart and identifies the correct answer and provides rationale for the right and wrong answers.
     - **Activity B:** Students answer a polling question individually. The answers are split roughly equally across the four choices. The professor tells the students that answers are split and asks them to discuss the rationale for their answers. The instructor then repolls the class. The answers have shifted more toward the correct answer. The professor then asks for volunteers to provide rationale for why the right answer is right and the wrong answers are wrong.
 
-!!! note "Activity"
+!!! note ""
     What examples of active learning as formative assessment have you used in your classes?
 
     How can you make your learning activities more student-centered by increasing the transparency of the feedback provided?
@@ -269,7 +269,7 @@ As a scientific instructor, choosing active learning techniques that help you ga
 - **Discussion forums:** Students participate in an online discussion forum/ board on the class learning management platform. Students take turns posing questions and responding to posts.
 - **Quizzes:** Students complete short, frequent assessments that can gauge prior knowledge, preparedness for class, or understanding of the week’s lessons.
 
-!!! note "Activity"
+!!! note ""
     Examine the active learning techniques listed in the section above. Pick a technique that is of interest to you, and design a learning experience around it.
 
     Include:
@@ -279,7 +279,7 @@ As a scientific instructor, choosing active learning techniques that help you ga
     - How you will make it inclusive
     - How it actively engages students in their learning (think about the steps of learning)
 
-!!! warning "Workbook"
+!!! tip ""
 
     Use one of the following three prompts to a brainstorm a learning experience for your own course:
 

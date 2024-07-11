@@ -37,6 +37,10 @@ h3 {
   font-size: 1.2em !important;
 }
 
+h4 {
+  font-size: 1em !important;
+}
+
 summary {
   cursor: pointer;
 }
@@ -64,3 +68,17 @@ table {
     font-size: 10pt;
   }
 }
+
+/* Custom Admonitions */
+
+.admonition.is-warning > .admonition-header:empty::before {content: "\f568"}
+.admonition.is-warning > .admonition-header:empty::after {content: "Under Construction -- Feedback Wanted!"}
+
+.admonition.is-compat > .admonition-header:empty::before {content: "\f058"}
+.admonition.is-compat > .admonition-header:empty::after {content: "Objectives for the Following Section"}
+
+.admonition.is-info > .admonition-header:empty::before {content: "\f059"}
+.admonition.is-info > .admonition-header:empty::after {content: "Check Your Understanding"}
+
+.admonition.is-success > .admonition-header:empty::before {content: "\f02d"}
+.admonition.is-success > .admonition-header:empty::after {content: "Put it into Practice!"}

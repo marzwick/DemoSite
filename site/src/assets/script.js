@@ -26,8 +26,8 @@ window.addEventListener("load", function(){
         const span = document.createElement("span");
         img.parentNode.insertBefore(figure, img);
         img.parentNode.removeChild(img);
-        figure.appendChild(figcaption);
         figure.appendChild(img);
+        figure.appendChild(figcaption);
         figcaption.appendChild(p);
         p.appendChild(strong);
         p.appendChild(br);

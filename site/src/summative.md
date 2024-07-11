@@ -32,7 +32,7 @@ Examples of summative assessments include:
 
 `TODO` figure on slide 6
 
-!!! note "Activity"
+!!! note ""
     Match each statement below to the type of assessment it is most characteristic of, formative assessment or summative assessment:
 
     - Administration: flexible and through a variety of methods such as quizzes, discussions, observations, or informal assessments
@@ -125,7 +125,7 @@ By using a variety of assessment methods, instructors can gain a more comprehens
 ```@raw html
 <figure>
     <figcaption>
-        <p><strong id="table1-label">Table 1. How/Why to Use Common Summative Assessment Techniques</strong><br><span id="table1-summary">Description here.</span></p>
+        <p><strong id="table1-label">Table 1. How/Why to Use Common Summative Assessment Techniques</strong><br><span id="table1-summary"><!-- TODO: Description here. --></span></p>
     </figcaption>
     <table aria-labelledby="table1-label" aria-describedby="table1-summary">
         <tr>
@@ -137,7 +137,7 @@ By using a variety of assessment methods, instructors can gain a more comprehens
             </td>
         </tr>
         <tr>
-            <th scope="row">Research papers, essays, lab 
+            <th scope="row">Research papers, essays, lab</th>
             <td>
                 <ul>
                     <li>Assesses research skills, critical thinking, and writing abilities</li>
@@ -222,12 +222,12 @@ Notice that all the summative assessment plans utilize more than one kind of sum
 
 Additionally, well-designed summative assessment plans have a high number of summative assessment opportunities. For example, all of the plans administer weekly or daily quizzes instead of just a few during the whole semester. This way, lower performance on one assessment doesn’t devastate a student's grade and they have multiple opportunities to demonstrate their knowledge and abilities.
 
-!!! note "Activity"
+!!! note ""
     Professor Pham is designing an assessment plan for their medical microbiology case studies course. As learning goals for the course, Professor Pham wants all their students to develop skills in collecting and organizing information, communication, and creative thinking as well as understand how microorganisms impact human health and society. Presentations are an excellent medium to assess these competencies.
 
     How could Professor Pham design the presentation assignment to align with facets of science? For example, to target Discovery, the presentation must address potential biases and stereotypes in medical history and reflect on the importance of diversity and inclusion in microbiology research.
 
-!!! warning "Workbook"
+!!! tip ""
     Decide which summative assessment techniques you will use in your classroom.
 
     How do they align with the knowledge, skills, and competencies for your course?
@@ -244,13 +244,13 @@ Using your grading criteria, design a rubric. This typically consists of a grid 
 
 To support student learning, we strongly advise instructors to share rubrics with students prior to the assessment. Rubrics provide transparency and clarity to students about what is expected of them and how their work will be evaluated. Additionally, rubrics allow students to monitor their progress and make improvements based on the established criteria.
 
-!!! note "Activity"
+!!! note ""
     Dr. Kane has assigned students to write a lab report on an enzyme assay. She has also provided students with the following rubric:
 
     ```@raw html
     <figure>
         <figcaption>
-            <p><strong id="table2-label">Table 2. Dr. Kane's Rubric</strong><br><span id="table2-summary">Description here.</span></p>
+            <p><strong id="table2-label">Table 2. Dr. Kane's Rubric</strong><br><span id="table2-summary"><!-- TODO: Description here. --></span></p>
         </figcaption>
         <table aria-labelledby="table2-label" aria-describedby="table2-summary">
             <tr>
@@ -379,7 +379,7 @@ To mitigate stereotype threat, it’s essential to create inclusive and welcomin
 - Ensure that test materials, such as images or scenarios, do not perpetuate negative stereotypes or biases.
 - Solicit demographic information after exams, not before (Kumar, 2010).
 
-!!! warning "Workbook"
+!!! tip ""
     After reviewing principles for designing more equitable summative assessments, list 3 commitments you will make.
 
 ### Equitable Grading
@@ -443,10 +443,10 @@ Self-assessment allows students to take ownership of their learning by evaluatin
 
 Despite their benefits, peer-grading and self-assessment also have their challenges. With peer-grading, students may not have the same level of expertise, which can lead to inconsistent grading. Self-assessment can also lead to inaccurate grading as students might be too critical/lenient or have subjective opinions when grading their own work. It is therefore essential to establish clear criteria and rubrics for grading and provide training such as examples of high-quality feedback, guidance on using the rubric, and tips for constructive criticism. Instructors should monitor the grading process and spot-check grading to ensure that biases are minimized and fairness is maintained.
 
-!!! warning "Workbook"
+!!! tip ""
     After reviewing principles for more equitable grading, list 3 commitments you will make.
 
-!!! warning "Workbook"
+!!! tip ""
     Check the alignment between your summative assessment plan and your inclusive learning commitments, learning objectives, and syllabus. Does anything need to be adjusted?
 
 ## An AJEDI Lexicon for Summative Assessment
