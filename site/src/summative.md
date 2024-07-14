@@ -1,5 +1,6 @@
 # Summative Assessment
 
+---
 ## Module Goals
 
 In this module, we hope you will...
@@ -9,6 +10,7 @@ In this module, we hope you will...
 - Explain how post-assessment processing can benefit your instructional practice.
 - Identify practices that enhance equity in the design of summative assessments.
 
+---
 ## Summative Assessment Defined
 
 !!! compat ""
@@ -33,6 +35,8 @@ Examples of summative assessments include:
 `TODO` figure on slide 6
 
 !!! note ""
+    #### Identify Formative and Summative Assessments
+
     Match each statement below to the type of assessment it is most characteristic of, formative assessment or summative assessment:
 
     - Administration: flexible and through a variety of methods such as quizzes, discussions, observations, or informal assessments
@@ -48,6 +52,7 @@ Examples of summative assessments include:
     - Timing: conducted at the end of a learning period
     - Timing: conducted throughout the learning process, often on a regular basis
 
+---
 ## Why Summative Assessment
 
 !!! compat ""
@@ -68,14 +73,11 @@ Furthermore, summative assessments serve as pivotal milestones in a course’s t
 
 Feedback from summative assessments aids students in refining their study strategies and preparing for subsequent evaluations, thus facilitating ongoing growth and improvement. Engaging in summative assessments and their feedback equips students for future careers and/or for graduate school. For example, writing lab reports helps students practice communicating what they learned and explaining research findings—both valuable skills for science practitioners.
 
+---
 ## A Framework for Summative Assessment
 
 !!! compat ""
-    By the end of this section, you will be able to:
-
-    - `TODO`
-    - Understand key concepts and principles:
-        - `TODO`
+    `NOTE: This content was restructured recently. Its objectives need to be rewritten.`
 
 You already have the frameworks!
 
@@ -97,6 +99,7 @@ Some aspects of summative assessment to consider when designing them include:
 - At what point(s) will they punctuate the course?
 - What type, frequency, etc.?
 
+---
 ## Summative Assessment in Practice
 
 !!! compat ""
@@ -137,7 +140,7 @@ By using a variety of assessment methods, instructors can gain a more comprehens
             </td>
         </tr>
         <tr>
-            <th scope="row">Research papers, essays, lab</th>
+            <th scope="row">Research papers, essays, lab reports</th>
             <td>
                 <ul>
                     <li>Assesses research skills, critical thinking, and writing abilities</li>
@@ -145,7 +148,7 @@ By using a variety of assessment methods, instructors can gain a more comprehens
                     <li>Allows for creativity and originality</li>
                 </ul>
             </td>
-        </tr>reports</th>
+        </tr>
         <tr>
             <th scope="row">Projects</th>
             <td>
@@ -179,9 +182,9 @@ By using a variety of assessment methods, instructors can gain a more comprehens
 </figure>
 ```
 
-### `TODO` section heading
+### Facets of Science
 
-![TODO alt text](assets/six-facets-of-science.svg)
+![](assets/six-facets-of-science.svg)
 
 Reflecting back on backward design, your assessments need to be aligned to the learning objectives of the unit. These learning objectives are ultimately aligned with the learning goals of the course. Therefore, the summative assessment techniques chosen for your course should be informed by what skills and knowledge students need to exhibit competence for your course. In addition, summative assessments are a space for students to demonstrate the facets of science.
 
@@ -191,7 +194,7 @@ Let’s look at some examples how different summative assessment techniques asse
 - Group projects assess collaboration and project management, which is a part of **Authenticity** and **Ownership**
 - Individual student presentations assess communication skills, which is a **Scientific Practice** and part of **Relevance**
 
-### `TODO` section heading
+### Summative Assessment Plan
 
 Now let’s think about your course. How do you want students to demonstrate understanding of the various skills, knowledge, and competencies? In what ways can they demonstrate scientific skills and bring science to life? As the instructor, you have agency to choose how to structure the course’s summative assessment plan.
 
@@ -223,11 +226,17 @@ Notice that all the summative assessment plans utilize more than one kind of sum
 Additionally, well-designed summative assessment plans have a high number of summative assessment opportunities. For example, all of the plans administer weekly or daily quizzes instead of just a few during the whole semester. This way, lower performance on one assessment doesn’t devastate a student's grade and they have multiple opportunities to demonstrate their knowledge and abilities.
 
 !!! note ""
+    #### Designing with Professor Pham
+
     Professor Pham is designing an assessment plan for their medical microbiology case studies course. As learning goals for the course, Professor Pham wants all their students to develop skills in collecting and organizing information, communication, and creative thinking as well as understand how microorganisms impact human health and society. Presentations are an excellent medium to assess these competencies.
 
     How could Professor Pham design the presentation assignment to align with facets of science? For example, to target Discovery, the presentation must address potential biases and stereotypes in medical history and reflect on the importance of diversity and inclusion in microbiology research.
 
 !!! tip ""
+    #### Align Assessments, Objectives, and Facets
+
+    *Answer in your workbook:*
+
     Decide which summative assessment techniques you will use in your classroom.
 
     How do they align with the knowledge, skills, and competencies for your course?
@@ -245,6 +254,8 @@ Using your grading criteria, design a rubric. This typically consists of a grid 
 To support student learning, we strongly advise instructors to share rubrics with students prior to the assessment. Rubrics provide transparency and clarity to students about what is expected of them and how their work will be evaluated. Additionally, rubrics allow students to monitor their progress and make improvements based on the established criteria.
 
 !!! note ""
+    #### Designing with Dr. Kane
+
     Dr. Kane has assigned students to write a lab report on an enzyme assay. She has also provided students with the following rubric:
 
     ```@raw html
@@ -279,6 +290,7 @@ To support student learning, we strongly advise instructors to share rubrics wit
     - Are guidelines for assigning points clear and specific?
     - What aspects of the lab report does the rubric emphasize as most important, and are these priorities justified in the context of the assignment?
 
+---
 ## Inclusive Summative Assessments
 
 !!! compat ""
@@ -380,6 +392,10 @@ To mitigate stereotype threat, it’s essential to create inclusive and welcomin
 - Solicit demographic information after exams, not before (Kumar, 2010).
 
 !!! tip ""
+    #### TODO name
+
+    *Answer in your workbook:*
+
     After reviewing principles for designing more equitable summative assessments, list 3 commitments you will make.
 
 ### Equitable Grading
@@ -444,11 +460,16 @@ Self-assessment allows students to take ownership of their learning by evaluatin
 Despite their benefits, peer-grading and self-assessment also have their challenges. With peer-grading, students may not have the same level of expertise, which can lead to inconsistent grading. Self-assessment can also lead to inaccurate grading as students might be too critical/lenient or have subjective opinions when grading their own work. It is therefore essential to establish clear criteria and rubrics for grading and provide training such as examples of high-quality feedback, guidance on using the rubric, and tips for constructive criticism. Instructors should monitor the grading process and spot-check grading to ensure that biases are minimized and fairness is maintained.
 
 !!! tip ""
-    After reviewing principles for more equitable grading, list 3 commitments you will make.
+    #### Commit to Action: Equitable Grading
+
+    *Answer in your workbook:* What is one concrete action you can take to make the grading in your course more equitable?
 
 !!! tip ""
-    Check the alignment between your summative assessment plan and your inclusive learning commitments, learning objectives, and syllabus. Does anything need to be adjusted?
+    #### Check Alignment
 
+    *Answer in your workbook:* Check the alignment between your summative assessment plan and your inclusive learning commitments, learning objectives, and syllabus. Does anything need to be adjusted?
+
+---
 ## An AJEDI Lexicon for Summative Assessment
 
 !!! compat ""

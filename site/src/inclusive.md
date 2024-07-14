@@ -49,7 +49,7 @@ This module provides a supplement to the many examples woven into the rest of th
 
 `TODO add a distillation sentence`
 
-![TODO alt text](assets/actions-to-create-inclusive-stem-college-classrooms.png)
+![](assets/actions-to-create-inclusive-stem-college-classrooms.png)
 
 Image source: [handelsman_achieving_2022](@cite)
 -->
@@ -188,13 +188,13 @@ Everyone holds biases, assumptions, and stereotypes about others, which can infl
         savefig(p, "assets/did-the-gender-of-the-faculty-affect-hiring.svg")
         ```
 
-        ![TODO alt text](assets/would-jennifer-or-john-be-hired.svg)
+        ![](assets/would-jennifer-or-john-be-hired.svg)
 
-        ![TODO alt text](assets/would-jennifer-or-john-receive-mentoring.svg)
+        ![](assets/would-jennifer-or-john-receive-mentoring.svg)
 
-        ![TODO alt text](assets/how-much-would-jennifer-or-john-be-paid.svg)
+        ![](assets/how-much-would-jennifer-or-john-be-paid.svg)
 
-        ![TODO alt text](assets/did-the-gender-of-the-faculty-affect-hiring.svg)
+        ![](assets/did-the-gender-of-the-faculty-affect-hiring.svg)
 
         From the paper:
 

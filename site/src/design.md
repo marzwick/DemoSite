@@ -821,7 +821,7 @@ Various performance indicators related to course climate were significantly rela
     savefig(p, "assets/effects-of-a-utility-value-intervention-on-urm-students.svg")
     ```
 
-    ![TODO alt text](assets/effects-of-a-utility-value-intervention-on-urm-students.svg)
+    ![](assets/effects-of-a-utility-value-intervention-on-urm-students.svg)
 
     - (A) Reported STEM major at beginning and end of intervention semester. The end-of-semester intervention effect was $p = 0.145$.
     - (B) Took 2 or more STEM courses in each subsequent semester. The effect of the intervention on course taking in the Fall of Year 2 was $p = 0.049$. In the Spring of Year 2, the effect was $p = 0.149$. And in the Fall of Year 3, the effect was $p = 0.007$.
