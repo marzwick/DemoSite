@@ -454,7 +454,9 @@ Common alternative grading methods include standards-based grading, specificatio
 
 Instructors who are interested in alternative grading but can’t or aren’t ready to overhaul their course can try partial conversions, such as standards-based testing (i.e., only tests are graded using standards).
 
-`TODO there were additional resources listed on slide 35. how do we want to deal with those? just include in the resources appendix and link to that section here?`
+```@raw html
+<!-- `TODO there were additional resources listed on slide 35. how do we want to deal with those? just include in the resources appendix and link to that section here?` -->
+```
 
 ### Peer-Grading and Self-Assessment
 
