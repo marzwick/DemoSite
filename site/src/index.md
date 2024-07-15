@@ -4,7 +4,7 @@ Welcome to the Scientific Teaching Course! We (the authors) are a team of STEM e
 
 We represent many types of colleges, universities, disciplines, and student demographics, as well as our own backgrounds and perspectives. Though we do not represent every institution type, class size, or demographic, we think that the variety in our perspectives and experiences augments the scholarship on which this course is based.
 
-Importantly, we hope that you, as a college STEM instructor, find yourself inspired by these pages to rethink your students’ scientific learning experiences and retool how you craft those experiences!
+Importantly, we hope that you, as a STEM instructor, find yourself inspired by these pages to rethink your students’ scientific learning experiences and retool how you craft those experiences!
 
 ```@raw html
 <!--
