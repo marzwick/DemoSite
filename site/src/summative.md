@@ -39,7 +39,7 @@ Examples of summative assessments include:
 - Presentations
 - Performance assessments (e.g., demonstrating aseptic technique during a lab practical)
 
-`TODO` figure on slide 6
+![](assets/SA06.png)
 
 !!! note ""
     #### Identify Formative and Summative Assessments
@@ -353,7 +353,7 @@ Test-taking pace is not a valid measure of student understanding. Students who n
 
 Research shows that most students who do receive additional time on tests do not use all of it (Cahalan-Laitusis, King, Cline, & Bridgeman, 2006; Holmes & Silvestri, 2019; Spenceley & Wheeler, 2016). Gernsbacher speculates that these students are actually requesting to not experience the anxiety and pressure of running out of time (2015). When time limits are removed from exams, numerous studies have shown that student performance improves across student groups including those who are learning English, from underrepresented backgrounds, older than average, and females (De Paoloa & Gioia, 2015; Foos & Boone, 2008; Mullane & McKelvie, 2001). Consider administering untimed asynchronous tests such as take-home exams or untimed online exams and designing test questions that aren’t easily searchable.
 
-`TODO figure from slide 28`
+![](assets/SA28.png)
 
 ### Designing Summative Assessments for Equity
 
@@ -399,11 +399,11 @@ To mitigate stereotype threat, it’s essential to create inclusive and welcomin
 - Solicit demographic information after exams, not before (Kumar, 2010).
 
 !!! tip ""
-    #### TODO name
+    #### Commit to Action: Equitable Summative Assessments
 
     *Answer in your workbook:*
 
-    After reviewing principles for designing more equitable summative assessments, list 3 commitments you will make.
+    What is one concrete action you can take to make the design of your summative assessments more equitable?
 
 ### Equitable Grading
 
@@ -411,25 +411,25 @@ Traditional grading is the practice of assigning numerical points to one-time as
 
 Incorporating more equitable grading practices promotes a more just and inclusive educational environment that supports the success of all students. Below are some equitable grading practices you can implement in your course.
 
-**In providing feedback:**
+In providing feedback:
 
 - Ensure it is constructive, focusing on strengths and areas for improvement. Specific and actionable feedback can help students understand their performance and make meaningful progress towards developing expertise.
 - Locate it separately from the grade or points
 - Make sure it is timely so that students are not waiting or guessing
 
-**Ensure your grading policy is transparent:**
+Ensure your grading policy is transparent:
 
 - Communicate the criteria and standards used to evaluate performance
 - Communicate how grades are assigned
 - Provide rubrics, standards, or expectations
 
-**Do not apply grading curves:**
+Do not apply grading curves:
 
 - Curves are not transparent and make it difficult for students to determine grades
 - They are inconsistent and unfair
 - Curving grades is the result of misalignment in the course design: instructors need to ask themselves why students are failing exams rather than applying a curve (which “fixes” the symptom but not the underlying issue)
 
-**Check your own biases and assumptions:**
+Check your own biases and assumptions:
 
 - Confirmation bias: don’t let existing beliefs about a student bias your grading
 - Halo effect: don’t let a first impression of a student bias your grading
@@ -437,7 +437,7 @@ Incorporating more equitable grading practices promotes a more just and inclusiv
 - Don’t let expectations or assumptions about students affect your grading
 - Use your grading data to self-check: did you give males higher scores over females on free-response questions? What about students from historically excluded communities?
 
-**Provide opportunities for retesting:**
+Provide opportunities for retesting:
 
 - Allow students to apply what they learned from the assessment feedback to retest for partial or full credit
 - Assessment drives learning: give students another opportunity to grow and showcase their knowledge
