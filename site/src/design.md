@@ -269,12 +269,12 @@ Bloom's Taxonomy is a framework for categorizing educational goals, objectives a
 
 Since its development, it has become a widely used tool for designing and assessing instruction. The taxonomy consists of six levels, where each level builds upon the prior (McNulty 2019):
 
-1. **Remember:** Can the learner create a new product or point of view? Action verbs: assemble, construct, create, design, develop, forumlate, write
-2. **Comprehend:** Can the learner justify a stand or decision? Action verbs: appraise, argue, defend, judge, select, support, value, evaluate
-3. **Apply:** Can the learner distinguish between different parts? Action verbs: approause, compare, contrast, criticize, differentiate, discriminate, distinguish, examine, experiment, question, test
-4. **Analyze:** Can the learner use information in a new way? Action verbs: choose, demonstrate, dramatize, employ, illustrate, interpret, operate, schedule, sketch, solve, use, write
-5. **Evaluate:** Can the learner explain ideas or concepts? Action verbs: classify, describe, discuss, explain, identify, locate, recognize, report, select, translate, paraphrase
-6. **Create:** Can the learner recall or retain the information? Action verbs: define, duplicate, list, memorize, recall, repeat, state
+1. **Remember:** Can the learner recall or retain the information? Action verbs: define, duplicate, list, memorize, recall, repeat, state
+2. **Comprehend:** Can the learner explain ideas or concepts? Action verbs: classify, describe, discuss, explain, identify, locate, recognize, report, select, translate, paraphrase
+3. **Apply:** Can the learner use information in a new way? Action verbs: choose, demonstrate, dramatize, employ, illustrate, interpret, operate, schedule, sketch, solve, use, write
+4. **Analyze:** Can the learner distinguish between different parts? Action verbs: approause, compare, contrast, criticize, differentiate, discriminate, distinguish, examine, experiment, question, test
+5. **Evaluate:** Can the learner justify a stand or decision? Action verbs: appraise, argue, defend, judge, select, support, value, evaluate
+6. **Create:** Can the learner create a new product or point of view? Action verbs: assemble, construct, create, design, develop, forumlate, write
 
 The framework is used to progressively move learners based on their prior knowledge and abilities from lower-order cognitive skills (LOCS) to higher-order cognitive skills (HOCS).
 
