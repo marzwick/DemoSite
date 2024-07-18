@@ -69,8 +69,13 @@ table {
   }
 }
 
-/* Custom Admonitions */
+/* Make sure images with transparent background have a consistent background color for accessibility */
+img {
+  background: #eee;
+  border-radius: 4px;
+}
 
+/* Custom Admonitions */
 .admonition.is-warning > .admonition-header:empty::before {content: "\f568"}
 .admonition.is-warning > .admonition-header:empty::after {content: "Under Construction -- Feedback Wanted!"}
 
