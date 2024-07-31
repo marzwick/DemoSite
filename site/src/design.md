@@ -522,11 +522,13 @@ Ideally, multiple activities are leveraged to help students get more practice, g
     - C. Students work in groups to complete a case study on the discovery of Earendel, the farthest star recorded.
     - D. Students practice reading diagrams that depict the evolutionary tracks of stars based on luminosity and temperature.
 
+````@raw html
+<!-- 
 !!! tip ""
     #### Plan Your Goals, Objectives, and Assessments
 
     ```@raw html
-    <!-- `TODO see comment above, I think we need to draw out that they should think about all the complexity of how a goal can be demonstrated, what background students bring to it, etc.` -->
+    <!-- `TODO see comment above, I think we need to draw out that they should think about all the complexity of how a goal can be demonstrated, what background students bring to it, etc.` ->
     ```
 
     *Answer in your workbook:*
@@ -539,10 +541,12 @@ Ideally, multiple activities are leveraged to help students get more practice, g
     6. Plan your activities. What activities will help students achieve the objectives? How will they practice their skills, learn knowledge, and gauge progress toward the learning objectives?
 
     ```@raw html
-    <!-- `TODO reinforce UDL concepts in question 5 above` -->
+    <!-- `TODO reinforce UDL concepts in question 5 above` ->
     ```
 
     Until you've completed the learning experiences module, you may wish to keep the assessments and activities as simple ideas, then build on them later.
+ -->
+````
 
 ### Course Climate
 
