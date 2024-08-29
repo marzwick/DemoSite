@@ -158,36 +158,6 @@ Everyone holds biases, assumptions, and stereotypes about others, which can infl
 
         How do the results below match your predictions?
 
-        ```@setup jennjohn
-        using StatsPlots
-        size = (790, 444)
-        p = plot(title="Would Jennifer or John be hired?", size=size, margin=5Plots.mm, ylabel="Rating (scale of 1 to 5)", ylims=(0,5))
-        plot!(p, ["Female Target", "Male Target"], [2.9, 3.83], seriestype=:bar, label=nothing)
-        annotate!(p, 1, 4.5, text("t(125) = 4.22, p < .001, d = .70", :center, :black, 12))
-        savefig(p, "assets/would-jennifer-or-john-be-hired.svg")
-
-        p = plot(title="Would Jennifer or John receive mentoring?", size=size, margin=5Plots.mm, ylabel="Rating (scale of 1 to 5)", ylims=(0,5))
-        plot!(p, ["Female Target", "Male Target"], [3.955, 4.735], seriestype=:bar, label=nothing)
-        annotate!(p, 1, 4.9, text("t(125) = 3.43, p < .01, d = .60", :center, :black, 12))
-        savefig(p, "assets/would-jennifer-or-john-receive-mentoring.svg")
-
-        p = plot(title="How much would Jennifer or John be paid?", size=size, margin=5Plots.mm, ylabel="Salary (in US Dollars)", ylims=(25000,31000), yformatter=:plain)
-        plot!(p, ["Female Target", "Male Target"], [26507.94, 30238.10], seriestype=:bar, label=nothing)
-        annotate!(p, 1, 30500, text("t(125) = 2.94, p < .01, d = .51", :center, :black, 12))
-        savefig(p, "assets/how-much-would-jennifer-or-john-be-paid.svg")
-
-        p = plot(title="Did the gender of the faculty evaluator affect hiring?", size=size, margin=5Plots.mm, ylabel="Rating (scale of 1 to 5)", ylims=(0,5), legend=:outertopright)
-        groupedbar!(p,
-            ["Female Target", "Female Target", "Male Target", "Male Target"],
-            [2.84, 2.96, 3.92, 3.74],
-            group=["Female Faculty", "Male Faculty", "Female Faculty", "Male Faculty"]
-        )
-        annotate!(p, 1, 4.8, text("Condition: f(1,126) = 13.43, p < .001", :center, :black, 12))
-        annotate!(p, 1, 4.5, text("Gender: f(1, 126) = .12, ns", :center, :black, 12))
-        annotate!(p, 1, 4.2, text("Condition X Gender: f(1, 126) = .03, ns", :center, :black, 12))
-        savefig(p, "assets/did-the-gender-of-the-faculty-affect-hiring.svg")
-        ```
-
         ![](assets/would-jennifer-or-john-be-hired.svg)
 
         ![](assets/would-jennifer-or-john-receive-mentoring.svg)

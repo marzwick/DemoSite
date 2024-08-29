@@ -167,13 +167,13 @@ This is an image:
 
 ### Plots
 
-When we need to create plots ourselves based on published data, we can do this directly within the document, like the example below. This involves two steps: First, we use a `@setup` to execute Julia code as the website is being generated, producing our needed image file on the fly. And second, we embed the image and alt text as usual.
+When we need to create plots ourselves based on published data, we can do this directly within this project, within the `make_plots.jl` file. This involves two steps: First, we edit `make_plots.jl` and execute the Julia code on our own machine, producing our needed image files within the `assets` folder. And second, we embed the image and alt text as usual.
 
 Please save the images with a `.svg` extension, to take advantage of SVG's ability to scale down without information loss. And please continue to use the title of the figure as the image's file name, in all lowercase, and replacing spaces with hyphens. For example, `assets/fruit-in-my-cart.svg`.
 
 For a wealth of information on plotting in Julia, [see the Plots.jl documentation](https://docs.juliaplots.org/stable/).
 
-```@setup fruits
+```jl
 using StatsPlots
 p = plot(title="Fruit in my Cart", size=(800, 600), xlabel="Fruit", ylabel="Amount in Cart")
 plot!(p, ["Apple", "Banana", "Carrot"], [3, 4, 5], seriestype=:bar, label=nothing)
@@ -181,17 +181,6 @@ savefig(p, "assets/fruit-in-my-cart.svg")
 ```
 
 ![Example bar plot about fruit](assets/fruit-in-my-cart.svg)
-
-````md
-```@setup fruits
-using StatsPlots
-p = plot(title="Fruit in my Cart", size=(800, 600), xlabel="Fruit", ylabel="Amount in Cart")
-plot!(p, ["Apple", "Banana", "Carrot"], [3, 4, 5], seriestype=:bar, label=nothing)
-savefig(p, "assets/fruit-in-my-cart.svg")
-```
-
-![Example bar plot about fruit](assets/fruit-in-my-cart.svg)
-````
 
 ### Activities and Workbooks
 

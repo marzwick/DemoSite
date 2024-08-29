@@ -795,36 +795,6 @@ Various performance indicators related to course climate were significantly rela
     
     The figure below shows the percentage of underrepresented minority (URM) students, by condition, who were classified as probable or declared STEM majors over time.
 
-    ```@setup asher2023
-    using StatsPlots
-    size = (790, 444)
-    p = plot(
-        title="Effects of a Utility-Value Intervention on URM Students",
-        size=size,
-        margin=5Plots.mm,
-        ylabel="Proportion Probable or Declared STEM Major",
-        ylims=(.50, 1.00),
-        xticks=(1:7, ["Start of Chem", "End of Chem", "Spring Year 1", "Fall Year 2", "Spring Year 2", "Fall Year 3", "Spring Year 3"])
-    )
-
-    # Control
-    plot!([1, 2],       [.94, .90], seriestype=:line, marker=:o, color=:grey, label="Control")
-    plot!([3, 4, 5, 6], [.77, .67, .63, .56], seriestype=:line, marker=:o, color=:grey, label=nothing)
-    plot!([7],          [.55], seriestype=:line, marker=:o, color=:grey, label=nothing)
-
-    # Intervention
-    plot!([1, 2],       [.94, .94], seriestype=:line, marker=:o, color=:purple, label="Intervention")
-    plot!([3, 4, 5, 6], [.71, .78, .71, .74], seriestype=:line, marker=:o, color=:purple, label=nothing)
-    plot!([7],          [.69], seriestype=:line, marker=:o, color=:purple, label=nothing)
-
-    # Annotations
-    annotate!(p, 1.5, .975, text("(A)", :center, :black, 12))
-    annotate!(p, 4.5, .8, text("(B)", :center, :black, 12))
-    annotate!(p, 7, .73, text("(C)", :center, :black, 12))
-
-    savefig(p, "assets/effects-of-a-utility-value-intervention-on-urm-students.svg")
-    ```
-
     ![](assets/effects-of-a-utility-value-intervention-on-urm-students.svg)
 
     - (A) Reported STEM major at beginning and end of intervention semester. The end-of-semester intervention effect was $p = 0.145$.
