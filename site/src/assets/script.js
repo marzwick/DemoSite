@@ -18,6 +18,10 @@ window.addEventListener("load", function(){
     // Display alt text as figure captions
     let fig_no = 1;
     for (const img of document.querySelectorAll("img[alt]")){
+        // Skip doing this on the site logo
+        if (img.getAttribute("alt") === "Scientific Teaching Course logo") continue;
+
+        // Otherwise, wrap the image in a figure and caption it
         const figure = document.createElement("figure");
         const figcaption = document.createElement("figcaption");
         const p = document.createElement("p");
