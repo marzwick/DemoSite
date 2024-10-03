@@ -1,7 +1,6 @@
 using Documenter
 using DocumenterCitations
 using YAML
-using Plots
 
 # Helper to get the YAML return type coverted for makedocs correctly
 process(x) = [x]

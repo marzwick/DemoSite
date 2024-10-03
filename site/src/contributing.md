@@ -34,8 +34,8 @@ A good bug report shouldn't leave others needing to chase you up for more inform
 - Determine if your bug is really a bug and not an error on your side.
 - To see if other users have experienced (and potentially already solved) the same issue you are having, check if there is not already a bug report existing for your bug or error in the [bug tracker](https://github.com/Tiny-Earth/DemoSite/issues?q=label%3Abug).
 - Collect information about the bug:
-    - OS, Platform and Version (Windows, Linux, macOS, x86, ARM)
-    - Can you reliably reproduce the issue?
+  - OS, Platform and Version (Windows, Linux, macOS, x86, ARM)
+  - Can you reliably reproduce the issue?
 
 #### How Do I Submit a Good Bug Report?
 
@@ -167,13 +167,13 @@ This is an image:
 
 ### Plots
 
-When we need to create plots ourselves based on published data, we can do this directly within the document, like the example below. This involves two steps: First, we use a `@setup` to execute Julia code as the website is being generated, producing our needed image file on the fly. And second, we embed the image and alt text as usual.
+When we need to create plots ourselves based on published data, we can do this directly within this project, within the `make_plots.jl` file. This involves two steps: First, we edit `make_plots.jl` and execute the Julia code on our own machine, producing our needed image files within the `assets` folder. And second, we embed the image and alt text as usual.
 
 Please save the images with a `.svg` extension, to take advantage of SVG's ability to scale down without information loss. And please continue to use the title of the figure as the image's file name, in all lowercase, and replacing spaces with hyphens. For example, `assets/fruit-in-my-cart.svg`.
 
 For a wealth of information on plotting in Julia, [see the Plots.jl documentation](https://docs.juliaplots.org/stable/).
 
-```@setup fruits
+```jl
 using StatsPlots
 p = plot(title="Fruit in my Cart", size=(800, 600), xlabel="Fruit", ylabel="Amount in Cart")
 plot!(p, ["Apple", "Banana", "Carrot"], [3, 4, 5], seriestype=:bar, label=nothing)
@@ -181,76 +181,46 @@ savefig(p, "assets/fruit-in-my-cart.svg")
 ```
 
 ![Example bar plot about fruit](assets/fruit-in-my-cart.svg)
-
-````md
-```@setup fruits
-using StatsPlots
-p = plot(title="Fruit in my Cart", size=(800, 600), xlabel="Fruit", ylabel="Amount in Cart")
-plot!(p, ["Apple", "Banana", "Carrot"], [3, 4, 5], seriestype=:bar, label=nothing)
-savefig(p, "assets/fruit-in-my-cart.svg")
-```
-
-![Example bar plot about fruit](assets/fruit-in-my-cart.svg)
-````
 
 ### Activities and Workbooks
 
 For activities that are simple, reflective questions, use this format:
 
 !!! note "Activity Title"
-
     Write your question and activity content here!
 
 ```md
 !!! note "Activity Title"
-
     Write your question and activity content here!
 ```
 
 For activities that have fill in the blank answers, use this format:
 
 !!! note "Activity Title"
-
     Write your ____ and ____ content here!
-    
+
     (This is the question part of the activity)
 
-    ```@raw html
-    <details><summary>Click here to reveal the answer!</summary>
-    ```
+    !!! details "Click here to reveal the answer!"
+        question and activity
 
-    question and activity
-    
-    (This is the hidden answer part of the activity that can be revealed)
+        (This is the hidden answer part of the activity that can be revealed)
 
-    ```@raw html
-    </details>
-    ```
-
-````md
+```md
 !!! note "Activity Title"
-
     Write your ____ and ____ content here!
-    
+
     (This is the question part of the activity)
 
-    ```@raw html
-    <details><summary>Click here to reveal the answer!</summary>
-    ```
+    !!! details "Click here to reveal the answer!"
+        question and activity
 
-    question and activity
-    
-    (This is the hidden answer part of the activity that can be revealed)
-
-    ```@raw html
-    </details>
-    ```
-````
+        (This is the hidden answer part of the activity that can be revealed)
+```
 
 For activities that have multiple choice answers, use this format:
 
 !!! note "Activity Title"
-
     Where is Tiny Earth HQ located?
 
     - A. New York
@@ -258,19 +228,11 @@ For activities that have multiple choice answers, use this format:
     - C. Madison
     - D. Seattle
 
-    ```@raw html
-    <details><summary>Click here to reveal the answer!</summary>
-    ```
+    !!! details "Click here to reveal the answer!"
+        C
 
-    C
-
-    ```@raw html
-    </details>
-    ```
-
-````md
+```md
 !!! note "Activity Title"
-
     Where is Tiny Earth HQ located?
 
     - A. New York
@@ -278,26 +240,17 @@ For activities that have multiple choice answers, use this format:
     - C. Madison
     - D. Seattle
 
-    ```@raw html
-    <details><summary>Click here to reveal the answer!</summary>
-    ```
-
-    C
-
-    ```@raw html
-    </details>
-    ```
-````
+    !!! details "Click here to reveal the answer!"
+        C
+```
 
 And for workbook activities, use this format:
 
 !!! warning "Workbook Activity Title"
-
     Complete Activity (number) in your workbook: Short version of the activity prompt here.
 
 ```md
 !!! warning "Workbook Activity Title"
-
     Complete Activity (number) in your workbook: Short version of the activity prompt here.
 ```
 
@@ -308,4 +261,5 @@ Please do not use tables to display content, as making these accessibility frien
 Instead, describe in a paragraph and/or bullet points what the key insights of the table would have been.
 
 ## Attribution
+
 This guide is based on [contributing-gen](https://github.com/bttger/contributing-gen).

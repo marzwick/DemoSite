@@ -37,14 +37,20 @@ h3 {
   font-size: 1.2em !important;
 }
 
+h4 {
+  font-size: 1em !important;
+}
+
 summary {
-  margin-bottom: 1em;
   cursor: pointer;
-  text-decoration: underline;
 }
 
 p a, ol a, ul a:not(.tocitem), blockquote a {
   text-decoration: underline;
+}
+
+table {
+  text-align: left;
 }
 
 /* Fix the prev/next links touching at certain phone sizes */
@@ -62,3 +68,22 @@ p a, ol a, ul a:not(.tocitem), blockquote a {
     font-size: 10pt;
   }
 }
+
+/* Make sure images with transparent background have a consistent background color for accessibility */
+img {
+  background: #eee;
+  border-radius: 4px;
+}
+
+/* Custom Admonitions */
+.admonition.is-warning > .admonition-header:empty::before {content: "\f568"}
+.admonition.is-warning > .admonition-header:empty::after {content: "Under Construction -- Feedback Wanted!"}
+
+.admonition.is-compat > .admonition-header:empty::before {content: "\f058"}
+.admonition.is-compat > .admonition-header:empty::after {content: "Objectives for the Following Section"}
+
+.admonition.is-info > .admonition-header:empty::before {content: "\f059"}
+.admonition.is-info > .admonition-header:empty::after {content: "Check Your Understanding"}
+
+.admonition.is-success > .admonition-header:empty::before {content: "\f02d"}
+.admonition.is-success > .admonition-header:empty::after {content: "Put it into Practice!"}
