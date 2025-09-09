@@ -1,169 +1,186 @@
 # Inclusive Learning
 
-`TODO insert vignette videos from Sarah K here`
+**Estimated time to complete:** 35 minutes
 
-```@raw html
-<!-- Temporary: hide TODO comments for Symposium review -->
-<style>
-    pre, code {display: none}
-</style>
-```
+## Module Learning Objectives
 
-## Module Goals
+!!! compat "" 
+    By the end of this module, you will be able to...
 
-In this module, we hope you will...
-
-- Commit to one action you could take toward sharing your identity in your course. 
-- Commit to one action you could take to mitigate the negative impacts of biases and assumptions in your course. 
-- Commit to one action you could take to mitigate the negative impacts of stereotype threat in your course. 
-- Commit to one discrete and one systemic action you could take to promote a positive sense of belonging in your course.
-- Commit to one action you could take to ensure students engage in the facets of science.
-- Commit to one action you could take to create a productive failure experience in your course. 
-
-### Submodule Objectives
-
-This module is divided into a number of submodules. Their objectives are:
-
-**Inclusive Learning Defined:**
-
-`TODO write these`
-
-**Why Inclusive Learning:**
-
-- Explain why inclusive learning environments matter.
-- Identify actions an instructor can take to create inclusive learning environments.
-- Understand key concepts and principles:
-    - Inclusive learning environments lead to persistence and diversity in STEM.
-    - Inclusive learning environments come from inclusive teaching practices.
-
-**A Framework for Inclusive Learning:**
-
-`TODO write these`
-
-**Inclusive Learning in Practice:**
-
-*Share Your Identity:*
-
-- Examine your identities.
-- Predict how instructor identities influence student outcomes.
-- Decide which identities to share.
-- Understand key concepts and principles:
-    - Your identity influences the classroom learning environment.
-    - The first step is to be aware of them.
-
-*Address Biases and Assumptions:*
-
-- Examine your biases and assumptions.
-- Predict how biases and assumptions influence student outcomes.
-- Commit to one action you could take to mitigate the negative impacts of biases and assumptions in your course.
-- Understand key concepts and principles:
-    - Biases and assumptions influence the classroom learning environment.
-    - We all hold biases and assumptions.
-    - Biases and assumptions are very difficult to change, but the first step is to be aware of them.
-
-*Mitigate stereotype threat:*
-
-- Examine how your course might activitate stereotype threat.
-- Predict how stereotype influences student outcomes.
-- Commit to one action you could take to mitigate the negative impacts of stereotype   threat in your course.
-- Understand key concepts and principles:
-    - Stereotype threat influences the classroom learning environment.
-    - We all hold stereotypes.
-    - Stereotypes are very difficult to change, but the first step is to be aware of them.
-
-*Create a sense of belonging in STEM:*
-
-- Examine how your course might create or preclude a sense of belonging.
-- Predict how belonging influences student outcomes.
-- Commit to one discrete and one systemic action you could take to promote a positive sense of belonging in your course.
-- Understand key concepts and principles:
-    - The classroom learning environment influences the extent to which student feel a sense of belonging.
-    - Belonging affects outcomes and persistence in STEM.
-
-*Connect Facets of Science with Inclusive Learning:*
-
-- Examine how your course provides students with access to the facets of science.
-- Predict how experiencing the facets of science influences student outcomes.
-- Commit to one action you could take to ensure students engage in the facets of science. 
-- Understand key concepts and principles
-    - The facets of science provide a framework for engaging students in learning science authentically.
-    - Students who engage in authentic science practices are more likely to persist in STEM.
-    - Just one CURE in college can increase persistence in STEM.
-
-*Create Productive Failure Experiences:*
-
-- Examine where students implicitly or explicitly learn about failure in your course.
-- Predict how experiencing personal or scientific failure influences student outcomes.
-- Commit to one action you could take to create a productive failure experience in your course. 
-- Understand key concepts and principles:
-    - Science and discovery are based on failure.
-    - Failure can be personal or scientific.
-    - Learning how to fail productively may lead to positive student outcomes.
-
-**An AJEDI lexicon for inclusive learning:**
-
-- Know the relevant terms for inclusive learning.
-- Understand key concepts and principles:
-    - AJEDI = antiracism, justice, equity, diversity, and inclusion
+    - Define Inclusive Learning
+    - Justify why inclusive learning matters for increasing diversity in STEM.
+    - Explain how instructors, students, curriculum, and pedagogy can influence course climate.
+    - Apply the five dimensions of inclusive teaching to your course.
 
 ## Inclusive Learning Defined
 
-Inclusive learning encompasses the strategies, structure and climate of a learning environment. An inclusive learning environment is one in which students feel a sense of belonging, value, and respect, and are provided with the necessary resources and opportunities to actively learn.
+Inclusive learning refers to all the factors that contribute to a classroom environment where:
 
-## Why Inclusive Learning
+- Students feel a sense of belonging, value, and respect.
+- They are provided with the necessary resources and opportunities to learn.
 
-Diversity in STEM starts with inclusive learning environments. There is no shortage of proven inclusive teaching methods; in fact the number of choices can be overwhelming. Moreover, who we are as people also influences the learning environment. 
+The curriculum, pedagogy, instructors, and students work together to create a course climate that includes and supports students in learning.
 
-This module provides a supplement to the many examples woven into the rest of the Scientific Teaching Course. It distills several key evidence-based practices, contextualizes them for college STEM courses, and gives you the chance to evaluate how to apply them in your course. You will also explore your identity, biases, and assumptions and consider how they influence who feels included or excluded in your course.
+There is no shortage of inclusive teaching methods. In fact, the number of choices can be overwhelming. This module distills evidence-based practices that support an inclusive course climate and gives you the chance to evaluate them for your course. It also asks you to consider how your identities and actions influence who feels included or excluded in your course. The examples provided in this module are not comprehensive; many more can be found throughout this Scientific Teaching Course. 
 
-### Achieve STEM diversity: Fix the Classrooms, Focus on what instructors can do
+## Why Inclusive Learning?
 
-`TODO maybe just make the table in text directly?`
+Diversity in STEM requires inclusive learning environments.
 
-`TODO add a distillation sentence`
+Recall from the previous module that a prevailing reason students leave science majors is not because they are incapable, but because STEM is often taught in a manner that fails to inspire students or create a sense of belonging. Consequently, more than half of the 600,000 US students who declare STEM majors change to a different major before graduating [thiry_talking_2019](@cite), with students from underrepresented backgrounds switching out of STEM at disproportionate rates [riegle2019does](@cite).
 
-![TODO alt text](assets/actions-to-create-inclusive-stem-college-classrooms.png)
-
-Image source: [handelsman_achieving_2022](@cite)
+When students feel a sense of belonging in STEM, they are more likely to engage deeply, persevere through challenges, and envision themselves as future scientists, engineers, and innovators. And reversing STEM attrition requires us to reimagine how the various components of a classroom work together to create inclusive learning environments.
 
 ## A Framework for Inclusive Learning
 
-![TODO alt text](assets/five-dimensions-of-inclusive-teaching.svg)
+The Five Dimensions of Inclusive Teaching [bell2016design](@cite) provides a framework for understanding how instructors, students, curriculum, and pedagogy collectively influence our teaching, students’ learning, and the classroom environment.
 
-Figure adapted from [bell2016design,marchesani1992dynamics](@cite).
+At the center of the framework is course climate, which encompasses the atmosphere and environment in which students learn. It is influenced by the other four dimensions: instructors (who we are), students (who we teach), curriculum (what we teach), and pedagogy (how we teach).
 
-Recall the five dimensions to inclusive teaching:
+![Illustration of the five dimensions of inclusive teaching: Instructors, Pedagogy, Students, Curriculum, and Climate. Each dimension connects to the others and moderates Climate.](assets/five-dimensions-of-inclusive-teaching.svg)
 
-- **Who we are:** Be aware of how our social, emotional, and pedagogical perspectives shape how we teach.
-- **Who we teach:** Plan meaningful interactions when we are aware of the many dimensions of our students.
-- **What we teach:** Choose diverse content, perspectives and contexts with students’ needs and backgrounds in mind.  
-- **How we teach:** Impact learning by implementing evidence-based teaching practices and creating engaging activities with aligned assessments. 
-- **And how the class is designed:** Create an environment that enriches student learning through supportive structure and peer connections.
+Figure adapted from [bell2016design, marchesani1992dynamics](@cite).
 
-Awareness of students helps to develop learning goals and teaching approaches and can help us to plan for meaningful interactions. And awareness of self can shape how we teach and help us to be aware of areas for growth.
+!!! tip ""
+
+    #### Reflection: Five Dimensions of Inclusive Teaching
+
+    *Call to mind a course you are teaching, have taught, or are planning to teach.*
+
+    What is your understanding of the term “climate dimension”? 
+
+    Which dimension(s) may require more attention for you to consider?
+
+### The Climate Dimension
+
+Course climate encompasses the intellectual, social, emotional, and physical environment in a class [ambrose2010learning](@cite). It is shaped by a combination of instructor decisions,  student interactions, and broader influences. As instructors, we play a key role in shaping this climate by designing and sustaining learning experiences to be welcoming and inclusive [dewsbury2019inclusive, bell2016design](@cite). An inclusive course climate ensures that all students, regardless of background or identity, feel valued and supposed in their learning [brame2019science](@cite).
+
+### The Instructor Dimension
+
+As instructors, our identities are influenced by our values, principles, families, scientific disciplines, privileges, struggles, and all the factors that we experience during our lives [rus2013teachers, peterson1999institutional](@cite). While we strive for objectivity as scientists, we are also human, and therefore hold biases that inform our assumptions.
+
+Acknowledging this is essential in teaching, as our identities, biases, and assumptions impact pedagogical and curricular choices. They influence how we structure activities, the examples we highlight, and the skills we expect students to develop. As a result, instructors shape the course climate and each student’s learning experience.
+
+### The Student Dimension
+
+Like instructors, students come to our courses with a composite of identities, biases, and interests. Students interact with their instructors, with each other, and with  content in the context of a course’s climate. Students’ identities and their interactions influence the extent to which they feel a sense of belonging, which affects learning outcomes and persistence in STEM.
+
+### The Curriculum Dimension
+
+Curriculum is arguably the most visible component of a course and has an important influence on the course climate. It encompasses what we teach, including the learning objectives we set, the content we prioritize, how we demonstrate relevance, and the examples we choose to include. In STEM, this includes establishing which facets of science (described in the previous module) are most relevant for a specific course and working to bring them to life. Creating an inclusive course curriculum also involves considering whose interests and voices are represented.  
+
+### The Pedagogy Dimension
+
+Pedagogy involves the teaching approaches that are used, including how students interact with the content and each other. Once again, the choices we make determine how inclusive the course feels. In the Scientific Teaching module, we demonstrated how poor instruction leads to a pattern of exclusion from STEM that differentially affects students. In contrast, pedagogies that promote a sense of belonging lead to increased persistence in STEM [estrada2011toward](@cite), especially for HEC students [evans_functional_2021, hurtado_diversifying_2009, olson_expression-based_2019, rodenbusch_early_2016, shuster_implementing_2019, waddell_flying_2021](@cite).
 
 ## Inclusive Learning in Practice
 
-### Share Your Identity
+Let’s examine how the instructor, student, curriculum, and pedagogy dimensions work together to create a course climate that is welcoming and supportive of all students. Below is a summary of several evidence-based practices based on the five dimensions of inclusive teaching, many of which are expanded upon in subsequent modules.
 
-`TODO wheres the data?`
+### Choose Evidence-based Interventions
 
-Your identity matters. Consider the identities that you bring to the learning environment and how they influence your perspectives and the learning environment.
+![Illustration of the five dimensions of inclusive teaching, with a focus on dimensions dealing with evidenced-based interventions: curriculum, climate, and pedagogy.](assets/five-dimensions-of-inclusive-teaching-hori.svg)
 
-!!! note "Activity"
+Interventions can be incorporated as individual or repeated activities, such as:
 
-    What identities do you bring to the learning experiences and interactions within that course?
+- Increase **instructor presence and connection to students** by making eye contact, engaging in positive body movements such as nods and smiles, communicating goals, setting guidelines for student interactions, and encouraging student participation [shea2006study, baker2010impact, andersen1981three, arbaugh2006does](@cite).
+- Use **active learning experiences**, in which students actively engage with content and sometimes each other [freeman_active_2014](@cite). You’ll find more examples in the Learning Experiences module.
+- Do regular **formative assessments**, in which students have the opportunity to regularly practice and receive feedback [black1998assessment](@cite). You’ll find more examples in the Learning Experiences module.
+- Encourage **microaffirmations**, which are actions that demonstrate care and can affirm a student's capabilities [estrada2019influence](@cite)
+- Leverage activities that **increase resilience** by reframing social adversity as common and transient [walton_brief_2011](@cite)
+- Highlight **scientists from a variety of identities** and backgrounds [schinske2014teaching](@cite), and present a range of research questions and discoveries so students can see themselves and things they care about reflected in the course. 
+
+Instructors can also modify overall course structure or infuse practices into an entire course to accomplish an inclusive learning environment. Some examples:
+
+- Use **high-structure course design** to elucidate what is expected of students and create predictable patterns [freeman_increased_2011, theobald_active_2020](@cite). You’ll find more on this in the Course Structure module.
+- Engage students in the **six facets of science** (described in the previous module). Many studies demonstrate that active participation in science leads to an improved sense of belonging and retention in STEM [estrada_toward_2011, evans_functional_2021, hanauer_inclusive_2017, jordan_broadly_2014, lopatto_genomics_2008, olson_expression-based_2019, shaffer_course-based_2014, waddell_flying_2021](@cite). 
+- Teach a **course-based undergraduate research experience (CURE)**, in which students engage in research while enrolled in a course [aikens_race_2017, dolan_guide_2021, hurtado_diversifying_2009](@cite). 
+- Leverage **universal design for learning** principles, which incorporate accessibility considerations into course design that provide equal access and opportunities for everyone, regardless of their abilities [burgstahler2013universal](@cite).
+- Design **authentic assessments** that engage students in tasks that reflect how science is done in the workforce and in real-world contexts [Wiggins1990-km, schultz2022defining, villarroel2018authentic](@cite). 
+- **Decolonize the curriculum**, which involves reimagining content and approaches that have historically prioritized Western, white, male-centric knowledge [gichuru2024enhancing](@cite).
+
+!!! tip ""
+
+    #### Commit to Action: Inclusive Learning
+
+    *Call to mind a course you are teaching, have taught, or are planning to teach.*
+
+    Describe 2-3 new actions you could take to promote inclusive learning in your course.
+
+### Consider Identities
+
+![Illustration of the five dimensions of inclusive teaching, with a focus on dimensions dealing with identities: instructors, climate, and students.](assets/five-dimensions-of-inclusive-teaching-vert.svg)
+
+Identity comprises the social, emotional, and professional attributes of an individual [rus2013teachers, peterson1999institutional](@cite). It can be influenced by life experiences, positionality, and power. Identity affects how we choose to present ourselves, relate to others, and prioritize content, which in turn, influences the learning climate.
+
+**Social identity** is defined as the sense of self that comes from membership in a social group and the value attached to membership within that group by society [tajfel1979individuals](@cite). It can change over time and between contexts [gee2000identity](@cite). Moreover, each of us holds multiple social identities that intersect to shape our unique experiences, both in how we see ourselves and how others see us [crenshaw2013demarginalizing, gordon2008ghostly](@cite). Although social science research has historically highlighted discrimination against protected social groups, it is also important to recognize the full picture of what it means to "belong" in a group, such as its members' unique joys, values, experiences, and means for fighting back against their discrimination [tuck2009suspending](@cite). Otherwise, we risk portraying these groups only ever in terms of their "damage."
+
+**Emotional identity** characterizes how a person responds to their own emotions and the emotions of others. It is informed by experiences, power dynamics, and agency.
+
+**Professional identity** (in our case, teacher identity or STEM instructor identity) encompasses how individuals perceive themselves and construct their professional identities as teachers within educational settings [yuan2019confrontation](@cite). An instructor’s professional identity is dynamic and influenced by experience and positionality [sachs2005teacher](@cite).
+
+#### The Connection between Identity and Belonging
+
+Students’ identities influence the extent to which they feel a sense of belonging. The Tripartite Integration Model of Social Influence (TIMSI) explains the psychological mechanisms underlying belonging in STEM [estrada2011toward](@cite). The TIMSI describes three orientations that contribute to student persistence in STEM:
+
+- **Scientific self-efficacy:** Students feel capable of performing the actions needed to be successful in science.
+- **Scientific identity:** Students perceive science as part of who they are and feel a sense of belonging within a scientific community.
+- **Scientific values:** Students authentically agree with the values of the scientific community, such as the importance of rigor and discourse in evaluating evidence.
+
+Considering students' needs and backgrounds can help instructors to design learning experiences that build students' confidence in scientific skills, affirm their identities as scientists, and highlight the relevance/importance of scientific values.
+
+!!! note ""
+
+    #### Identity Attributes
+
+    Sort the following into social, emotional, and professional attributes of identity:
+
+    - ability
+    - age
+    - current state of mind
+    - educational background
+    - first-generation status
+    - gender
+    - mental health status
+    - neurodiversity
+    - overall health and well being
+    - positionality within an institution
+    - race/ethnicity
+    - sexual orientation
+    - skills and abilities
+    - socioeconomic status
+    - support network
+    - trauma history
+    - veteran status
+    - work experience
+    - work-related interests
+
+    !!! details "Click here to show the answer"
+
+        SOCIAL: race/ethnicity, gender, sexual orientation, socioeconomic status, age, ability, veteran status, neurodiversity
+
+        EMOTIONAL: trauma history, mental health status, current state of mind, support network, overall health and well being
+
+        PROFESSIONAL: educational background, first-generation status, work experience, work-related interests, skills and abilities, positionality within an institution
+
+!!! tip ""
+
+    #### Reflection: Your Identity in Teaching Science
+
+    Your identity matters. Consider the identities that you bring to the learning environment and how they influence your perspectives and the learning environment.
 
     Write down, on a separate piece of paper for privacy, your:
 
     - Full name
     - Race
     - Ethnicity
-    - Gender identity and sexual orientation
+    - Birth country
+    - Gender identity 
+    - Sexual orientation
     - Veteran status
     - Educational path
-    - Family’s socioeconomic status
-    - Health (mental and physical)
+    - Family socioeconomic status
+    - Health status (mental and physical)
     - Family situation and/or relationship status
     - Circle of friends
     - Hobbies or interests
@@ -171,347 +188,60 @@ Your identity matters. Consider the identities that you bring to the learning en
 
     Do you tell your students these attributes? Why or why not?
 
-    Do you think your students’ attributes are similar to yours? How could you find out?
+    What is one way that those attributes could affect your teaching or your interactions with students?
 
-    How do you think these attributes influence your perspectives about student learning and who is or isn’t included in learning?
+!!! tip ""
 
-!!! warning "Workbook"
+    #### Reflection: Your Students’ Identities 
 
-    Complete Activity TK in your workbook: Commit to one action you could take toward sharing your identity in your course.
+    We considered our own identities, but it is also important to be aware of who is in our classes. 
 
-### Address Biases and Assumptions
+    What do you know about your students’ identities and what is important to them? 
 
-Everyone holds biases, assumptions, and stereotypes about others, which can influence outcomes. For example, biases and assumptions affect how we rate people can have consequences for hiring decisions and advancement.
+    How do their identities and background impact how they experience interactions or activities in class with you and with their peers? 
 
-!!! note "Hiring Studies"
+     How do their identities shape how they decide what is relevant or important?
 
-    In one study, 127 biologists, chemists, and physicists at six top US research universities received a student resume that was randomly assigned a gendered name: “Jennifer” (female) or “John” (male). Otherwise, the applications were identical, and each evaluator saw only one version of it. Evaluators then reviewed the credentials of the applicant and decided whether to hire or not.
+### Mitigate Biases and Assumptions
 
-    The researchers asked the scientists questions about the student candidate:
+Identities aren’t the only thing that influence outcomes in STEM. Biases and assumptions matter, too. For example, biases and assumptions affect how we rate people, which can have consequences for hiring decisions and advancement.
 
-    - Would you hire them as a lab manager?
-    - Do they seem competent?
-    - Do you see potential for mentoring?
-    - What salary would you offer?
+Let’s examine hiring studies as one example of bias affecting outcomes. In one study [Moss-Racusin2012-cm](@cite) 127 biology, chemistry, and physics faculty at six top US research universities received a student resume for a lab manager position. Each resume was randomly assigned a gendered name: “Jennifer” (female) or “John” (male). Otherwise, the applications were identical, and each evaluator saw only one version. Faculty then evaluated the student’s competence and hireability and proposed a salary.
 
-    What results would you predict for that study?
+What results would you predict? Click here to find out what happened!
 
-    How do you think the gender, field, age, or tenure status of faculty making hiring decisions mattered?
+![Science faculty rated male applicants higher than women regarding competence and hireability for a lab manager position (p < 0.001). Scales range from 1 to 7, with 7 being the highest score.](assets/competence_hireability.png)
 
-    ```@raw html
-    <details><summary>Click here to find out what happened!</summary>
-    ```
+![Science faculty provided higher salary offers for male applicants than women for a lab manager position (p < 0.01). The gender of the reviewer did not affect scores or salaries. Both men and women faculty scored women students lower and offered lower salaries.](assets/salary.png)
 
-    How do the results below match your predictions?
+Dozens of studies have compared hiring decisions with the same setup, all yielding the same result: Evaluators are substantially more likely to hire and pay a higher salary if an applicant has a man’s name. **These results have not changed for 50 years.**
 
-    ```@setup jennjohn
-    using StatsPlots
-    size = (790, 444)
-    p = plot(title="Would Jennifer or John be hired?", size=size, margin=5Plots.mm, ylabel="Rating (scale of 1 to 5)", ylims=(0,5))
-    plot!(p, ["Female Target", "Male Target"], [2.9, 3.83], seriestype=:bar, label=nothing)
-    annotate!(p, 1, 4.5, text("t(125) = 4.22, p < .001, d = .70", :center, :black, 12))
-    savefig(p, "assets/would-jennifer-or-john-be-hired.svg")
+In fact, we hold biases about everything imaginable—not just hiring. For a more complete list of the HEC groups affected by bias and assumptions in STEM higher education, check out the supplementary materials for Achieving STEM Diversity: Fix the Classrooms [handelsman_achieving_2022](@cite). An example in a classroom context could look like instructors calling on students they expect will have the right answer or whose name they can pronounce. 
 
-    p = plot(title="Would Jennifer or John receive mentoring?", size=size, margin=5Plots.mm, ylabel="Rating (scale of 1 to 5)", ylims=(0,5))
-    plot!(p, ["Female Target", "Male Target"], [3.955, 4.735], seriestype=:bar, label=nothing)
-    annotate!(p, 1, 4.9, text("t(125) = 3.43, p < .01, d = .60", :center, :black, 12))
-    savefig(p, "assets/would-jennifer-or-john-receive-mentoring.svg")
+Bias is not inherently bad and is part of human nature. But when bias leads to recurring, systemic inequalities that cause negative socioeconomic impacts and structural inequities, we need to pay attention and effect change. 
 
-    p = plot(title="How much would Jennifer or John be paid?", size=size, margin=5Plots.mm, ylabel="Salary (in US Dollars)", ylims=(25000,31000), yformatter=:plain)
-    plot!(p, ["Female Target", "Male Target"], [26507.94, 30238.10], seriestype=:bar, label=nothing)
-    annotate!(p, 1, 30500, text("t(125) = 2.94, p < .01, d = .51", :center, :black, 12))
-    savefig(p, "assets/how-much-would-jennifer-or-john-be-paid.svg")
+!!! tip ""
 
-    p = plot(title="Did the gender of the faculty evaluator affect hiring?", size=size, margin=5Plots.mm, ylabel="Rating (scale of 1 to 5)", ylims=(0,5), legend=:outertopright)
-    groupedbar!(p,
-        ["Female Target", "Female Target", "Male Target", "Male Target"],
-        [2.84, 2.96, 3.92, 3.74],
-        group=["Female Faculty", "Male Faculty", "Female Faculty", "Male Faculty"]
-    )
-    annotate!(p, 1, 4.8, text("Condition: f(1,126) = 13.43, p < .001", :center, :black, 12))
-    annotate!(p, 1, 4.5, text("Gender: f(1, 126) = .12, ns", :center, :black, 12))
-    annotate!(p, 1, 4.2, text("Condition X Gender: f(1, 126) = .03, ns", :center, :black, 12))
-    savefig(p, "assets/did-the-gender-of-the-faculty-affect-hiring.svg")
-    ```
+    #### Reflection: Bias in STEM
 
-    ![TODO alt text](assets/would-jennifer-or-john-be-hired.svg)
+    What biases have you seen or experienced in STEM or STEM higher education?
 
-    ![TODO alt text](assets/would-jennifer-or-john-receive-mentoring.svg)
+Some examples of strategies that consider the instructor and student dimensions include: 
 
-    ![TODO alt text](assets/how-much-would-jennifer-or-john-be-paid.svg)
+- **Learn about your students** interests, goals and needs through short surveys and polls throughout the semester [tanner2011moving, tanner2013structure](@cite).   
+- Create a culture where **failure is a productive and normal part of science**, rather than a judgement on students' identity [petroski2013success,simpson_failure_2017,lopatto2020facilitating,gin2018students,good2012women,koch2008women,cacciotti2015fear](@cite).  
+- Incorporate interventions that make explicit the **utility value** of a course or its parts, such as asking students to reflect on how course topics are relevant to their own goals, values and interests. Research has found that such interventions can increase persistence in STEM, especially for students from marginalized groups [asher2023utility, harackiewicz_closing_2016](@cite).  
+- Take actions that mitigate **stereotype threat**, which occurs when individuals fear they may confirm negative stereotypes about their social group, which in turn can negatively impact their performance [Steele2002-pt](@cite). For instance, communicate that you believe all students can be successful as you share constructive feedback [killpack2016toward](@cite).
+- Build your **self-awareness** of what you bring to the classroom in terms of your identities, educational experiences, and biases, and consider how this impacts your interactions with students [dewsbury2020deep](@cite).   
+- Use strategies to **mitigate biases** such as grading anonymously, using rubrics, and structuring participation to hear from a range of students rather than those who readily share ideas [killpack2016toward, tanner2013structure](@cite). 
 
-    ![TODO alt text](assets/did-the-gender-of-the-faculty-affect-hiring.svg)
+## Summary of Inclusive Learning
 
-    > Faculty gender did not affect bias. Tests of simple effects (all $d < 0.33$) indicated that female faculty participants did not rate the female student as more competent [$t(62) = 0.06$, $P = 0.95$] or hireable [$t(62) = 0.41$, $P = 0.69$] than did male faculty. Female faculty also did not offer more mentoring [$t(62) = 0.29$, $P = 0.77$] or a higher salary [$t(61) = 1.14$, $P = 0.26$] to the female student than did their male colleagues. In addition, faculty participants’ scientific field, age, and tenure status had no effect (all $P > 0.53$). Thus, the bias appears pervasive among faculty and is not limited to a certain demographic subgroup [Moss-Racusin2012-cm](@cite).
+- The instructor, students, curriculum, and pedagogy influence each other and collectively affect the course climate.
+- Instructors can leverage these dimensions to create inclusive learning environments.
+- Inclusive learning environments lead to persistence and diversity in STEM.
 
-    Image source: [Moss-Racusin2012-cm](@cite)
-
-    ```@raw html
-    </details>
-    ```
-
-### Reactions to evidence of bias
-
-But you’re a scientist, so you’re not biased, right?
-
-When confronted with the idea that scientists are biased, we have heard:
-
-- “Women and minorities are just too sensitive.”
-- “It’s not like that here. Probably it’s like that elsewhere…in Sweden, in the Midwest, at Harvard, at the state university, at the community college, in the Economics Department…”
-- “The sample size for Table 3 of the 1988 study was too small.”
-- “We’re trained to be objective, so bias studies don’t apply to us.”
-
-Yet study after study demonstrates that we *all* carry biases, assumptions, and stereotypes. 
-
-### Assumptions Matter
-
-`TODO are there citations for this?`
-
-Everyone holds biases, assumptions, and stereotypes about others, which can influence outcomes in college or for hiring decisions and advancement.
-
-**Rating Verbal Skills:**
-
-Reviewers rated a candidate’s verbal skills based on text.
-
-They rated the candidate’s skills lower if they were told that:
-
-- An African American person wrote the text than if a they were told a white person wrote it
-- A man wrote the text than if they were told a woman wrote it
-
-**More Hiring Studies:**
-
-Dozens of studies have compared hiring decisions with the same setup…
-
-- Identical applications with a male or female name.
-- Evaluators review the applicant’s credentials and decide whether or not to hire them. 
-
-…and they all yield the same result: Evaluators are substantially more likely to hire if an applicant has man’s name.
-
-**This result has not changed for 50 years.**
-
-Beyond gender: Studies with members of groups other than white, heterosexual, cis-gendered, able-bodied men yield similar results.
-
-!!! note "Activity"
-
-    What other biases have you seen or experienced in STEM higher education? 
-
-### Actions to Mitigate Bias
-
-`TODO wheres the data?`
-
-Awareness:
-
-- **Catch yourself:** Whose answers do you dismiss or talk over? When a woman or person of color responds, what initial reaction do you have to their point of view?
-- **Collect data:** How often do you call on the students in the front row? Which demographic groups tend to get the highest grades? Which students do you give constructive feedback?
-- **Catch others:** When do they dismiss or talk over someone?
-
-Actions:
-
-- **Call out:** When someone dismisses another, use your voice to return the conversation to the dismissed person. “Jasmine has a point. I’d like to hear more.” “You are restating what Amir said.” 
-- **Be an ally:** Put a “safe space” sticker on your office door. Add an statement about bias and assumptions to your syllabus. Use preferred pronouns and gender-neutral pronouns. 
-- **Grade fairly:** Remove subjectivity in grading due to bias by using a fixed grading scale that makes clear which competencies warrant which grades.
-
-Set a tone for your class and reinforce it:
-
-- **Signal expectations and values:** “In this class, everyone’s voice matters.”
-- **Find out more:** Ask students what they need and want. 
-- **Equip students:** Provide them with the language and tools they need to mitigate bias.
-- **Check in:** Do a “bias check” every month. “Have you seen an act of bias or assumptions in this class with negative repercussions? Was it resolved? What needs to be addressed?” Act on the requests.
-
-!!! warning "TODO worbook name"
-
-    Complete Activity TK in your workbook: Commit to one action you could take to mitigate the negative impacts of biases and assumptions in your course. 
-
-### Mitigate stereotype threat
-
-Biases and assumptions can manifest as stereotypes. When those stereotypes are activated, it can result in a phenomenon called **stereotype threat**, in which people fear they may confirm negative stereotypes about their social group. This fear can negatively affect their performance and reinforce the stereotype – regardless of their actual capabilities – thereby creating a self-fulfilling prophecy. 
-
-Stereotype threat can result from negative stereotypes against any aspect of one’s identity, such as ethnicity, culture, first-generation status, veteran status, sexual orientation. It can negatively affect academic performance and persistence in STEM.
-
-**The simple act of mentioning a stereotype can activate threat and lead to negative outcomes** [Kumar2010-mp,Stricker2015-ce,Steele2002-pt,Steele1995-bz](@cite).
-
-### Stereotype Threat Examples
-
-- When Black students were told that a verbal section of the Graduate Record Exam (GRE) was diagnostic of intellectual ability, they would perform worse than white students. **They performed equally well when the test was not labeled diagnostic of intellectual ability.**
-- Students of lower socioeconomic backgrounds underperformed on the same GRE section when compared to students from more affluent backgrounds when financial status was mentioned. **They performed the same when affluence was not mentioned.**
-- Women performed worse than men when a math test was described as producing gender differences. **When the test was described as not producing gender differences, women and men performed equally well.**
-
-!!! warning "Workbook"
-
-    Complete Activity TK in your workbook: Commit to one action you could take to mitigate the negative impacts of stereotype threat in your course. 
-
-### Create a sense of belonging in STEM
-
-`TODO did we define HECs?`
-
-Historically excluded communities (HECs) refer to groups of individuals who have traditionally been denied full rights, privileges, and opportunities in STEM education, including women, people of color, caregivers, LGBTQIA+ students, first-generation students, and low-income students. These groups have traditionally been underrepresented or excluded from participating in STEM. See also [Asai2020-bb](@cite).
-
-The differential pattern of exclusion from STEM affects students not only according to race and ethnicity; talented college students from HECs leave at higher rates [thiry_talking_2019](@cite). 
-
-Most of those who leave have the interest, confidence, and aptitude to be successful in STEM, but early classroom experiences can dampen their interest and actively exclude them from persisting [thiry_talking_2019,estrada_influence_2019](@cite).
-
-Their departures after gateway STEM courses represent a major talent drain from the system. 
-
-To achieve an equitable educational enterprise, we must address the structural, individual, intentional, and unintentional biases that discourage HEC students from pursuing STEM.
-
-### Actions to foster belonging in STEM
-
-Several interventions have demonstrated promise in increasing college students’ persistence in STEM [estrada_toward_2011](@cite). These interventions often have especially positive effects on students who belong to communities that have been historically excluded from STEM [evans_functional_2021,hurtado_diversifying_2009,olson_expression-based_2019,rodenbusch_early_2016,shuster_implementing_2019,waddell_flying_2021](@cite).
-
-`TODO use full sentence for these bullet points`
-
-**Discrete interventions** are defined as individual activities embedded within a course. Example interventions that have been shown to lead to positive student outcomes include:
-
-- Active-learning strategies [freeman_active_2014](@cite)
-- Statements that increase students’ sense of belonging with microaffirmations [estrada_influence_2019](@cite)
-- Activities that increase resilience by reframing social adversity as common and transient [walton_brief_2011](@cite)
-- Exercises that demonstrate the relevance of a course by making explicit its utility value [harackiewicz_closing_2016](@cite) (Asher et al., 2023; Harackiewicz et al., 2016). `TODO where is the citation for Asher?`
-
-**Systemic interventions** modify overall course structure. Some approaches that have proven effective include:
-
-- High-structure course design [freeman_increased_2011,theobald_active_2020](@cite)
-- Course-based undergraduate research experiences (CUREs) [aikens_race_2017,dolan_guide_2021,hurtado_diversifying_2009](@cite) `TODO where is the citation for espinosa?`
-
-### A framework to gauge belonging
-
-The Tripartite Integration Model of Social Influence (TIMSI) provides a framework for understanding the psychological mechanisms linking educational experiences and persistence outcomes [estrada_toward_2011](@cite). The TIMSI describes three orientations that predict persistence in STEM. 
-
-- **Scientific self-efficacy** indicates that a student feels capable of performing the actions needed to be successful in a STEM course, major, or career. 
-- **Scientific identity** indicates that a student perceives science as part of their identity and feel they belong to a scientific community. 
-- **Students internalize scientific values** when they authentically agree with the values of the scientific community, such as building new knowledge to solve global challenges, the thrill of discovery, and the importance of discourse.
-
-According to the TIMSI, each of these three factors — independently and collectively — contribute to social integration into STEM communities. Social integration (or persistence) is defined as the intent to pursue further academic or career goals in STEM, or as behaviors, such as submitting applications for graduate school.
-
-### Getting to Know Your Students
-
-`TODO wheres the data?`
-
-Who are your students? Who feels like they belong in your class or in STEM? How can you find out?
+!!! tip ""
+    #### Takeaways from Inclusive Learning
     
-You might have students…
-
-- Fill out anonymous surveys before, during, and at the end of the course with questions about scientific self-efficacy, identity, values orientation, and persistence intentions. Compare results across the semester.
-- Bring an item to class that represents how they see themselves with respect to science and discovery. 
-- Find an image online that represents what they want to get out of your course.
-- Share one thing science-related fact about their lives (favorite science fact, most science-y hobby, why they are interested in science).
-
-!!! warning "Workbook"
-
-    Complete Activity TK in your workbook: Commit to one discrete and one systemic action you could take to promote a positive sense of belonging in your course.
-
-### Connect Facets of Science with Inclusive Learning
-
-When students actively participate in the facets of science, we see:
-
-- Improved scientific self-identity and efficacy
-- Increased belonging
-- Persistence in STEM degrees and careers
-- Increased STEM accessibility for students with health conditions or impairments
-
-Positive gains for all students with additional gains for students who are members of HEC groups.
-
-These outcomes lead to diversity in the STEM workforce and and informed citizenry.
-
-Source: [estrada_toward_2011](@cite).
-
-### One Example: CUREs
-
-Course-based Undergraduate Research Experiences (CUREs) increase:
-
-- Research skills and project ownership
-- Confidence, self-efficacy, and belonging in STEM
-- Retention in STEM
-
-CUREs normalize failure by:
-
-- Teaching about scientific failures
-- Showing how to troubleshoot experiments
-- Creating opportunities to share personal failures with colleagues
-
-**Just one CURE in college can increase persistence in STEM**
-
-!!! warning "Workbook"
-
-    Complete Activity TK in your workbook: Even if you don’t teach a CURE, commit to one action you could take to ensure students engage in the facets of science.
-
-### Create Productive Failure Experiences
-
-`TODO what are links to the citations on this page?`
-
-Science is based on failure:
-
-- All engineering innovation is predicated on failed designs (Petroski 2006).
-- Failure is an expected and necessary part of learning and scientific inquiry [simpson_failure_2017](@cite).
-- Failure in science can lead to learning to iterate and solve problems (Lopatto et al., 2020; Gin, et al., 2018).
-
-Yet students may not think failure is productive:
-
-- Students conclude that classroom struggles indicate they are not cut out for science (Good et al., 2012; Koch et al., 2008).
-- Fear of failure— “cognitive and emotional reaction towards environmental stimuli that are apprehended as threats in achievement contexts” (Cacciotti, 2015).
-- Fear is antithetical to learning and creativity.
- 
-### Growth mindset opportunity!
-
-Reframe how you and your students think about the role of failure:
-
-- Instead of: *My experiment failed. I am a failure.*
-- Move toward: *What went wrong? How can I change it next time? What can I learn from it?*
-
-### Help students perceive failure as productive
-
-`TODO what are links to the citations on this page?`
-
-- Hearing only about physicists’ achievements diminished students’ interest in science; learning about their struggles enhanced students’ interest in and recall of key concepts from the course. (Hong & Lin-Siegler, 2012). 
-- “Struggle stories” increased student motivation and performance, especially among low-performing students [lin-siegler_even_2016](@cite). 
-- The “growth mindset” enables students to see a failure as an opportunity for growth rather than an assurance of further failure. (Dweck, 2006; Good et al., 2012; Canning, XX)
-
-### Failure in STEM
-
-`TODO where does this framework come from? as it is currently framed it worries me a lot`
-
-Failure is essential part of science, yet it, along with resilience, are not explicitly taught. There are two types of failure: personal and scientific. A framework can provide a path for engaging students in failing productively and developing resilience.
-
-Productive Failure Framework:
-
-Personal failure results from:
-
-- Life circumstances
-- Personal choices
-- Challenging or impossible tasks
-- Insufficient effort, practice, or training
-
-Scientific failure results from:
-
-- Technical issues in an experiment
-- Data not supporting a hypothesis
-- Idea not being accepted by peers
-
-!!! note "Activity"
-
-    Think about where students implicitly or explicitly learn about failure in your course, and identify ways they can experience productive failure.
-
-    Do students learn how to navigate personal failures and if so, how? 
-
-    What productive failure opportunities could be included in your course to mitigate negative outcomes related to personal failure?
-
-    Do students learn how to navigate scientific failures and if so, how? 
-
-    What productive failure opportunities could be included in your course to mitigate negative outcomes related to scientific failure?
-
-!!! warning "Workbook"
-
-    Complete Activity TK in your workbook: Commit to one action you could take to create a productive failure experience in your course. 
-
-## An AJEDI lexicon for inclusive learning
-
-**Antiracism:** Active efforts to reduce racism that are embodied in behaviors, actions, and policies that lead to racial equity and are substantiated by antiracist ideas. Practicing antiracism requires constantly identifying, challenging, and replacing existing racist acts and policies to foster equity between racial groups.
-
-**Justice:** A concept of fair and just relations between the individual and society. It involves ensuring that power, wealth, education, healthcare, and other opportunities are distributed fairly among individuals regardless of their background. It also means treating people of all races fairly, so that everyone has the same chances and outcomes. Achieving racial justice requires putting systems and measures in place that actively work towards equal treatment and opportunities for people of all races.
-
-**Equity:** The condition in which individuals are provided the resources they need to have access to the same opportunities as the general population. Equity accounts for systematic inequalities, meaning the distribution of resources provides more for those who need them most.
-
-**Diversity:** The myriad of ways in which people differ, including the psychological, physical, cognitive, and social differences that occur among all individuals, such as race, ethnicity, nationality, socioeconomic status, religion, education, age, gender, sexual orientation, marital status, mental and physical ability, immigration status, and learning preferences. Diversity is all-inclusive and supportive of the proposition that everyone and every group should be valued.
-
-**Inclusion:** Authentically bringing traditionally excluded individuals or groups into processes, activities, and decision- and policy-making in a manner that shares power.
-
-[lawrence2004structural,miller_ajedi_2022](@cite)
+    Identify two key takeaways that resonate most with you after completing this module.

@@ -1,17 +1,5 @@
-# - index.md
-# - intro.md
-# - inclusive.md
-# - learning.md
-# - design.md
-# - experiences.md
-# - summative.md
-# - structure.md
-# - outro.md
-# - resources.md
-# - refs.md
-# - contributing.md
-
-- index.md
+- Frontmatter:
+  - index.md
 - Part One:
   - intro.md
   - inclusive.md
@@ -22,8 +10,12 @@
   - summative.md
   - structure.md
 - Part Three:
-  - outro.md
+  - revisited.md
+  - transformation.md
+  - post.md
+  - survey.md
 - Appendix:
-  - resources.md
+  # - resources.md
+  # - lexicon.md
   - refs.md
-  - contributing.md
+  # - contributing.md
